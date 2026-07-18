@@ -5,7 +5,9 @@ export function useWebSocket(onMessageReceived: (event: any) => void) {
   const socketRef = useRef<WebSocket | null>(null);
 
   useEffect(() => {
-    const wsUrl = "ws://localhost:8000/ws";
+    const isLocal = typeof window !== "undefined" && (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1");
+    const wsProto = typeof window !== "undefined" && window.location.protocol === "https:" ? "wss:" : "ws:";
+    const wsUrl = isLocal ? "ws://localhost:8000/ws" : `${wsProto}//${window.location.host}/ws`;
     
     function connect() {
       const socket = new WebSocket(wsUrl);
