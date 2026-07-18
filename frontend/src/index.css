@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-background: #050810;
+  --color-secBg: #0B1120;
+  --color-cardBg: #111827;
+  --color-panelBg: #151D2E;
+  
+  --color-primary: #2170e4;
+  --color-secondary: #8455ef;
+  --color-success: #10B981;
+  --color-warning: #F59E0B;
+  --color-error: #ba1a1a;
+  --color-info: #06B6D4;
+  
+  --color-textPrimary: #ffffff;
+  --color-textSecondary: #c2c6d6;
+  --color-textMuted: #727785;
+  
+  --color-borderSubtle: rgba(255, 255, 255, 0.08);
+  
+  --font-sans: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  
+  --spacing-margin-desktop: 32px;
+  --spacing-gutter: 24px;
+  --spacing-margin-mobile: 16px;
+  --spacing-grid-columns: 12;
+  --spacing-base: 4px;
+}
+:root {
+  font-family: 'Inter', sans-serif;
+  color-scheme: dark;
+  background-color: #050810;
+  color: #ffffff;
+}
+
+body {
+  margin: 0;
+  background-color: #050810;
+  color: #ffffff;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar for Dark Theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #070B14;
+}
+::-webkit-scrollbar-thumb {
+  background: #151D2E;
+  border-radius: 4px;
+  border: 1px solid rgba(148, 163, 184, 0.08);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #1E293B;
+}
+
+/* Keyframe animations */
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 0.5; box-shadow: 0 0 0 0 rgba(139, 92, 246, 0.4); }
+  70% { transform: scale(1.1); opacity: 1; box-shadow: 0 0 0 12px rgba(139, 92, 246, 0); }
+  100% { transform: scale(0.8); opacity: 0.5; box-shadow: 0 0 0 0 rgba(139, 92, 246, 0); }
+}
+.ai-pulse {
+  animation: pulse-ring 2.5s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+}
+
+@keyframes flow-dash {
+  to { stroke-dashoffset: -40; }
+}
+.flow-line {
+  stroke-dasharray: 8, 4;
+  animation: flow-dash 1.2s linear infinite;
+}
+
+@keyframes signal-breath {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.15); opacity: 1; box-shadow: 0 0 20px rgba(139, 92, 246, 0.6); }
+}
+.orb-breath {
+  animation: signal-breath 3s ease-in-out infinite;
+}
+
+@keyframes glow-pulse {
+  0%, 100% { border-color: rgba(59, 130, 246, 0.25); box-shadow: 0 0 5px rgba(59, 130, 246, 0.05); }
+  50% { border-color: rgba(59, 130, 246, 0.5); box-shadow: 0 0 15px rgba(59, 130, 246, 0.2); }
+}
+.active-border-glow {
+  animation: glow-pulse 2s ease-in-out infinite;
+}
+
+/* Page entrance animations */
+@keyframes slide-up {
+  from { transform: translateY(12px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.entrance-anim {
+  animation: slide-up 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   ENHANCED CSS — Premium Utilities & Animations
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* 1. Card Hover Lift Effect */
+.card-hover {
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(59, 130, 246, 0.1);
+}
+
+/* 2. Staggered Entrance Animation for Grid Children */
+.stagger-children > * {
+  opacity: 0;
+  animation: slide-up 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+.stagger-children > *:nth-child(1) { animation-delay: 0.05s; }
+.stagger-children > *:nth-child(2) { animation-delay: 0.1s; }
+.stagger-children > *:nth-child(3) { animation-delay: 0.15s; }
+.stagger-children > *:nth-child(4) { animation-delay: 0.2s; }
+.stagger-children > *:nth-child(5) { animation-delay: 0.25s; }
+.stagger-children > *:nth-child(6) { animation-delay: 0.3s; }
+.stagger-children > *:nth-child(7) { animation-delay: 0.35s; }
+.stagger-children > *:nth-child(8) { animation-delay: 0.4s; }
+
+/* 3. Shimmer Loading Skeleton */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, #111827 25%, #1E293B 50%, #111827 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  border-radius: 8px;
+}
+
+/* 4. Text Glow Utilities */
+.text-glow-sm {
+  text-shadow: 0 0 8px rgba(59, 130, 246, 0.4);
+}
+.text-glow-md {
+  text-shadow: 0 0 12px rgba(59, 130, 246, 0.5), 0 0 4px rgba(59, 130, 246, 0.3);
+}
+.text-glow-purple {
+  text-shadow: 0 0 12px rgba(139, 92, 246, 0.5), 0 0 4px rgba(139, 92, 246, 0.3);
+}
+
+/* 5. Progress Bar Animation */
+@keyframes progress-fill {
+  from { width: 0; }
+}
+.progress-bar {
+  height: 6px;
+  border-radius: 3px;
+  background: linear-gradient(90deg, #3B82F6, #8B5CF6);
+  animation: progress-fill 1s ease-out forwards;
+}
+.progress-bar-success {
+  background: linear-gradient(90deg, #10B981, #06B6D4);
+}
+.progress-bar-warning {
+  background: linear-gradient(90deg, #F59E0B, #EF4444);
+}
+
+/* 6. Gradient Border Animation */
+@keyframes gradient-border {
+  0% { border-color: rgba(59, 130, 246, 0.3); }
+  50% { border-color: rgba(139, 92, 246, 0.5); }
+  100% { border-color: rgba(59, 130, 246, 0.3); }
+}
+.gradient-border-anim {
+  animation: gradient-border 3s ease-in-out infinite;
+}
+
+/* 7. Modal & Backdrop Entrance */
+@keyframes modal-in {
+  from { opacity: 0; transform: scale(0.95) translateY(10px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+.modal-entrance {
+  animation: modal-in 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+@keyframes backdrop-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.backdrop-entrance {
+  animation: backdrop-in 0.2s ease forwards;
+}
+
+/* 8. Custom Range Slider */
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  background: #151D2E;
+  border-radius: 3px;
+  outline: none;
+}
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3B82F6, #8B5CF6);
+  cursor: pointer;
+  border: 2px solid #070B14;
+  box-shadow: 0 0 10px rgba(59, 130, 246, 0.4);
+  transition: transform 0.15s ease;
+}
+input[type='range']::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+}
+input[type='range']::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3B82F6, #8B5CF6);
+  cursor: pointer;
+  border: 2px solid #070B14;
+  box-shadow: 0 0 10px rgba(59, 130, 246, 0.4);
+}
+
+/* 9. Shake Animation */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-4px); }
+  40% { transform: translateX(4px); }
+  60% { transform: translateX(-3px); }
+  80% { transform: translateX(3px); }
+}
+.animate-shake {
+  animation: shake 0.4s ease-in-out;
+}
+
+/* 10. Fade-In Utility */
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.animate-fade-in {
+  animation: fade-in 0.3s ease forwards;
+}
+
+/* 11. Status Dot Pulse */
+.status-dot {
+  position: relative;
+}
+.status-dot::after {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border-radius: 50%;
+  animation: pulse-ring 2s ease-in-out infinite;
+}
+
+/* 12. Gauge Ring Animation */
+@keyframes gauge-fill {
+  from { stroke-dashoffset: 283; }
+}
+.gauge-ring {
+  animation: gauge-fill 1.5s ease-out forwards;
+}
+
+/* 13. Glassmorphism Card Utility */
+.glass-card {
+  background: rgba(11, 17, 32, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(148, 163, 184, 0.08);
+}
+
+/* 14. Recharts Tooltip Styling */
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  background: #111827 !important;
+  border: 1px solid rgba(148, 163, 184, 0.12) !important;
+  border-radius: 12px !important;
+  padding: 10px 14px !important;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4) !important;
+}
+.recharts-tooltip-wrapper .recharts-tooltip-label {
+  color: #F8FAFC !important;
+  font-weight: 700 !important;
+  font-size: 11px !important;
+}
+.recharts-tooltip-wrapper .recharts-tooltip-item {
+  color: #94A3B8 !important;
+  font-size: 11px !important;
+}

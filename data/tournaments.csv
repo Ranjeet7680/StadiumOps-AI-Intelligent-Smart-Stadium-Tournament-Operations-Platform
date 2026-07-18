@@ -1,0 +1,6 @@
+tournament_id,name,sport,start_date,end_date,format,status
+1,Indian Premier League 2026,Cricket,2026-03-20,2026-05-26,Group and Knockout,Ongoing
+2,ICC Men's T20 World Cup 2026,Cricket,2026-06-01,2026-06-29,Group and Knockout,Completed
+3,Super Soccer Cup 2026,Football,2026-08-15,2026-09-20,Knockout,Upcoming
+4,Legends Kabaddi League 2026,Kabaddi,2026-10-01,2026-11-15,League,Upcoming
+5,National Athletic Meet 2026,Athletics,2026-12-05,2026-12-12,League,Upcoming

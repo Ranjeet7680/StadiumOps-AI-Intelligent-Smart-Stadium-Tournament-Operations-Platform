@@ -1,0 +1,1001 @@
+incident_id,timestamp,stadium_id,zone_id,incident_type,severity,description,reported_by,ai_detected,ai_confidence,assigned_team,response_time_minutes,resolution_time_minutes,status
+1,2026-04-02T04:43:00,3,34,Crowd,High,Congestion near turnstiles,Spectator App,True,0.89,Crowd Control Team 1,2,47,Resolved
+2,2026-04-03T00:13:00,1,3,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,14,71,Verified
+3,2026-04-06T05:15:00,3,35,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,True,0.87,Maintenance Crew Red,7,102,Assigned
+4,2026-04-02T10:15:00,1,4,Facility,Medium,Floodlight panel flickering,Gate Supervisor,False,0.0,First Aid Squad A,29,59,Monitoring
+5,2026-04-07T13:10:00,3,39,Medical,Low,Dehydration in stand,Spectator App,True,0.83,Crowd Control Team 1,27,36,Responding
+6,2026-04-03T13:37:00,1,8,Medical,Low,Visitor complaining of chest pain,Spectator App,True,0.9,Security Patrol Beta,13,50,Verified
+7,2026-04-05T21:24:00,2,26,Weather,Medium,Reported weather event details logged by staff,Steward #1402,True,0.98,Fire Dispatch,13,105,Monitoring
+8,2026-04-04T08:58:00,1,9,Crowd,Low,Congestion near turnstiles,Sensor Node AI,True,0.81,Security Patrol Beta,11,38,Assigned
+9,2026-04-03T09:53:00,3,31,Crowd,Low,Stairwell bottlenecks developing,Sensor Node AI,True,0.93,Fire Dispatch,24,100,Assigned
+10,2026-04-08T09:48:00,3,33,Ticket Fraud,Critical,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.87,Security Patrol Beta,3,27,Reported
+11,2026-04-06T22:35:00,3,38,Facility,Low,Escalator 2 stopped operating,Spectator App,True,0.93,Security Patrol Beta,25,33,Reported
+12,2026-04-07T01:00:00,1,8,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,True,0.88,Security Patrol Beta,15,25,Assigned
+13,2026-04-02T07:45:00,1,14,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,24,36,Assigned
+14,2026-04-06T13:50:00,2,23,Medical,Medium,Sprained ankle on steps,Sensor Node AI,False,0.0,Guest Services Team,14,116,Reported
+15,2026-04-02T23:16:00,3,36,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,26,25,Verified
+16,2026-04-05T08:19:00,2,27,Crowd,Medium,Slow moving crowd blockages,Gate Supervisor,False,0.0,Guest Services Team,26,40,Resolved
+17,2026-04-07T21:47:00,1,8,Facility,Low,Floodlight panel flickering,CCTV Video Analytics,True,0.82,Fire Dispatch,6,90,Resolved
+18,2026-04-01T22:45:00,2,23,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,False,0.0,Fire Dispatch,13,63,Monitoring
+19,2026-04-04T10:33:00,1,11,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.95,Maintenance Crew Red,14,80,Responding
+20,2026-04-01T15:09:00,1,6,Facility,High,Escalator 2 stopped operating,Steward #1402,False,0.0,Guest Services Team,2,44,Responding
+21,2026-04-05T19:36:00,2,19,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.78,Maintenance Crew Red,23,101,Reported
+22,2026-04-02T15:46:00,1,8,Crowd,Low,Gate rush attempts,Spectator App,True,0.74,Guest Services Team,10,109,Resolved
+23,2026-04-07T16:35:00,3,40,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,True,0.89,Guest Services Team,8,87,Responding
+24,2026-04-08T08:18:00,1,12,Crowd,Low,Congestion near turnstiles,Steward #1402,True,0.8,Maintenance Crew Red,19,63,Assigned
+25,2026-04-02T14:51:00,1,6,Missing Person,Medium,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.72,First Aid Squad A,20,68,Closed
+26,2026-04-08T02:51:00,1,5,Fire,Low,Trash bin smoldering,Steward #1402,False,0.0,Fire Dispatch,28,84,Closed
+27,2026-04-03T11:02:00,3,33,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,True,0.78,Security Patrol Beta,18,101,Assigned
+28,2026-04-05T03:26:00,1,11,Weather,Medium,Reported weather event details logged by staff,Gate Supervisor,False,0.0,Crowd Control Team 1,17,113,Assigned
+29,2026-04-08T08:40:00,2,29,Fire,High,Heat alarm triggered in generator room,Spectator App,False,0.0,Security Patrol Beta,9,90,Verified
+30,2026-04-03T11:49:00,3,37,Medical,Medium,Minor cuts and bruises,Sensor Node AI,True,0.87,Fire Dispatch,10,23,Closed
+31,2026-04-07T21:43:00,1,1,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.75,Crowd Control Team 1,21,49,Reported
+32,2026-04-06T05:26:00,2,17,Crowd,Low,Congestion near turnstiles,Sensor Node AI,True,0.77,Crowd Control Team 1,17,22,Resolved
+33,2026-04-04T00:02:00,2,20,Ticket Fraud,Critical,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Fire Dispatch,5,25,Monitoring
+34,2026-04-06T20:29:00,2,19,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,True,0.82,First Aid Squad A,29,28,Verified
+35,2026-04-04T02:43:00,2,30,Crowd,Critical,Gate rush attempts,CCTV Video Analytics,False,0.0,First Aid Squad A,5,29,Reported
+36,2026-04-03T13:06:00,2,24,Weather,Low,Reported weather event details logged by staff,Steward #1402,True,0.78,Crowd Control Team 1,6,20,Closed
+37,2026-04-06T01:42:00,2,29,Security,Medium,Verbal alteration between fans,Gate Supervisor,True,0.82,Security Patrol Beta,29,84,Responding
+38,2026-04-05T04:27:00,1,4,Medical,High,Visitor complaining of chest pain,Steward #1402,True,0.74,Crowd Control Team 1,9,113,Closed
+39,2026-04-02T10:06:00,1,5,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.91,First Aid Squad A,9,15,Responding
+40,2026-04-02T22:00:00,2,17,Facility,Critical,Floodlight panel flickering,Sensor Node AI,False,0.0,Security Patrol Beta,7,27,Responding
+41,2026-04-05T22:46:00,2,23,Weather,Medium,Reported weather event details logged by staff,Spectator App,True,0.97,Crowd Control Team 1,13,111,Responding
+42,2026-04-03T09:23:00,2,24,Security,Low,Unruly fan behavior reported,Spectator App,False,0.0,Guest Services Team,9,50,Verified
+43,2026-04-05T01:43:00,2,28,Facility,Low,Escalator 2 stopped operating,Gate Supervisor,False,0.0,Security Patrol Beta,26,81,Closed
+44,2026-04-03T15:23:00,2,22,Facility,Medium,Escalator 2 stopped operating,Steward #1402,False,0.0,Fire Dispatch,28,63,Monitoring
+45,2026-04-04T23:30:00,1,6,Fire,Low,Smoke detected near food court kitchen,Sensor Node AI,False,0.0,Security Patrol Beta,22,17,Assigned
+46,2026-04-04T18:45:00,1,14,Crowd,Low,Stairwell bottlenecks developing,Steward #1402,False,0.0,Guest Services Team,16,46,Assigned
+47,2026-04-03T21:57:00,1,15,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,True,0.89,Guest Services Team,7,106,Closed
+48,2026-04-02T04:59:00,2,22,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,True,0.75,Security Patrol Beta,16,85,Reported
+49,2026-04-06T08:07:00,1,5,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Security Patrol Beta,18,113,Closed
+50,2026-04-06T05:54:00,1,11,Facility,Low,HVAC failure in West box,Spectator App,True,0.89,First Aid Squad A,16,48,Responding
+51,2026-04-08T00:54:00,2,17,Medical,Low,Visitor complaining of chest pain,Sensor Node AI,True,0.82,First Aid Squad A,26,65,Responding
+52,2026-04-01T17:35:00,3,31,Missing Person,Medium,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.71,Guest Services Team,12,60,Monitoring
+53,2026-04-07T16:16:00,2,19,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,16,65,Monitoring
+54,2026-04-01T13:50:00,1,10,Crowd,Low,Slow moving crowd blockages,Gate Supervisor,True,0.94,Fire Dispatch,18,48,Verified
+55,2026-04-04T06:06:00,1,4,Facility,Low,Water pipe leak in washroom B,Steward #1402,False,0.0,Fire Dispatch,15,82,Monitoring
+56,2026-04-04T01:09:00,1,7,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,False,0.0,Guest Services Team,11,32,Assigned
+57,2026-04-06T04:55:00,2,28,Medical,Medium,Minor cuts and bruises,CCTV Video Analytics,False,0.0,Security Patrol Beta,17,77,Verified
+58,2026-04-01T13:28:00,1,6,Medical,Low,Minor cuts and bruises,Steward #1402,False,0.0,Maintenance Crew Red,13,89,Monitoring
+59,2026-04-05T16:33:00,3,35,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Fire Dispatch,29,16,Verified
+60,2026-04-05T11:58:00,3,32,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Spectator App,True,0.84,Crowd Control Team 1,17,116,Assigned
+61,2026-04-07T23:26:00,1,16,Facility,Medium,Floodlight panel flickering,Gate Supervisor,True,0.77,First Aid Squad A,20,30,Responding
+62,2026-04-02T20:51:00,1,16,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,Guest Services Team,13,78,Monitoring
+63,2026-04-04T13:17:00,3,37,Medical,Low,Minor cuts and bruises,Sensor Node AI,False,0.0,Fire Dispatch,6,101,Verified
+64,2026-04-04T16:55:00,3,39,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,20,51,Reported
+65,2026-04-07T12:54:00,3,35,Crowd,Low,Congestion near turnstiles,CCTV Video Analytics,False,0.0,Guest Services Team,26,76,Assigned
+66,2026-04-04T13:09:00,2,24,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,True,0.88,Security Patrol Beta,30,58,Responding
+67,2026-04-06T18:51:00,1,1,Weather,Low,Reported weather event details logged by staff,Steward #1402,True,0.8,First Aid Squad A,18,96,Verified
+68,2026-04-07T10:21:00,1,1,Facility,Low,Escalator 2 stopped operating,Steward #1402,True,0.9,Guest Services Team,12,43,Responding
+69,2026-04-06T00:47:00,3,36,Security,Medium,Unauthorized restricted zone access,Spectator App,True,0.95,Fire Dispatch,21,118,Closed
+70,2026-04-02T16:02:00,1,10,Fire,Low,Small electrical spark in junction box,CCTV Video Analytics,True,0.77,Crowd Control Team 1,17,106,Responding
+71,2026-04-01T20:21:00,2,20,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,10,55,Monitoring
+72,2026-04-06T13:09:00,3,31,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,9,110,Resolved
+73,2026-04-01T21:57:00,2,19,Facility,Medium,Escalator 2 stopped operating,CCTV Video Analytics,False,0.0,Fire Dispatch,22,36,Closed
+74,2026-04-01T19:26:00,3,34,Medical,High,Dehydration in stand,CCTV Video Analytics,True,0.74,Crowd Control Team 1,8,89,Monitoring
+75,2026-04-02T10:41:00,2,27,Fire,Low,Trash bin smoldering,CCTV Video Analytics,True,0.91,Fire Dispatch,22,103,Closed
+76,2026-04-01T22:45:00,2,19,Medical,Low,Sprained ankle on steps,Sensor Node AI,True,0.86,Maintenance Crew Red,21,81,Responding
+77,2026-04-04T09:40:00,2,20,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,False,0.0,Crowd Control Team 1,12,67,Closed
+78,2026-04-05T01:12:00,1,9,Facility,Low,Water pipe leak in washroom B,Steward #1402,False,0.0,First Aid Squad A,25,54,Responding
+79,2026-04-07T02:25:00,1,9,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.87,Guest Services Team,25,96,Monitoring
+80,2026-04-08T03:04:00,2,25,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.78,Fire Dispatch,16,100,Reported
+81,2026-04-08T05:59:00,1,8,Fire,Low,Small electrical spark in junction box,CCTV Video Analytics,True,0.93,Guest Services Team,18,25,Responding
+82,2026-04-07T23:27:00,2,21,Facility,Low,Water pipe leak in washroom B,Spectator App,False,0.0,Security Patrol Beta,30,82,Reported
+83,2026-04-05T23:01:00,2,22,Crowd,Medium,Gate rush attempts,CCTV Video Analytics,False,0.0,First Aid Squad A,7,111,Monitoring
+84,2026-04-03T16:01:00,3,35,Fire,Medium,Heat alarm triggered in generator room,Steward #1402,True,0.73,Maintenance Crew Red,29,41,Closed
+85,2026-04-04T16:54:00,2,21,Medical,Medium,Sprained ankle on steps,Gate Supervisor,True,0.81,Fire Dispatch,7,119,Monitoring
+86,2026-04-06T13:56:00,2,18,Medical,Low,Sprained ankle on steps,Sensor Node AI,True,0.7,Fire Dispatch,11,28,Responding
+87,2026-04-05T15:44:00,1,16,Crowd,Low,Congestion near turnstiles,Gate Supervisor,False,0.0,Maintenance Crew Red,23,98,Reported
+88,2026-04-06T03:41:00,3,32,Weather,Medium,Reported weather event details logged by staff,Sensor Node AI,True,0.77,Fire Dispatch,29,25,Reported
+89,2026-04-03T01:57:00,1,1,Security,Low,Verbal alteration between fans,Steward #1402,True,0.94,First Aid Squad A,23,99,Responding
+90,2026-04-04T07:41:00,3,31,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,24,75,Resolved
+91,2026-04-04T07:55:00,1,5,Security,Low,Unruly fan behavior reported,Steward #1402,False,0.0,First Aid Squad A,5,56,Monitoring
+92,2026-04-02T17:16:00,1,16,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,27,105,Verified
+93,2026-04-02T14:27:00,1,2,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Guest Services Team,29,105,Responding
+94,2026-04-07T17:03:00,1,13,Fire,Low,Small electrical spark in junction box,Spectator App,True,0.76,First Aid Squad A,26,29,Verified
+95,2026-04-01T12:47:00,2,27,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Crowd Control Team 1,11,38,Closed
+96,2026-04-01T20:22:00,2,17,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,20,67,Closed
+97,2026-04-05T16:32:00,2,22,Security,Low,Verbal alteration between fans,Gate Supervisor,False,0.0,Crowd Control Team 1,24,69,Verified
+98,2026-04-05T23:53:00,2,23,Weather,Low,Reported weather event details logged by staff,Spectator App,False,0.0,Security Patrol Beta,17,60,Reported
+99,2026-04-05T10:20:00,1,2,Crowd,Medium,Stairwell bottlenecks developing,Steward #1402,True,0.81,Crowd Control Team 1,12,99,Responding
+100,2026-04-01T14:01:00,1,10,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,16,112,Reported
+101,2026-04-03T00:21:00,1,10,Missing Person,Medium,Reported missing person event details logged by staff,Gate Supervisor,True,0.72,Maintenance Crew Red,14,17,Verified
+102,2026-04-01T22:21:00,1,4,Facility,Medium,Escalator 2 stopped operating,Steward #1402,False,0.0,First Aid Squad A,13,96,Resolved
+103,2026-04-06T21:21:00,1,2,Medical,Low,Visitor complaining of chest pain,Spectator App,True,0.93,First Aid Squad A,28,54,Responding
+104,2026-04-03T20:06:00,2,22,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.85,First Aid Squad A,26,19,Resolved
+105,2026-04-07T20:28:00,2,19,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,True,0.75,First Aid Squad A,11,82,Assigned
+106,2026-04-06T06:33:00,1,9,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,True,0.71,Fire Dispatch,6,85,Responding
+107,2026-04-02T11:58:00,2,28,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.85,First Aid Squad A,20,94,Assigned
+108,2026-04-03T06:12:00,3,38,Security,Low,Unruly fan behavior reported,CCTV Video Analytics,True,0.92,Guest Services Team,24,82,Closed
+109,2026-04-02T14:37:00,1,14,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Crowd Control Team 1,17,96,Monitoring
+110,2026-04-07T03:03:00,2,25,Facility,Low,Escalator 2 stopped operating,Spectator App,False,0.0,First Aid Squad A,12,81,Verified
+111,2026-04-05T13:43:00,1,7,Fire,Critical,Smoke detected near food court kitchen,Sensor Node AI,True,0.92,Maintenance Crew Red,3,17,Verified
+112,2026-04-08T04:56:00,2,20,Facility,Medium,Floodlight panel flickering,Spectator App,False,0.0,Guest Services Team,28,26,Resolved
+113,2026-04-04T00:01:00,2,18,Missing Person,Medium,Reported missing person event details logged by staff,Spectator App,False,0.0,Security Patrol Beta,30,43,Assigned
+114,2026-04-05T12:50:00,2,18,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,18,78,Closed
+115,2026-04-05T16:26:00,2,28,Facility,Low,Escalator 2 stopped operating,Spectator App,True,0.93,Crowd Control Team 1,15,31,Verified
+116,2026-04-02T20:29:00,2,20,Security,Medium,Unauthorized restricted zone access,CCTV Video Analytics,False,0.0,Maintenance Crew Red,11,51,Verified
+117,2026-04-04T10:55:00,1,10,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,8,22,Verified
+118,2026-04-05T15:47:00,1,12,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Guest Services Team,5,46,Resolved
+119,2026-04-04T20:33:00,3,39,Medical,Low,Sprained ankle on steps,Gate Supervisor,True,0.75,Guest Services Team,29,118,Responding
+120,2026-04-02T10:13:00,3,40,Suspicious Activity,High,Reported suspicious activity event details logged by staff,Steward #1402,True,0.95,Fire Dispatch,10,108,Assigned
+121,2026-04-02T06:25:00,1,16,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,30,23,Reported
+122,2026-04-04T23:38:00,3,33,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,False,0.0,First Aid Squad A,19,51,Resolved
+123,2026-04-05T10:02:00,2,19,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.78,Fire Dispatch,21,120,Closed
+124,2026-04-02T01:51:00,1,2,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Crowd Control Team 1,24,91,Reported
+125,2026-04-08T02:19:00,1,1,Fire,Critical,Heat alarm triggered in generator room,Sensor Node AI,False,0.0,Guest Services Team,10,33,Assigned
+126,2026-04-03T09:02:00,1,13,Medical,Medium,Heat exhaustion reported,Steward #1402,False,0.0,First Aid Squad A,8,57,Responding
+127,2026-04-05T16:24:00,2,30,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Crowd Control Team 1,19,77,Reported
+128,2026-04-05T13:23:00,3,38,Medical,Medium,Sprained ankle on steps,Gate Supervisor,False,0.0,Maintenance Crew Red,7,45,Resolved
+129,2026-04-06T09:18:00,1,3,Fire,Low,Trash bin smoldering,Gate Supervisor,False,0.0,Maintenance Crew Red,23,103,Resolved
+130,2026-04-02T15:40:00,1,15,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,Guest Services Team,25,116,Resolved
+131,2026-04-05T21:44:00,3,31,Medical,Medium,Dehydration in stand,Steward #1402,False,0.0,Crowd Control Team 1,26,48,Responding
+132,2026-04-05T07:28:00,1,2,Medical,Medium,Heat exhaustion reported,Gate Supervisor,True,0.84,Fire Dispatch,12,96,Verified
+133,2026-04-01T22:03:00,1,9,Security,Low,Unruly fan behavior reported,Sensor Node AI,True,0.93,Maintenance Crew Red,11,108,Resolved
+134,2026-04-03T01:51:00,2,17,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.7,Fire Dispatch,13,114,Closed
+135,2026-04-02T01:04:00,1,11,Facility,Low,Floodlight panel flickering,Sensor Node AI,False,0.0,Maintenance Crew Red,17,68,Responding
+136,2026-04-05T05:07:00,1,5,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Steward #1402,True,0.94,Guest Services Team,5,108,Assigned
+137,2026-04-03T20:01:00,2,18,Medical,Low,Visitor complaining of chest pain,Sensor Node AI,True,0.92,Crowd Control Team 1,14,17,Closed
+138,2026-04-03T16:57:00,1,14,Weather,Low,Reported weather event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,9,38,Assigned
+139,2026-04-03T11:48:00,2,30,Medical,High,Heat exhaustion reported,Spectator App,True,0.87,First Aid Squad A,5,65,Resolved
+140,2026-04-03T08:26:00,1,7,Medical,High,Minor cuts and bruises,Gate Supervisor,False,0.0,First Aid Squad A,10,63,Assigned
+141,2026-04-05T22:33:00,2,24,Weather,Medium,Reported weather event details logged by staff,Sensor Node AI,True,0.9,Maintenance Crew Red,5,116,Responding
+142,2026-04-06T15:49:00,2,20,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.91,Security Patrol Beta,12,93,Resolved
+143,2026-04-05T04:56:00,2,29,Missing Person,Medium,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,13,75,Assigned
+144,2026-04-03T02:42:00,1,8,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,First Aid Squad A,23,37,Reported
+145,2026-04-06T02:39:00,1,11,Facility,Medium,HVAC failure in West box,Gate Supervisor,True,0.88,Crowd Control Team 1,27,46,Resolved
+146,2026-04-03T20:16:00,3,39,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Steward #1402,True,0.75,Maintenance Crew Red,26,39,Reported
+147,2026-04-07T12:17:00,1,12,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,True,0.95,Security Patrol Beta,6,26,Verified
+148,2026-04-07T08:02:00,3,39,Crowd,High,Slow moving crowd blockages,Gate Supervisor,False,0.0,Guest Services Team,6,84,Monitoring
+149,2026-04-05T02:41:00,3,39,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Gate Supervisor,False,0.0,Fire Dispatch,21,97,Closed
+150,2026-04-03T06:04:00,2,19,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.77,Security Patrol Beta,20,109,Reported
+151,2026-04-01T16:15:00,2,26,Facility,Low,Water pipe leak in washroom B,Steward #1402,False,0.0,Security Patrol Beta,25,115,Responding
+152,2026-04-04T14:39:00,3,35,Security,Low,Tailgating at outer perimeter,Steward #1402,True,0.86,First Aid Squad A,19,38,Verified
+153,2026-04-06T19:49:00,1,14,Medical,Low,Sprained ankle on steps,Sensor Node AI,False,0.0,Crowd Control Team 1,7,120,Verified
+154,2026-04-04T17:41:00,1,15,Crowd,Low,Congestion near turnstiles,Spectator App,True,0.83,Crowd Control Team 1,17,66,Reported
+155,2026-04-05T05:43:00,2,30,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Security Patrol Beta,18,56,Responding
+156,2026-04-05T11:44:00,1,12,Facility,Low,Floodlight panel flickering,Gate Supervisor,False,0.0,Crowd Control Team 1,25,109,Reported
+157,2026-04-06T22:02:00,1,9,Crowd,Low,Slow moving crowd blockages,Steward #1402,True,0.75,Maintenance Crew Red,10,26,Assigned
+158,2026-04-05T15:35:00,1,3,Crowd,Low,Gate rush attempts,CCTV Video Analytics,False,0.0,First Aid Squad A,9,83,Resolved
+159,2026-04-04T10:15:00,2,28,Ticket Fraud,Critical,Reported ticket fraud event details logged by staff,Steward #1402,True,0.75,First Aid Squad A,2,10,Responding
+160,2026-04-06T19:37:00,1,1,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,Security Patrol Beta,26,24,Resolved
+161,2026-04-05T01:47:00,3,37,Medical,Medium,Sprained ankle on steps,Gate Supervisor,False,0.0,Crowd Control Team 1,30,24,Verified
+162,2026-04-02T11:17:00,2,19,Medical,Low,Minor cuts and bruises,Gate Supervisor,True,0.95,Maintenance Crew Red,14,21,Resolved
+163,2026-04-06T02:12:00,1,11,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.81,Crowd Control Team 1,9,26,Reported
+164,2026-04-07T00:06:00,3,37,Medical,Low,Visitor complaining of chest pain,Steward #1402,False,0.0,First Aid Squad A,10,96,Closed
+165,2026-04-02T10:47:00,2,18,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,29,57,Responding
+166,2026-04-05T15:37:00,2,18,Fire,Low,Heat alarm triggered in generator room,Spectator App,True,0.77,Guest Services Team,22,32,Verified
+167,2026-04-05T17:27:00,3,39,Facility,Medium,Water pipe leak in washroom B,Spectator App,True,0.91,First Aid Squad A,14,104,Responding
+168,2026-04-06T01:33:00,2,22,Ticket Fraud,High,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,First Aid Squad A,2,111,Assigned
+169,2026-04-05T23:37:00,1,13,Facility,Low,HVAC failure in West box,Spectator App,False,0.0,Guest Services Team,18,21,Monitoring
+170,2026-04-05T02:13:00,2,20,Fire,Low,Smoke detected near food court kitchen,Steward #1402,False,0.0,Guest Services Team,27,104,Assigned
+171,2026-04-04T03:53:00,1,2,Medical,Low,Sprained ankle on steps,CCTV Video Analytics,False,0.0,Security Patrol Beta,10,90,Verified
+172,2026-04-04T21:52:00,3,32,Medical,Medium,Heat exhaustion reported,Spectator App,True,0.78,Fire Dispatch,5,27,Reported
+173,2026-04-02T15:00:00,1,7,Facility,Medium,HVAC failure in West box,Steward #1402,True,0.97,Security Patrol Beta,17,62,Monitoring
+174,2026-04-04T15:54:00,1,16,Medical,Low,Visitor complaining of chest pain,CCTV Video Analytics,True,0.97,Security Patrol Beta,20,24,Responding
+175,2026-04-03T06:17:00,1,2,Medical,Low,Visitor complaining of chest pain,CCTV Video Analytics,True,0.88,Security Patrol Beta,28,27,Verified
+176,2026-04-01T19:14:00,2,29,Missing Person,Medium,Reported missing person event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,5,110,Verified
+177,2026-04-07T23:55:00,2,18,Fire,Low,Small electrical spark in junction box,Steward #1402,False,0.0,First Aid Squad A,12,80,Verified
+178,2026-04-06T18:19:00,2,21,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Spectator App,True,0.74,Security Patrol Beta,5,113,Verified
+179,2026-04-07T10:34:00,1,4,Medical,Low,Dehydration in stand,Spectator App,True,0.79,First Aid Squad A,17,67,Closed
+180,2026-04-06T22:23:00,2,27,Fire,Low,Small electrical spark in junction box,Steward #1402,True,0.86,Fire Dispatch,9,50,Resolved
+181,2026-04-04T02:37:00,1,1,Fire,Critical,Smoke detected near food court kitchen,Spectator App,True,0.98,Maintenance Crew Red,7,33,Verified
+182,2026-04-02T14:13:00,2,20,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,First Aid Squad A,8,51,Reported
+183,2026-04-07T21:12:00,3,34,Security,Low,Verbal alteration between fans,Gate Supervisor,True,0.86,First Aid Squad A,24,51,Closed
+184,2026-04-02T17:04:00,3,35,Facility,Low,Floodlight panel flickering,Gate Supervisor,False,0.0,Guest Services Team,12,32,Responding
+185,2026-04-02T12:58:00,2,29,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,10,95,Assigned
+186,2026-04-06T13:54:00,2,20,Security,Medium,Unauthorized restricted zone access,Steward #1402,True,0.96,Guest Services Team,18,26,Monitoring
+187,2026-04-04T03:53:00,3,33,Medical,Low,Sprained ankle on steps,Steward #1402,False,0.0,Maintenance Crew Red,16,91,Monitoring
+188,2026-04-06T07:11:00,2,28,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Crowd Control Team 1,18,104,Monitoring
+189,2026-04-06T00:10:00,3,38,Facility,Medium,HVAC failure in West box,Gate Supervisor,True,0.94,First Aid Squad A,23,104,Monitoring
+190,2026-04-08T06:50:00,1,14,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Gate Supervisor,False,0.0,Crowd Control Team 1,10,107,Closed
+191,2026-04-07T22:47:00,1,16,Crowd,Medium,Gate rush attempts,CCTV Video Analytics,True,0.83,Fire Dispatch,13,110,Closed
+192,2026-04-06T00:01:00,2,19,Crowd,Low,Slow moving crowd blockages,CCTV Video Analytics,True,0.9,Crowd Control Team 1,15,104,Resolved
+193,2026-04-06T23:06:00,1,1,Security,Medium,Unauthorized restricted zone access,Spectator App,False,0.0,Crowd Control Team 1,21,94,Monitoring
+194,2026-04-02T22:18:00,3,36,Missing Person,Medium,Reported missing person event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,7,69,Closed
+195,2026-04-01T13:28:00,3,39,Ticket Fraud,Critical,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.73,Guest Services Team,6,41,Responding
+196,2026-04-06T09:15:00,1,12,Security,Low,Unruly fan behavior reported,Gate Supervisor,True,0.83,First Aid Squad A,13,57,Reported
+197,2026-04-07T17:11:00,1,15,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Maintenance Crew Red,9,75,Reported
+198,2026-04-06T16:57:00,3,40,Crowd,Medium,Gate rush attempts,Sensor Node AI,True,0.94,First Aid Squad A,29,60,Closed
+199,2026-04-02T20:28:00,1,6,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,23,16,Monitoring
+200,2026-04-08T01:15:00,1,14,Facility,Low,Escalator 2 stopped operating,Gate Supervisor,True,0.94,Fire Dispatch,18,74,Assigned
+201,2026-04-02T16:36:00,3,33,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.91,Fire Dispatch,25,33,Resolved
+202,2026-04-07T07:16:00,2,23,Facility,Low,Floodlight panel flickering,CCTV Video Analytics,True,0.87,Security Patrol Beta,26,81,Assigned
+203,2026-04-01T18:13:00,1,15,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,True,0.96,Crowd Control Team 1,21,93,Reported
+204,2026-04-08T08:12:00,3,40,Medical,Low,Heat exhaustion reported,Gate Supervisor,True,0.94,Crowd Control Team 1,5,74,Assigned
+205,2026-04-04T23:40:00,3,38,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,5,107,Responding
+206,2026-04-08T05:54:00,3,40,Crowd,Medium,Slow moving crowd blockages,CCTV Video Analytics,True,0.89,Crowd Control Team 1,7,87,Monitoring
+207,2026-04-02T09:43:00,2,17,Security,Low,Tailgating at outer perimeter,CCTV Video Analytics,False,0.0,Crowd Control Team 1,28,40,Resolved
+208,2026-04-04T15:11:00,2,17,Facility,Critical,Water pipe leak in washroom B,Sensor Node AI,True,0.93,Guest Services Team,7,19,Responding
+209,2026-04-06T01:51:00,3,40,Facility,Low,HVAC failure in West box,Sensor Node AI,False,0.0,Guest Services Team,29,52,Monitoring
+210,2026-04-02T20:45:00,1,15,Medical,High,Visitor complaining of chest pain,Gate Supervisor,False,0.0,Fire Dispatch,9,60,Resolved
+211,2026-04-03T02:13:00,1,16,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,23,62,Monitoring
+212,2026-04-04T23:12:00,1,3,Security,High,Tailgating at outer perimeter,Steward #1402,True,0.76,Security Patrol Beta,2,84,Resolved
+213,2026-04-06T09:02:00,2,28,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,False,0.0,Security Patrol Beta,14,41,Reported
+214,2026-04-04T03:30:00,2,18,Crowd,Low,Slow moving crowd blockages,Spectator App,True,0.75,Fire Dispatch,5,37,Closed
+215,2026-04-05T00:07:00,2,29,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.8,Crowd Control Team 1,15,59,Monitoring
+216,2026-04-05T18:22:00,2,22,Crowd,Low,Congestion near turnstiles,Sensor Node AI,False,0.0,Crowd Control Team 1,28,120,Reported
+217,2026-04-06T03:29:00,1,11,Security,Low,Unauthorized restricted zone access,Steward #1402,True,0.92,Guest Services Team,27,30,Assigned
+218,2026-04-05T10:25:00,2,27,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,True,0.97,Security Patrol Beta,25,75,Assigned
+219,2026-04-05T19:50:00,2,28,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Fire Dispatch,19,92,Reported
+220,2026-04-03T19:36:00,1,1,Crowd,Medium,Gate rush attempts,Gate Supervisor,True,0.74,Crowd Control Team 1,15,110,Responding
+221,2026-04-07T16:15:00,2,28,Medical,High,Dehydration in stand,Spectator App,False,0.0,Fire Dispatch,2,108,Reported
+222,2026-04-05T09:09:00,2,19,Fire,Low,Heat alarm triggered in generator room,Gate Supervisor,False,0.0,Crowd Control Team 1,22,114,Verified
+223,2026-04-05T13:12:00,3,36,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,CCTV Video Analytics,True,0.85,Maintenance Crew Red,10,91,Assigned
+224,2026-04-03T09:53:00,3,32,Missing Person,High,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,8,19,Resolved
+225,2026-04-07T05:12:00,1,15,Security,Low,Unruly fan behavior reported,Sensor Node AI,False,0.0,Security Patrol Beta,30,53,Responding
+226,2026-04-05T23:20:00,1,1,Crowd,Low,Stairwell bottlenecks developing,Sensor Node AI,True,0.8,Crowd Control Team 1,6,78,Responding
+227,2026-04-07T00:33:00,2,17,Facility,Critical,Escalator 2 stopped operating,Spectator App,True,0.84,Maintenance Crew Red,8,27,Assigned
+228,2026-04-05T15:48:00,1,3,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,First Aid Squad A,22,66,Reported
+229,2026-04-04T14:59:00,1,5,Facility,Low,Floodlight panel flickering,Sensor Node AI,False,0.0,First Aid Squad A,13,53,Reported
+230,2026-04-06T14:23:00,1,7,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.88,Guest Services Team,15,31,Responding
+231,2026-04-02T15:57:00,1,12,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Spectator App,True,0.77,Crowd Control Team 1,17,85,Closed
+232,2026-04-08T10:07:00,2,21,Crowd,Medium,Slow moving crowd blockages,Spectator App,False,0.0,Maintenance Crew Red,22,54,Monitoring
+233,2026-04-07T17:57:00,1,4,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,True,0.84,Guest Services Team,5,70,Closed
+234,2026-04-04T18:25:00,2,24,Medical,Medium,Visitor complaining of chest pain,Steward #1402,False,0.0,Security Patrol Beta,20,66,Responding
+235,2026-04-04T21:13:00,2,24,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,15,33,Verified
+236,2026-04-06T22:23:00,2,17,Fire,Low,Heat alarm triggered in generator room,Gate Supervisor,False,0.0,Crowd Control Team 1,30,25,Responding
+237,2026-04-06T19:07:00,2,26,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,True,0.97,Guest Services Team,24,72,Resolved
+238,2026-04-05T15:09:00,2,23,Fire,Medium,Small electrical spark in junction box,CCTV Video Analytics,True,0.81,Guest Services Team,9,80,Responding
+239,2026-04-04T00:42:00,3,34,Medical,Low,Dehydration in stand,CCTV Video Analytics,True,0.82,Crowd Control Team 1,5,46,Resolved
+240,2026-04-02T17:31:00,1,11,Security,Medium,Unruly fan behavior reported,Gate Supervisor,False,0.0,Security Patrol Beta,15,33,Assigned
+241,2026-04-03T01:05:00,2,17,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.96,Fire Dispatch,9,111,Verified
+242,2026-04-02T13:13:00,1,3,Security,Low,Verbal alteration between fans,Gate Supervisor,True,0.81,Fire Dispatch,27,89,Responding
+243,2026-04-01T14:22:00,2,30,Facility,Low,Water pipe leak in washroom B,CCTV Video Analytics,True,0.95,Maintenance Crew Red,8,38,Verified
+244,2026-04-07T16:08:00,1,1,Medical,Low,Minor cuts and bruises,Steward #1402,False,0.0,Fire Dispatch,20,65,Closed
+245,2026-04-02T08:42:00,1,5,Security,Medium,Tailgating at outer perimeter,Spectator App,True,0.86,Crowd Control Team 1,21,66,Responding
+246,2026-04-06T08:33:00,3,37,Weather,Medium,Reported weather event details logged by staff,Sensor Node AI,True,0.77,Security Patrol Beta,27,115,Monitoring
+247,2026-04-01T15:57:00,2,28,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,5,99,Verified
+248,2026-04-02T14:29:00,3,33,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.89,Guest Services Team,5,117,Responding
+249,2026-04-02T21:36:00,2,21,Medical,Medium,Visitor complaining of chest pain,Spectator App,True,0.84,Fire Dispatch,24,58,Verified
+250,2026-04-03T14:04:00,1,12,Weather,Medium,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,First Aid Squad A,29,59,Responding
+251,2026-04-01T12:31:00,2,19,Medical,Low,Sprained ankle on steps,Spectator App,True,0.7,Fire Dispatch,16,60,Responding
+252,2026-04-07T00:41:00,2,28,Medical,Low,Heat exhaustion reported,Spectator App,True,0.92,Crowd Control Team 1,23,23,Responding
+253,2026-04-02T21:14:00,3,35,Weather,Medium,Reported weather event details logged by staff,CCTV Video Analytics,True,0.85,First Aid Squad A,21,99,Assigned
+254,2026-04-04T19:33:00,1,1,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.86,Security Patrol Beta,22,69,Responding
+255,2026-04-03T08:58:00,2,28,Facility,Medium,Escalator 2 stopped operating,Steward #1402,False,0.0,Maintenance Crew Red,29,21,Verified
+256,2026-04-01T16:54:00,2,28,Facility,Low,Escalator 2 stopped operating,Steward #1402,False,0.0,First Aid Squad A,22,42,Verified
+257,2026-04-07T19:15:00,3,37,Suspicious Activity,High,Reported suspicious activity event details logged by staff,Spectator App,True,0.96,Fire Dispatch,7,28,Resolved
+258,2026-04-02T20:09:00,1,10,Fire,High,Smoke detected near food court kitchen,Gate Supervisor,True,0.89,Guest Services Team,6,37,Monitoring
+259,2026-04-03T00:27:00,1,13,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.77,Crowd Control Team 1,22,56,Assigned
+260,2026-04-05T01:13:00,1,2,Crowd,Low,Stairwell bottlenecks developing,Spectator App,True,0.83,Security Patrol Beta,25,57,Closed
+261,2026-04-04T05:12:00,2,29,Security,Low,Verbal alteration between fans,Sensor Node AI,True,0.83,Fire Dispatch,12,69,Resolved
+262,2026-04-07T12:37:00,3,35,Security,Medium,Unruly fan behavior reported,Steward #1402,False,0.0,Crowd Control Team 1,20,90,Verified
+263,2026-04-04T16:02:00,2,21,Crowd,Low,Stairwell bottlenecks developing,Steward #1402,False,0.0,Crowd Control Team 1,22,60,Assigned
+264,2026-04-04T00:27:00,2,21,Security,Medium,Unauthorized restricted zone access,CCTV Video Analytics,False,0.0,Maintenance Crew Red,14,76,Assigned
+265,2026-04-05T02:31:00,1,4,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.8,Fire Dispatch,17,93,Monitoring
+266,2026-04-04T14:42:00,2,18,Missing Person,Medium,Reported missing person event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,11,37,Responding
+267,2026-04-07T16:20:00,1,10,Security,Medium,Unruly fan behavior reported,CCTV Video Analytics,False,0.0,Guest Services Team,6,63,Reported
+268,2026-04-05T02:19:00,1,16,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,6,46,Responding
+269,2026-04-04T11:15:00,2,19,Fire,Medium,Trash bin smoldering,CCTV Video Analytics,False,0.0,Fire Dispatch,26,111,Monitoring
+270,2026-04-03T02:13:00,2,30,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,True,0.87,Guest Services Team,14,84,Assigned
+271,2026-04-03T09:14:00,1,13,Crowd,Low,Congestion near turnstiles,CCTV Video Analytics,False,0.0,Fire Dispatch,8,92,Responding
+272,2026-04-08T02:10:00,1,16,Suspicious Activity,Critical,Reported suspicious activity event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,10,37,Reported
+273,2026-04-08T04:10:00,3,32,Fire,Medium,Trash bin smoldering,Sensor Node AI,False,0.0,Crowd Control Team 1,8,60,Responding
+274,2026-04-05T10:35:00,3,35,Fire,Low,Small electrical spark in junction box,Steward #1402,True,0.78,Crowd Control Team 1,18,104,Reported
+275,2026-04-07T19:39:00,3,39,Facility,Medium,HVAC failure in West box,CCTV Video Analytics,True,0.72,Guest Services Team,20,68,Assigned
+276,2026-04-08T02:17:00,3,38,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.86,Maintenance Crew Red,18,89,Reported
+277,2026-04-02T06:31:00,2,20,Medical,Low,Dehydration in stand,Sensor Node AI,True,0.79,Security Patrol Beta,7,88,Reported
+278,2026-04-07T12:39:00,1,9,Medical,Medium,Heat exhaustion reported,Spectator App,False,0.0,First Aid Squad A,19,91,Resolved
+279,2026-04-05T10:02:00,1,14,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.83,Crowd Control Team 1,12,38,Assigned
+280,2026-04-01T20:13:00,1,1,Security,Medium,Unauthorized restricted zone access,Spectator App,False,0.0,Crowd Control Team 1,12,111,Verified
+281,2026-04-07T19:46:00,1,12,Fire,Low,Heat alarm triggered in generator room,CCTV Video Analytics,True,0.86,Fire Dispatch,24,79,Monitoring
+282,2026-04-07T05:54:00,1,9,Weather,Low,Reported weather event details logged by staff,Steward #1402,True,0.81,Guest Services Team,6,68,Closed
+283,2026-04-05T07:23:00,1,16,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.92,First Aid Squad A,27,79,Responding
+284,2026-04-03T16:57:00,2,17,Fire,Low,Heat alarm triggered in generator room,Gate Supervisor,False,0.0,Crowd Control Team 1,24,75,Verified
+285,2026-04-01T19:39:00,3,36,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,Maintenance Crew Red,28,48,Responding
+286,2026-04-06T11:47:00,1,13,Medical,Low,Sprained ankle on steps,Steward #1402,True,0.93,Crowd Control Team 1,6,45,Closed
+287,2026-04-07T14:36:00,1,12,Weather,Low,Reported weather event details logged by staff,Steward #1402,False,0.0,Security Patrol Beta,7,54,Assigned
+288,2026-04-04T17:00:00,2,25,Crowd,Low,Stairwell bottlenecks developing,Gate Supervisor,False,0.0,Security Patrol Beta,15,39,Resolved
+289,2026-04-07T10:01:00,1,9,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.82,First Aid Squad A,28,73,Monitoring
+290,2026-04-02T00:19:00,2,22,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,26,72,Assigned
+291,2026-04-06T14:59:00,2,29,Facility,Low,Water pipe leak in washroom B,Spectator App,False,0.0,Maintenance Crew Red,9,31,Responding
+292,2026-04-08T08:55:00,2,19,Security,Medium,Unauthorized restricted zone access,Spectator App,False,0.0,Maintenance Crew Red,27,118,Closed
+293,2026-04-04T04:23:00,1,12,Fire,Low,Smoke detected near food court kitchen,Gate Supervisor,True,0.72,Crowd Control Team 1,28,50,Assigned
+294,2026-04-07T19:40:00,3,33,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,False,0.0,Guest Services Team,22,30,Closed
+295,2026-04-08T01:10:00,2,19,Crowd,Medium,Gate rush attempts,Gate Supervisor,False,0.0,Crowd Control Team 1,14,116,Responding
+296,2026-04-02T13:41:00,1,13,Security,Low,Tailgating at outer perimeter,CCTV Video Analytics,False,0.0,Maintenance Crew Red,20,74,Reported
+297,2026-04-07T15:38:00,2,20,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,20,44,Assigned
+298,2026-04-07T12:38:00,2,21,Fire,Low,Trash bin smoldering,CCTV Video Analytics,False,0.0,Maintenance Crew Red,23,89,Responding
+299,2026-04-02T05:39:00,2,29,Medical,Low,Minor cuts and bruises,Gate Supervisor,False,0.0,Security Patrol Beta,17,108,Monitoring
+300,2026-04-07T19:02:00,1,6,Crowd,Low,Stairwell bottlenecks developing,CCTV Video Analytics,False,0.0,Security Patrol Beta,11,76,Verified
+301,2026-04-01T13:47:00,2,26,Fire,Low,Smoke detected near food court kitchen,Gate Supervisor,False,0.0,Fire Dispatch,18,21,Reported
+302,2026-04-03T02:17:00,1,8,Medical,High,Minor cuts and bruises,Gate Supervisor,False,0.0,Guest Services Team,5,63,Responding
+303,2026-04-06T05:30:00,3,38,Missing Person,Medium,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,6,20,Verified
+304,2026-04-05T18:53:00,2,26,Facility,Low,Escalator 2 stopped operating,Sensor Node AI,False,0.0,Crowd Control Team 1,15,24,Assigned
+305,2026-04-03T21:36:00,3,39,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,13,35,Resolved
+306,2026-04-08T09:44:00,2,28,Security,High,Unruly fan behavior reported,Steward #1402,False,0.0,Security Patrol Beta,6,118,Resolved
+307,2026-04-01T13:10:00,2,20,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Gate Supervisor,False,0.0,Security Patrol Beta,17,120,Reported
+308,2026-04-04T04:04:00,2,22,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,True,0.73,Maintenance Crew Red,28,96,Resolved
+309,2026-04-07T11:55:00,3,38,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,True,0.92,Maintenance Crew Red,22,120,Verified
+310,2026-04-03T07:08:00,2,25,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,True,0.94,First Aid Squad A,6,93,Closed
+311,2026-04-06T14:51:00,2,20,Facility,High,Water pipe leak in washroom B,Steward #1402,False,0.0,Fire Dispatch,10,90,Responding
+312,2026-04-03T21:50:00,2,26,Security,Low,Unruly fan behavior reported,Sensor Node AI,True,0.86,Fire Dispatch,7,116,Closed
+313,2026-04-01T15:10:00,3,37,Weather,Low,Reported weather event details logged by staff,Steward #1402,True,0.74,First Aid Squad A,13,60,Verified
+314,2026-04-04T08:49:00,3,33,Security,Low,Unauthorized restricted zone access,CCTV Video Analytics,True,0.74,First Aid Squad A,10,18,Resolved
+315,2026-04-06T11:51:00,1,7,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.82,Fire Dispatch,23,107,Responding
+316,2026-04-04T14:17:00,3,31,Medical,Medium,Sprained ankle on steps,CCTV Video Analytics,True,0.73,Crowd Control Team 1,22,115,Reported
+317,2026-04-07T18:30:00,1,10,Security,Low,Unauthorized restricted zone access,Spectator App,False,0.0,Guest Services Team,15,109,Monitoring
+318,2026-04-02T04:51:00,2,26,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Fire Dispatch,17,92,Closed
+319,2026-04-05T20:42:00,2,21,Crowd,Low,Congestion near turnstiles,Steward #1402,True,0.81,Maintenance Crew Red,23,60,Monitoring
+320,2026-04-02T00:10:00,3,34,Crowd,Low,Slow moving crowd blockages,Spectator App,True,0.97,Security Patrol Beta,13,20,Reported
+321,2026-04-07T20:52:00,3,32,Weather,Low,Reported weather event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,19,59,Monitoring
+322,2026-04-07T05:48:00,2,21,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,Crowd Control Team 1,7,26,Responding
+323,2026-04-04T00:49:00,1,6,Weather,Low,Reported weather event details logged by staff,Spectator App,False,0.0,Security Patrol Beta,8,55,Reported
+324,2026-04-01T20:24:00,3,31,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,True,0.93,Security Patrol Beta,29,78,Monitoring
+325,2026-04-03T16:44:00,2,26,Fire,Low,Small electrical spark in junction box,Gate Supervisor,True,0.95,Fire Dispatch,25,87,Resolved
+326,2026-04-03T21:36:00,3,31,Crowd,Low,Gate rush attempts,Gate Supervisor,False,0.0,Security Patrol Beta,6,84,Monitoring
+327,2026-04-07T15:15:00,3,32,Missing Person,Medium,Reported missing person event details logged by staff,Steward #1402,True,0.92,First Aid Squad A,25,18,Verified
+328,2026-04-06T02:36:00,1,16,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,27,97,Verified
+329,2026-04-07T22:15:00,1,14,Security,Low,Unauthorized restricted zone access,Gate Supervisor,True,0.93,First Aid Squad A,18,43,Assigned
+330,2026-04-03T20:04:00,2,24,Weather,Medium,Reported weather event details logged by staff,Sensor Node AI,True,0.94,First Aid Squad A,5,28,Resolved
+331,2026-04-03T04:45:00,1,11,Fire,Low,Heat alarm triggered in generator room,Gate Supervisor,True,0.86,Crowd Control Team 1,28,57,Verified
+332,2026-04-06T20:02:00,1,2,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Security Patrol Beta,8,118,Resolved
+333,2026-04-08T06:57:00,1,16,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,True,0.84,Maintenance Crew Red,24,111,Assigned
+334,2026-04-02T04:59:00,2,24,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.73,Fire Dispatch,7,88,Verified
+335,2026-04-05T12:56:00,3,39,Crowd,Low,Congestion near turnstiles,Sensor Node AI,True,0.78,Guest Services Team,30,87,Monitoring
+336,2026-04-07T12:25:00,2,23,Security,Medium,Verbal alteration between fans,Gate Supervisor,True,0.9,First Aid Squad A,10,102,Verified
+337,2026-04-05T07:13:00,1,6,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Guest Services Team,14,31,Verified
+338,2026-04-07T16:15:00,1,14,Medical,Low,Sprained ankle on steps,Spectator App,False,0.0,First Aid Squad A,10,108,Assigned
+339,2026-04-03T15:41:00,1,10,Missing Person,High,Reported missing person event details logged by staff,Gate Supervisor,True,0.71,Security Patrol Beta,4,103,Monitoring
+340,2026-04-04T23:20:00,2,24,Crowd,Low,Slow moving crowd blockages,Gate Supervisor,False,0.0,Fire Dispatch,11,27,Verified
+341,2026-04-06T06:35:00,1,1,Facility,Medium,Floodlight panel flickering,CCTV Video Analytics,False,0.0,Guest Services Team,19,82,Responding
+342,2026-04-07T10:52:00,1,9,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.75,Security Patrol Beta,10,54,Verified
+343,2026-04-07T15:28:00,1,7,Crowd,Medium,Congestion near turnstiles,Spectator App,True,0.79,Fire Dispatch,26,119,Responding
+344,2026-04-05T10:09:00,1,15,Security,Low,Verbal alteration between fans,Spectator App,False,0.0,Maintenance Crew Red,20,70,Monitoring
+345,2026-04-03T22:09:00,2,18,Weather,Low,Reported weather event details logged by staff,Steward #1402,False,0.0,Crowd Control Team 1,23,117,Verified
+346,2026-04-07T23:21:00,1,13,Crowd,Low,Congestion near turnstiles,Steward #1402,True,0.91,Fire Dispatch,12,115,Responding
+347,2026-04-02T08:31:00,1,12,Fire,Medium,Smoke detected near food court kitchen,Spectator App,True,0.93,Fire Dispatch,6,55,Assigned
+348,2026-04-05T10:14:00,1,6,Facility,Low,Floodlight panel flickering,CCTV Video Analytics,True,0.73,Crowd Control Team 1,18,86,Reported
+349,2026-04-07T15:04:00,3,33,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,5,53,Closed
+350,2026-04-05T06:33:00,2,30,Medical,Low,Minor cuts and bruises,Gate Supervisor,True,0.72,Maintenance Crew Red,16,42,Monitoring
+351,2026-04-05T17:55:00,2,29,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,True,0.8,Crowd Control Team 1,27,115,Verified
+352,2026-04-02T18:16:00,1,13,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.79,First Aid Squad A,25,84,Resolved
+353,2026-04-05T09:11:00,3,37,Medical,Low,Minor cuts and bruises,Steward #1402,False,0.0,First Aid Squad A,18,119,Resolved
+354,2026-04-04T12:13:00,1,7,Missing Person,Medium,Reported missing person event details logged by staff,Spectator App,True,0.96,Fire Dispatch,15,74,Resolved
+355,2026-04-07T10:07:00,3,37,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,5,27,Resolved
+356,2026-04-03T17:53:00,1,14,Missing Person,Medium,Reported missing person event details logged by staff,Gate Supervisor,True,0.76,Maintenance Crew Red,11,94,Reported
+357,2026-04-04T07:57:00,1,3,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,False,0.0,Guest Services Team,28,49,Resolved
+358,2026-04-02T12:23:00,3,36,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Crowd Control Team 1,6,120,Monitoring
+359,2026-04-04T13:26:00,1,11,Fire,Medium,Heat alarm triggered in generator room,Steward #1402,True,0.87,Crowd Control Team 1,16,115,Reported
+360,2026-04-04T21:58:00,2,23,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,15,55,Responding
+361,2026-04-04T17:23:00,2,24,Fire,Low,Trash bin smoldering,Steward #1402,True,0.83,Fire Dispatch,10,39,Verified
+362,2026-04-02T06:47:00,3,38,Fire,Medium,Smoke detected near food court kitchen,Gate Supervisor,True,0.93,Fire Dispatch,5,96,Closed
+363,2026-04-05T06:08:00,2,28,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,True,0.74,Fire Dispatch,22,112,Resolved
+364,2026-04-04T01:34:00,2,23,Fire,High,Heat alarm triggered in generator room,Gate Supervisor,False,0.0,Security Patrol Beta,4,55,Closed
+365,2026-04-02T23:09:00,2,17,Crowd,Low,Slow moving crowd blockages,Sensor Node AI,True,0.78,First Aid Squad A,30,103,Assigned
+366,2026-04-05T07:59:00,3,34,Weather,Medium,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,17,60,Monitoring
+367,2026-04-04T23:36:00,1,14,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Security Patrol Beta,22,118,Closed
+368,2026-04-03T01:38:00,2,23,Crowd,Medium,Stairwell bottlenecks developing,Steward #1402,True,0.83,Security Patrol Beta,5,18,Assigned
+369,2026-04-06T01:01:00,1,13,Security,Low,Tailgating at outer perimeter,Steward #1402,False,0.0,Crowd Control Team 1,11,56,Monitoring
+370,2026-04-06T23:54:00,3,39,Missing Person,High,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.73,Security Patrol Beta,3,78,Responding
+371,2026-04-06T13:35:00,1,3,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Crowd Control Team 1,12,93,Resolved
+372,2026-04-05T23:40:00,1,12,Facility,High,Escalator 2 stopped operating,Steward #1402,True,0.88,Crowd Control Team 1,4,103,Reported
+373,2026-04-05T10:03:00,2,17,Facility,Low,Floodlight panel flickering,Sensor Node AI,False,0.0,Crowd Control Team 1,8,64,Verified
+374,2026-04-07T11:04:00,3,36,Security,Critical,Tailgating at outer perimeter,Spectator App,True,0.91,Security Patrol Beta,3,43,Reported
+375,2026-04-01T21:08:00,3,34,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,True,0.72,First Aid Squad A,14,110,Closed
+376,2026-04-06T17:36:00,1,13,Weather,High,Reported weather event details logged by staff,Sensor Node AI,True,0.98,Guest Services Team,5,37,Reported
+377,2026-04-01T23:18:00,2,28,Medical,High,Heat exhaustion reported,Sensor Node AI,True,0.83,Crowd Control Team 1,6,44,Reported
+378,2026-04-05T00:25:00,1,12,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,True,0.81,Guest Services Team,20,54,Assigned
+379,2026-04-05T21:31:00,1,9,Crowd,Low,Congestion near turnstiles,CCTV Video Analytics,True,0.82,Crowd Control Team 1,29,87,Resolved
+380,2026-04-01T14:20:00,2,28,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,True,0.89,Crowd Control Team 1,12,30,Closed
+381,2026-04-02T10:56:00,1,1,Crowd,Low,Gate rush attempts,CCTV Video Analytics,False,0.0,First Aid Squad A,15,100,Reported
+382,2026-04-02T01:24:00,1,2,Fire,Medium,Smoke detected near food court kitchen,Sensor Node AI,False,0.0,Guest Services Team,5,86,Responding
+383,2026-04-05T12:22:00,3,40,Crowd,Medium,Gate rush attempts,Spectator App,True,0.95,Maintenance Crew Red,26,47,Resolved
+384,2026-04-05T15:49:00,2,30,Crowd,Low,Slow moving crowd blockages,Spectator App,False,0.0,Security Patrol Beta,26,89,Responding
+385,2026-04-03T20:13:00,1,16,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Crowd Control Team 1,27,33,Resolved
+386,2026-04-06T12:44:00,1,16,Security,High,Unruly fan behavior reported,Sensor Node AI,False,0.0,Crowd Control Team 1,3,31,Reported
+387,2026-04-01T16:27:00,3,36,Facility,High,HVAC failure in West box,Spectator App,False,0.0,First Aid Squad A,6,31,Closed
+388,2026-04-05T00:42:00,1,7,Crowd,High,Congestion near turnstiles,Sensor Node AI,False,0.0,Crowd Control Team 1,6,66,Resolved
+389,2026-04-02T03:54:00,1,15,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,True,0.84,Security Patrol Beta,14,23,Closed
+390,2026-04-04T20:00:00,2,17,Crowd,High,Congestion near turnstiles,Gate Supervisor,False,0.0,Crowd Control Team 1,2,68,Monitoring
+391,2026-04-04T20:44:00,2,22,Facility,Low,Escalator 2 stopped operating,CCTV Video Analytics,False,0.0,First Aid Squad A,13,73,Verified
+392,2026-04-07T07:38:00,2,23,Security,Low,Verbal alteration between fans,Steward #1402,True,0.76,Crowd Control Team 1,18,51,Verified
+393,2026-04-02T08:58:00,1,5,Fire,Medium,Trash bin smoldering,Sensor Node AI,False,0.0,Crowd Control Team 1,30,45,Assigned
+394,2026-04-07T22:02:00,2,17,Medical,High,Sprained ankle on steps,Gate Supervisor,False,0.0,Guest Services Team,7,44,Reported
+395,2026-04-08T06:09:00,1,9,Medical,Low,Heat exhaustion reported,Gate Supervisor,True,0.97,Security Patrol Beta,7,69,Reported
+396,2026-04-03T12:01:00,1,3,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,True,0.83,Fire Dispatch,28,31,Monitoring
+397,2026-04-03T20:19:00,3,40,Crowd,Medium,Slow moving crowd blockages,Steward #1402,True,0.95,Crowd Control Team 1,10,71,Monitoring
+398,2026-04-06T08:41:00,1,9,Medical,High,Minor cuts and bruises,Sensor Node AI,True,0.88,Guest Services Team,8,56,Closed
+399,2026-04-07T05:57:00,3,40,Weather,Medium,Reported weather event details logged by staff,Gate Supervisor,False,0.0,Maintenance Crew Red,12,99,Closed
+400,2026-04-02T05:35:00,3,40,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.93,Security Patrol Beta,8,41,Closed
+401,2026-04-08T10:03:00,3,31,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,27,33,Monitoring
+402,2026-04-05T23:27:00,2,30,Security,Medium,Unauthorized restricted zone access,Gate Supervisor,False,0.0,Guest Services Team,27,72,Resolved
+403,2026-04-08T08:13:00,1,16,Crowd,Low,Gate rush attempts,CCTV Video Analytics,True,0.8,Guest Services Team,17,44,Resolved
+404,2026-04-03T13:05:00,2,30,Facility,Critical,HVAC failure in West box,Gate Supervisor,True,0.86,Fire Dispatch,9,45,Resolved
+405,2026-04-05T08:54:00,2,21,Crowd,Medium,Slow moving crowd blockages,Gate Supervisor,False,0.0,Fire Dispatch,23,75,Resolved
+406,2026-04-08T04:38:00,1,11,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,Fire Dispatch,22,40,Responding
+407,2026-04-05T13:46:00,1,10,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.72,First Aid Squad A,10,58,Resolved
+408,2026-04-01T14:07:00,2,27,Fire,High,Heat alarm triggered in generator room,Spectator App,True,0.79,Security Patrol Beta,6,39,Resolved
+409,2026-04-04T11:54:00,2,18,Weather,High,Reported weather event details logged by staff,Sensor Node AI,False,0.0,Security Patrol Beta,7,54,Assigned
+410,2026-04-04T16:17:00,3,37,Crowd,High,Gate rush attempts,Gate Supervisor,False,0.0,Guest Services Team,7,16,Resolved
+411,2026-04-05T04:04:00,2,17,Security,Low,Unruly fan behavior reported,Gate Supervisor,False,0.0,Guest Services Team,25,110,Verified
+412,2026-04-05T14:49:00,1,14,Weather,Medium,Reported weather event details logged by staff,Spectator App,True,0.92,Maintenance Crew Red,15,46,Responding
+413,2026-04-07T10:19:00,1,7,Crowd,Low,Congestion near turnstiles,Steward #1402,True,0.96,Security Patrol Beta,12,39,Resolved
+414,2026-04-04T21:31:00,1,6,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,11,118,Resolved
+415,2026-04-06T03:51:00,1,11,Facility,Low,Water pipe leak in washroom B,CCTV Video Analytics,False,0.0,Guest Services Team,25,56,Reported
+416,2026-04-03T05:19:00,3,39,Security,Low,Unauthorized restricted zone access,CCTV Video Analytics,True,0.85,Guest Services Team,27,53,Assigned
+417,2026-04-01T23:26:00,2,19,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,True,0.81,First Aid Squad A,5,41,Verified
+418,2026-04-04T22:05:00,1,13,Fire,Medium,Small electrical spark in junction box,Spectator App,False,0.0,Security Patrol Beta,15,67,Verified
+419,2026-04-07T20:25:00,3,32,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,True,0.91,Crowd Control Team 1,20,33,Resolved
+420,2026-04-03T07:45:00,3,39,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.95,Maintenance Crew Red,6,113,Reported
+421,2026-04-01T21:57:00,2,29,Medical,High,Sprained ankle on steps,Spectator App,False,0.0,Security Patrol Beta,10,75,Closed
+422,2026-04-06T03:21:00,1,5,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.89,First Aid Squad A,2,69,Reported
+423,2026-04-03T16:09:00,2,17,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.96,Crowd Control Team 1,25,98,Responding
+424,2026-04-06T03:24:00,1,16,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,21,120,Assigned
+425,2026-04-07T19:02:00,1,1,Security,Low,Tailgating at outer perimeter,CCTV Video Analytics,False,0.0,Maintenance Crew Red,13,24,Resolved
+426,2026-04-06T04:19:00,2,21,Security,Low,Unruly fan behavior reported,Sensor Node AI,False,0.0,Crowd Control Team 1,11,55,Reported
+427,2026-04-05T15:38:00,2,26,Security,Low,Unauthorized restricted zone access,Steward #1402,True,0.75,Fire Dispatch,9,75,Resolved
+428,2026-04-03T12:10:00,3,40,Medical,Critical,Visitor complaining of chest pain,Sensor Node AI,False,0.0,Fire Dispatch,8,10,Assigned
+429,2026-04-03T01:06:00,1,8,Fire,Medium,Small electrical spark in junction box,Steward #1402,True,0.83,Fire Dispatch,27,55,Assigned
+430,2026-04-04T19:52:00,1,11,Suspicious Activity,Critical,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,6,35,Monitoring
+431,2026-04-07T06:36:00,2,28,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,11,83,Closed
+432,2026-04-05T21:26:00,1,11,Security,Low,Verbal alteration between fans,Steward #1402,True,0.96,Maintenance Crew Red,12,23,Closed
+433,2026-04-07T08:22:00,3,40,Weather,Critical,Reported weather event details logged by staff,Steward #1402,False,0.0,Crowd Control Team 1,3,42,Reported
+434,2026-04-03T13:15:00,1,7,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,True,0.76,Fire Dispatch,18,34,Assigned
+435,2026-04-02T05:22:00,1,12,Missing Person,Medium,Reported missing person event details logged by staff,Sensor Node AI,False,0.0,Crowd Control Team 1,24,34,Reported
+436,2026-04-02T17:56:00,1,1,Facility,Low,Water pipe leak in washroom B,Sensor Node AI,True,0.96,Crowd Control Team 1,20,47,Closed
+437,2026-04-07T05:57:00,3,35,Weather,Medium,Reported weather event details logged by staff,Spectator App,True,0.79,Maintenance Crew Red,15,100,Verified
+438,2026-04-06T09:57:00,2,24,Medical,Medium,Minor cuts and bruises,Sensor Node AI,True,0.71,First Aid Squad A,5,90,Verified
+439,2026-04-03T03:10:00,3,33,Facility,Low,Escalator 2 stopped operating,Sensor Node AI,False,0.0,Crowd Control Team 1,24,89,Assigned
+440,2026-04-02T08:32:00,2,25,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,False,0.0,Security Patrol Beta,7,50,Verified
+441,2026-04-02T01:20:00,1,1,Medical,Low,Dehydration in stand,Gate Supervisor,False,0.0,Security Patrol Beta,30,103,Assigned
+442,2026-04-03T06:01:00,2,30,Medical,Low,Dehydration in stand,Steward #1402,True,0.9,Maintenance Crew Red,28,86,Responding
+443,2026-04-02T09:34:00,1,13,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.91,Fire Dispatch,19,89,Assigned
+444,2026-04-07T11:17:00,1,9,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.79,Crowd Control Team 1,13,49,Closed
+445,2026-04-05T23:26:00,2,28,Medical,Medium,Dehydration in stand,Steward #1402,False,0.0,Maintenance Crew Red,17,113,Closed
+446,2026-04-08T01:36:00,3,35,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,False,0.0,Guest Services Team,9,79,Reported
+447,2026-04-01T17:48:00,1,9,Crowd,High,Slow moving crowd blockages,Sensor Node AI,True,0.73,First Aid Squad A,3,52,Verified
+448,2026-04-04T00:31:00,1,12,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,True,0.96,First Aid Squad A,12,54,Verified
+449,2026-04-08T06:40:00,2,28,Security,Low,Unauthorized restricted zone access,Steward #1402,False,0.0,Crowd Control Team 1,14,33,Assigned
+450,2026-04-03T18:56:00,2,20,Security,Medium,Tailgating at outer perimeter,CCTV Video Analytics,True,0.97,Guest Services Team,7,46,Responding
+451,2026-04-07T02:07:00,3,39,Medical,Medium,Visitor complaining of chest pain,Spectator App,False,0.0,Guest Services Team,20,48,Responding
+452,2026-04-03T08:02:00,2,23,Security,Medium,Tailgating at outer perimeter,Gate Supervisor,False,0.0,Fire Dispatch,7,106,Assigned
+453,2026-04-08T00:53:00,2,30,Fire,Low,Small electrical spark in junction box,Steward #1402,True,0.74,Security Patrol Beta,6,48,Assigned
+454,2026-04-06T19:59:00,1,15,Security,Medium,Tailgating at outer perimeter,Steward #1402,False,0.0,Maintenance Crew Red,6,64,Reported
+455,2026-04-03T07:22:00,3,40,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.79,First Aid Squad A,29,68,Verified
+456,2026-04-03T02:11:00,3,35,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,True,0.94,Fire Dispatch,28,45,Verified
+457,2026-04-02T05:50:00,2,21,Weather,Medium,Reported weather event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,19,74,Assigned
+458,2026-04-05T01:56:00,3,40,Crowd,Medium,Slow moving crowd blockages,Sensor Node AI,True,0.74,First Aid Squad A,12,25,Assigned
+459,2026-04-08T04:44:00,1,7,Facility,Medium,Floodlight panel flickering,Spectator App,False,0.0,Guest Services Team,14,51,Assigned
+460,2026-04-07T04:27:00,1,13,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,30,112,Closed
+461,2026-04-03T02:03:00,1,15,Medical,Low,Minor cuts and bruises,Gate Supervisor,True,0.78,Maintenance Crew Red,10,46,Reported
+462,2026-04-06T14:41:00,3,35,Facility,High,HVAC failure in West box,Sensor Node AI,True,0.86,Fire Dispatch,9,65,Reported
+463,2026-04-04T02:56:00,1,11,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.75,Security Patrol Beta,10,40,Assigned
+464,2026-04-02T20:35:00,1,2,Facility,Low,HVAC failure in West box,Gate Supervisor,False,0.0,Security Patrol Beta,13,92,Closed
+465,2026-04-04T00:14:00,2,18,Fire,Low,Heat alarm triggered in generator room,CCTV Video Analytics,False,0.0,Guest Services Team,7,114,Resolved
+466,2026-04-07T17:11:00,2,27,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,24,100,Verified
+467,2026-04-05T10:54:00,2,29,Facility,Low,HVAC failure in West box,Sensor Node AI,False,0.0,First Aid Squad A,23,29,Verified
+468,2026-04-06T07:46:00,2,17,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Maintenance Crew Red,13,56,Resolved
+469,2026-04-04T22:16:00,1,4,Weather,Medium,Reported weather event details logged by staff,Sensor Node AI,False,0.0,Security Patrol Beta,17,89,Reported
+470,2026-04-07T16:34:00,3,40,Medical,Low,Minor cuts and bruises,Sensor Node AI,True,0.96,Fire Dispatch,23,37,Verified
+471,2026-04-07T07:16:00,1,5,Facility,Medium,Water pipe leak in washroom B,Spectator App,True,0.95,Security Patrol Beta,17,114,Verified
+472,2026-04-06T19:11:00,2,23,Medical,Low,Minor cuts and bruises,Sensor Node AI,True,0.86,Crowd Control Team 1,28,88,Closed
+473,2026-04-02T04:44:00,3,38,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,True,0.9,Guest Services Team,18,62,Responding
+474,2026-04-05T04:38:00,2,19,Fire,Medium,Smoke detected near food court kitchen,Gate Supervisor,True,0.92,Guest Services Team,30,84,Monitoring
+475,2026-04-05T21:30:00,1,10,Weather,Medium,Reported weather event details logged by staff,CCTV Video Analytics,True,0.93,Crowd Control Team 1,16,118,Verified
+476,2026-04-06T14:11:00,1,6,Facility,Low,Water pipe leak in washroom B,Sensor Node AI,True,0.77,Maintenance Crew Red,12,61,Assigned
+477,2026-04-01T15:17:00,1,11,Medical,Low,Dehydration in stand,Gate Supervisor,False,0.0,Crowd Control Team 1,30,113,Verified
+478,2026-04-03T16:48:00,2,23,Facility,Low,Floodlight panel flickering,Sensor Node AI,False,0.0,Guest Services Team,24,48,Responding
+479,2026-04-05T10:03:00,1,16,Fire,Medium,Heat alarm triggered in generator room,Gate Supervisor,False,0.0,Crowd Control Team 1,29,54,Closed
+480,2026-04-04T04:26:00,2,19,Facility,Critical,HVAC failure in West box,Spectator App,False,0.0,Guest Services Team,3,41,Closed
+481,2026-04-04T23:31:00,2,29,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,15,82,Responding
+482,2026-04-01T21:32:00,1,7,Medical,Medium,Minor cuts and bruises,Gate Supervisor,True,0.91,Fire Dispatch,9,73,Resolved
+483,2026-04-03T16:09:00,2,20,Security,Low,Unruly fan behavior reported,Steward #1402,False,0.0,First Aid Squad A,24,41,Monitoring
+484,2026-04-06T01:12:00,1,1,Crowd,Medium,Stairwell bottlenecks developing,Spectator App,True,0.97,Maintenance Crew Red,26,39,Closed
+485,2026-04-01T18:03:00,3,40,Facility,Medium,HVAC failure in West box,CCTV Video Analytics,False,0.0,First Aid Squad A,6,87,Reported
+486,2026-04-06T07:29:00,3,40,Medical,Low,Dehydration in stand,Gate Supervisor,False,0.0,Maintenance Crew Red,5,32,Verified
+487,2026-04-03T04:07:00,1,16,Weather,Medium,Reported weather event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,9,40,Reported
+488,2026-04-02T06:57:00,3,36,Facility,Low,Floodlight panel flickering,Spectator App,True,0.76,Guest Services Team,7,103,Reported
+489,2026-04-03T19:40:00,3,33,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,21,69,Verified
+490,2026-04-03T04:12:00,2,28,Medical,Low,Dehydration in stand,Sensor Node AI,True,0.86,Guest Services Team,7,24,Verified
+491,2026-04-08T03:20:00,3,38,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,5,73,Closed
+492,2026-04-05T00:07:00,1,15,Fire,Critical,Small electrical spark in junction box,Spectator App,False,0.0,Fire Dispatch,10,41,Reported
+493,2026-04-06T06:13:00,1,3,Security,Low,Verbal alteration between fans,Gate Supervisor,False,0.0,Guest Services Team,11,50,Verified
+494,2026-04-05T18:36:00,1,4,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.83,Crowd Control Team 1,28,102,Reported
+495,2026-04-05T20:35:00,2,29,Facility,Low,HVAC failure in West box,Spectator App,True,0.94,Fire Dispatch,22,50,Responding
+496,2026-04-02T07:58:00,1,16,Fire,High,Small electrical spark in junction box,Steward #1402,True,0.71,Fire Dispatch,5,81,Monitoring
+497,2026-04-05T19:00:00,2,19,Missing Person,Medium,Reported missing person event details logged by staff,Spectator App,False,0.0,Security Patrol Beta,25,100,Closed
+498,2026-04-07T22:34:00,1,12,Facility,Low,Escalator 2 stopped operating,Sensor Node AI,False,0.0,Guest Services Team,12,30,Resolved
+499,2026-04-04T09:10:00,2,26,Fire,Low,Small electrical spark in junction box,Sensor Node AI,False,0.0,Fire Dispatch,20,74,Reported
+500,2026-04-02T23:26:00,1,3,Suspicious Activity,High,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,5,79,Monitoring
+501,2026-04-04T11:34:00,2,19,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.9,Guest Services Team,21,40,Assigned
+502,2026-04-02T15:45:00,2,29,Security,Low,Unruly fan behavior reported,Gate Supervisor,False,0.0,Maintenance Crew Red,13,72,Assigned
+503,2026-04-02T22:21:00,3,38,Fire,Medium,Smoke detected near food court kitchen,Steward #1402,True,0.85,Fire Dispatch,18,116,Monitoring
+504,2026-04-01T13:46:00,2,20,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.81,Fire Dispatch,23,25,Verified
+505,2026-04-05T19:43:00,1,2,Missing Person,High,Reported missing person event details logged by staff,Sensor Node AI,True,0.97,Guest Services Team,7,31,Resolved
+506,2026-04-06T00:07:00,2,30,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,29,61,Resolved
+507,2026-04-02T01:26:00,1,6,Crowd,Low,Gate rush attempts,Sensor Node AI,True,0.95,Crowd Control Team 1,23,46,Monitoring
+508,2026-04-02T00:46:00,2,23,Weather,High,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,2,108,Reported
+509,2026-04-07T10:04:00,3,34,Missing Person,Medium,Reported missing person event details logged by staff,Steward #1402,True,0.9,Security Patrol Beta,26,112,Monitoring
+510,2026-04-03T04:03:00,1,1,Ticket Fraud,Critical,Reported ticket fraud event details logged by staff,Spectator App,True,0.76,Maintenance Crew Red,4,37,Verified
+511,2026-04-03T10:18:00,1,3,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,True,0.76,Fire Dispatch,26,55,Verified
+512,2026-04-05T02:17:00,2,30,Medical,High,Sprained ankle on steps,Gate Supervisor,False,0.0,Security Patrol Beta,4,76,Closed
+513,2026-04-03T16:22:00,2,24,Crowd,Low,Gate rush attempts,CCTV Video Analytics,True,0.79,Security Patrol Beta,11,73,Monitoring
+514,2026-04-03T21:01:00,3,35,Facility,Low,HVAC failure in West box,Spectator App,False,0.0,First Aid Squad A,18,107,Resolved
+515,2026-04-06T03:53:00,1,11,Crowd,Medium,Slow moving crowd blockages,Gate Supervisor,True,0.85,Maintenance Crew Red,6,79,Verified
+516,2026-04-02T09:05:00,3,35,Medical,Low,Sprained ankle on steps,Steward #1402,False,0.0,Security Patrol Beta,10,38,Assigned
+517,2026-04-03T05:33:00,3,32,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.88,Guest Services Team,17,78,Responding
+518,2026-04-06T15:14:00,2,17,Security,Medium,Verbal alteration between fans,Gate Supervisor,False,0.0,Guest Services Team,17,40,Verified
+519,2026-04-05T15:02:00,2,28,Fire,High,Heat alarm triggered in generator room,Sensor Node AI,False,0.0,First Aid Squad A,7,20,Responding
+520,2026-04-03T09:36:00,1,12,Fire,Low,Trash bin smoldering,Steward #1402,True,0.93,Maintenance Crew Red,13,76,Reported
+521,2026-04-03T03:57:00,3,36,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.74,Maintenance Crew Red,13,40,Verified
+522,2026-04-03T17:16:00,2,25,Crowd,Low,Slow moving crowd blockages,Steward #1402,False,0.0,Security Patrol Beta,30,38,Monitoring
+523,2026-04-04T11:39:00,1,9,Security,Low,Tailgating at outer perimeter,Sensor Node AI,True,0.76,Crowd Control Team 1,9,81,Closed
+524,2026-04-04T01:14:00,1,4,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.73,Security Patrol Beta,12,53,Closed
+525,2026-04-07T22:47:00,1,5,Medical,Medium,Visitor complaining of chest pain,Spectator App,True,0.87,Maintenance Crew Red,17,97,Verified
+526,2026-04-07T02:15:00,3,38,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Security Patrol Beta,28,116,Verified
+527,2026-04-06T02:28:00,3,38,Medical,Low,Visitor complaining of chest pain,CCTV Video Analytics,False,0.0,Crowd Control Team 1,5,19,Assigned
+528,2026-04-06T18:13:00,3,31,Fire,Low,Heat alarm triggered in generator room,Gate Supervisor,False,0.0,First Aid Squad A,29,47,Verified
+529,2026-04-08T09:26:00,3,40,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,True,0.75,Security Patrol Beta,8,36,Verified
+530,2026-04-04T07:25:00,3,33,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.93,Guest Services Team,30,118,Verified
+531,2026-04-02T22:55:00,1,3,Medical,Low,Minor cuts and bruises,Steward #1402,False,0.0,Guest Services Team,17,108,Resolved
+532,2026-04-01T20:19:00,2,20,Security,Low,Unauthorized restricted zone access,Gate Supervisor,False,0.0,First Aid Squad A,28,91,Monitoring
+533,2026-04-03T09:20:00,2,23,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.73,Crowd Control Team 1,19,103,Resolved
+534,2026-04-03T14:12:00,1,16,Facility,Low,Escalator 2 stopped operating,Sensor Node AI,True,0.71,First Aid Squad A,17,48,Closed
+535,2026-04-07T21:23:00,2,23,Facility,Medium,Floodlight panel flickering,Sensor Node AI,False,0.0,Crowd Control Team 1,18,76,Verified
+536,2026-04-01T16:42:00,3,33,Crowd,Low,Slow moving crowd blockages,Spectator App,True,0.85,Maintenance Crew Red,28,101,Resolved
+537,2026-04-07T21:36:00,3,39,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,14,37,Verified
+538,2026-04-08T06:12:00,1,12,Missing Person,Medium,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.97,Maintenance Crew Red,17,94,Assigned
+539,2026-04-05T11:24:00,2,21,Facility,High,Floodlight panel flickering,Sensor Node AI,False,0.0,Maintenance Crew Red,10,114,Monitoring
+540,2026-04-01T15:53:00,2,19,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.95,Security Patrol Beta,6,33,Reported
+541,2026-04-01T14:28:00,3,31,Weather,Low,Reported weather event details logged by staff,Steward #1402,False,0.0,Security Patrol Beta,19,16,Verified
+542,2026-04-04T18:33:00,3,36,Facility,Low,Floodlight panel flickering,CCTV Video Analytics,False,0.0,Fire Dispatch,25,25,Monitoring
+543,2026-04-07T14:31:00,3,40,Medical,Low,Heat exhaustion reported,CCTV Video Analytics,False,0.0,Guest Services Team,23,79,Monitoring
+544,2026-04-06T23:48:00,2,27,Crowd,Critical,Gate rush attempts,Gate Supervisor,False,0.0,Guest Services Team,4,10,Resolved
+545,2026-04-06T01:08:00,2,18,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,True,0.87,Fire Dispatch,6,54,Responding
+546,2026-04-05T09:30:00,1,1,Crowd,Medium,Slow moving crowd blockages,Steward #1402,True,0.89,Maintenance Crew Red,30,49,Verified
+547,2026-04-04T23:28:00,3,36,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.86,First Aid Squad A,14,83,Responding
+548,2026-04-01T18:07:00,3,39,Security,Medium,Verbal alteration between fans,CCTV Video Analytics,False,0.0,Fire Dispatch,16,19,Resolved
+549,2026-04-03T13:02:00,2,22,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.77,Crowd Control Team 1,14,91,Verified
+550,2026-04-06T17:51:00,1,14,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.8,Guest Services Team,16,60,Resolved
+551,2026-04-04T10:31:00,3,34,Facility,Low,Escalator 2 stopped operating,Steward #1402,False,0.0,Fire Dispatch,24,33,Responding
+552,2026-04-07T21:49:00,2,23,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.91,Security Patrol Beta,25,102,Monitoring
+553,2026-04-03T04:54:00,2,20,Medical,Low,Visitor complaining of chest pain,CCTV Video Analytics,False,0.0,Crowd Control Team 1,18,82,Resolved
+554,2026-04-04T15:56:00,1,15,Fire,Low,Trash bin smoldering,CCTV Video Analytics,True,0.72,Maintenance Crew Red,5,113,Closed
+555,2026-04-06T05:01:00,1,8,Facility,High,HVAC failure in West box,Steward #1402,False,0.0,Maintenance Crew Red,4,19,Assigned
+556,2026-04-06T08:24:00,2,22,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,False,0.0,Crowd Control Team 1,13,85,Reported
+557,2026-04-06T20:33:00,2,22,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,True,0.94,Fire Dispatch,6,24,Assigned
+558,2026-04-04T06:54:00,1,11,Weather,Medium,Reported weather event details logged by staff,Steward #1402,True,0.72,Maintenance Crew Red,17,60,Closed
+559,2026-04-04T11:39:00,2,25,Crowd,Medium,Gate rush attempts,Gate Supervisor,False,0.0,Fire Dispatch,29,74,Responding
+560,2026-04-08T01:49:00,3,38,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,Security Patrol Beta,18,15,Closed
+561,2026-04-02T18:44:00,1,3,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,True,0.82,Fire Dispatch,7,82,Monitoring
+562,2026-04-07T23:40:00,3,34,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,27,107,Verified
+563,2026-04-04T17:22:00,2,28,Crowd,Low,Stairwell bottlenecks developing,CCTV Video Analytics,True,0.72,Crowd Control Team 1,13,37,Verified
+564,2026-04-05T20:27:00,1,6,Security,High,Verbal alteration between fans,Sensor Node AI,False,0.0,First Aid Squad A,10,87,Monitoring
+565,2026-04-03T09:39:00,2,27,Missing Person,Critical,Reported missing person event details logged by staff,Spectator App,False,0.0,Fire Dispatch,6,12,Responding
+566,2026-04-05T09:21:00,2,17,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Steward #1402,True,0.81,Guest Services Team,30,62,Resolved
+567,2026-04-01T21:17:00,1,8,Facility,Low,Floodlight panel flickering,Gate Supervisor,True,0.88,Security Patrol Beta,18,32,Closed
+568,2026-04-06T06:59:00,2,24,Security,Medium,Unauthorized restricted zone access,Steward #1402,True,0.84,Guest Services Team,19,34,Monitoring
+569,2026-04-06T00:18:00,2,27,Facility,Low,Floodlight panel flickering,Steward #1402,False,0.0,Maintenance Crew Red,24,25,Responding
+570,2026-04-06T02:24:00,3,38,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,True,0.74,Security Patrol Beta,24,34,Resolved
+571,2026-04-02T19:15:00,1,10,Facility,Medium,Escalator 2 stopped operating,Steward #1402,True,0.94,Fire Dispatch,15,72,Closed
+572,2026-04-01T14:06:00,3,39,Medical,Medium,Minor cuts and bruises,Sensor Node AI,False,0.0,Guest Services Team,19,33,Closed
+573,2026-04-06T00:23:00,1,13,Medical,Low,Heat exhaustion reported,Spectator App,True,0.79,Maintenance Crew Red,6,39,Reported
+574,2026-04-06T18:07:00,3,39,Facility,Low,HVAC failure in West box,Steward #1402,True,0.71,Maintenance Crew Red,17,37,Assigned
+575,2026-04-04T08:50:00,3,34,Facility,Medium,Water pipe leak in washroom B,Gate Supervisor,True,0.85,Fire Dispatch,16,45,Verified
+576,2026-04-05T10:13:00,3,36,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,True,0.79,Security Patrol Beta,5,64,Reported
+577,2026-04-02T13:33:00,2,26,Fire,High,Small electrical spark in junction box,Gate Supervisor,False,0.0,First Aid Squad A,10,26,Responding
+578,2026-04-07T19:17:00,1,3,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,19,120,Responding
+579,2026-04-07T13:20:00,3,33,Crowd,Low,Congestion near turnstiles,CCTV Video Analytics,False,0.0,Fire Dispatch,27,88,Assigned
+580,2026-04-04T14:06:00,1,10,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,False,0.0,Maintenance Crew Red,18,102,Closed
+581,2026-04-08T06:35:00,3,33,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.89,Fire Dispatch,22,99,Closed
+582,2026-04-05T08:20:00,1,2,Weather,Low,Reported weather event details logged by staff,Steward #1402,True,0.77,Crowd Control Team 1,12,43,Verified
+583,2026-04-04T16:48:00,3,39,Weather,High,Reported weather event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,10,28,Monitoring
+584,2026-04-03T18:09:00,1,1,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,True,0.94,Fire Dispatch,7,49,Monitoring
+585,2026-04-02T19:40:00,1,16,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.86,Security Patrol Beta,5,38,Verified
+586,2026-04-05T07:02:00,2,19,Missing Person,Medium,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.72,Guest Services Team,15,71,Reported
+587,2026-04-04T15:47:00,1,4,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.85,Crowd Control Team 1,7,98,Assigned
+588,2026-04-01T23:24:00,1,12,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.8,Guest Services Team,14,108,Verified
+589,2026-04-03T16:32:00,1,12,Facility,Medium,Water pipe leak in washroom B,Sensor Node AI,False,0.0,Security Patrol Beta,19,31,Responding
+590,2026-04-02T07:00:00,1,13,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Steward #1402,True,0.96,First Aid Squad A,20,75,Reported
+591,2026-04-05T00:22:00,1,12,Weather,Medium,Reported weather event details logged by staff,Sensor Node AI,False,0.0,Crowd Control Team 1,17,63,Resolved
+592,2026-04-07T21:01:00,1,2,Crowd,Critical,Stairwell bottlenecks developing,Sensor Node AI,False,0.0,Fire Dispatch,10,40,Responding
+593,2026-04-07T18:17:00,2,25,Security,Low,Unauthorized restricted zone access,Sensor Node AI,False,0.0,Fire Dispatch,19,84,Monitoring
+594,2026-04-04T05:38:00,2,29,Facility,Low,Water pipe leak in washroom B,Gate Supervisor,True,0.97,Security Patrol Beta,15,89,Assigned
+595,2026-04-02T08:46:00,3,32,Facility,High,HVAC failure in West box,Steward #1402,False,0.0,Security Patrol Beta,2,83,Resolved
+596,2026-04-05T07:19:00,3,33,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.88,Maintenance Crew Red,11,87,Assigned
+597,2026-04-07T07:24:00,2,30,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,True,0.8,Guest Services Team,22,99,Assigned
+598,2026-04-06T00:58:00,3,37,Medical,Low,Heat exhaustion reported,CCTV Video Analytics,True,0.95,Maintenance Crew Red,25,16,Verified
+599,2026-04-08T03:40:00,2,22,Fire,High,Trash bin smoldering,Spectator App,True,0.78,Fire Dispatch,8,87,Closed
+600,2026-04-01T17:01:00,1,6,Weather,High,Reported weather event details logged by staff,CCTV Video Analytics,True,0.91,Security Patrol Beta,3,118,Verified
+601,2026-04-05T14:01:00,1,9,Facility,High,HVAC failure in West box,Sensor Node AI,True,0.81,Fire Dispatch,10,68,Assigned
+602,2026-04-02T00:26:00,2,29,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,False,0.0,Security Patrol Beta,26,51,Verified
+603,2026-04-05T05:17:00,3,39,Medical,Medium,Visitor complaining of chest pain,Spectator App,False,0.0,Fire Dispatch,9,65,Closed
+604,2026-04-02T03:57:00,1,3,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,False,0.0,Crowd Control Team 1,16,63,Verified
+605,2026-04-07T07:35:00,2,21,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,26,88,Responding
+606,2026-04-04T03:22:00,2,28,Security,Low,Unauthorized restricted zone access,Steward #1402,False,0.0,Crowd Control Team 1,16,26,Assigned
+607,2026-04-03T17:13:00,2,21,Fire,Low,Smoke detected near food court kitchen,Sensor Node AI,True,0.75,Crowd Control Team 1,21,19,Resolved
+608,2026-04-01T16:24:00,2,29,Fire,Medium,Heat alarm triggered in generator room,CCTV Video Analytics,False,0.0,Fire Dispatch,20,85,Monitoring
+609,2026-04-01T23:24:00,1,14,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.9,Maintenance Crew Red,5,48,Resolved
+610,2026-04-07T23:07:00,1,6,Crowd,Low,Stairwell bottlenecks developing,Gate Supervisor,False,0.0,Security Patrol Beta,5,64,Monitoring
+611,2026-04-03T19:04:00,3,38,Fire,Low,Small electrical spark in junction box,Gate Supervisor,True,0.78,Maintenance Crew Red,21,57,Reported
+612,2026-04-05T15:18:00,1,14,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,True,0.85,First Aid Squad A,15,86,Reported
+613,2026-04-02T14:55:00,3,34,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,20,96,Reported
+614,2026-04-02T03:02:00,1,6,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Guest Services Team,15,76,Reported
+615,2026-04-05T04:47:00,1,14,Security,Low,Unruly fan behavior reported,Gate Supervisor,False,0.0,First Aid Squad A,6,107,Reported
+616,2026-04-02T04:43:00,2,30,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,Maintenance Crew Red,28,45,Verified
+617,2026-04-07T08:30:00,3,35,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.8,Guest Services Team,11,41,Closed
+618,2026-04-06T03:19:00,3,37,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.82,Guest Services Team,7,29,Monitoring
+619,2026-04-06T05:29:00,1,8,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,False,0.0,Guest Services Team,22,16,Resolved
+620,2026-04-04T15:18:00,2,30,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,First Aid Squad A,10,49,Resolved
+621,2026-04-02T00:59:00,1,2,Medical,Low,Sprained ankle on steps,Gate Supervisor,False,0.0,Security Patrol Beta,7,34,Responding
+622,2026-04-08T08:02:00,2,28,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.81,Maintenance Crew Red,5,32,Resolved
+623,2026-04-06T06:26:00,2,21,Medical,Medium,Heat exhaustion reported,CCTV Video Analytics,True,0.81,Security Patrol Beta,13,49,Resolved
+624,2026-04-01T15:04:00,1,10,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,13,34,Assigned
+625,2026-04-02T04:28:00,3,31,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Maintenance Crew Red,5,19,Resolved
+626,2026-04-05T10:28:00,2,28,Fire,High,Smoke detected near food court kitchen,Gate Supervisor,False,0.0,Fire Dispatch,7,101,Responding
+627,2026-04-02T20:06:00,1,13,Medical,Medium,Visitor complaining of chest pain,CCTV Video Analytics,False,0.0,Fire Dispatch,18,32,Monitoring
+628,2026-04-03T17:28:00,2,17,Weather,Low,Reported weather event details logged by staff,Steward #1402,True,0.78,Security Patrol Beta,7,111,Closed
+629,2026-04-05T23:32:00,2,26,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,True,0.83,Fire Dispatch,7,58,Reported
+630,2026-04-04T04:56:00,2,27,Facility,Critical,HVAC failure in West box,Steward #1402,True,0.94,Security Patrol Beta,7,37,Resolved
+631,2026-04-03T01:44:00,2,26,Medical,Low,Sprained ankle on steps,Steward #1402,False,0.0,Guest Services Team,18,98,Verified
+632,2026-04-03T23:33:00,2,30,Weather,Low,Reported weather event details logged by staff,Spectator App,False,0.0,Maintenance Crew Red,17,94,Closed
+633,2026-04-06T05:06:00,1,5,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,False,0.0,Security Patrol Beta,26,89,Closed
+634,2026-04-05T18:23:00,2,22,Fire,Medium,Smoke detected near food court kitchen,CCTV Video Analytics,False,0.0,First Aid Squad A,6,84,Resolved
+635,2026-04-08T09:27:00,1,10,Crowd,Medium,Congestion near turnstiles,Spectator App,True,0.78,Guest Services Team,6,25,Monitoring
+636,2026-04-01T20:46:00,3,38,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,True,0.98,Security Patrol Beta,7,42,Reported
+637,2026-04-05T15:37:00,2,23,Weather,Low,Reported weather event details logged by staff,Spectator App,False,0.0,First Aid Squad A,29,98,Assigned
+638,2026-04-08T01:47:00,2,20,Fire,Low,Smoke detected near food court kitchen,Steward #1402,False,0.0,Guest Services Team,12,110,Reported
+639,2026-04-07T16:59:00,1,3,Weather,Medium,Reported weather event details logged by staff,Spectator App,False,0.0,Maintenance Crew Red,26,94,Resolved
+640,2026-04-06T11:05:00,1,11,Fire,Low,Smoke detected near food court kitchen,Gate Supervisor,False,0.0,Fire Dispatch,5,66,Responding
+641,2026-04-02T05:23:00,1,8,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,Fire Dispatch,24,26,Assigned
+642,2026-04-05T09:26:00,2,28,Security,Low,Unauthorized restricted zone access,Steward #1402,True,0.96,Fire Dispatch,5,80,Responding
+643,2026-04-05T10:18:00,1,6,Security,Low,Tailgating at outer perimeter,Spectator App,True,0.8,First Aid Squad A,10,71,Assigned
+644,2026-04-02T17:36:00,2,23,Medical,Low,Minor cuts and bruises,Spectator App,True,0.81,Security Patrol Beta,15,67,Resolved
+645,2026-04-02T00:56:00,1,7,Suspicious Activity,High,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.81,Security Patrol Beta,5,44,Monitoring
+646,2026-04-02T23:33:00,2,18,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,Maintenance Crew Red,29,96,Resolved
+647,2026-04-06T04:51:00,1,4,Suspicious Activity,High,Reported suspicious activity event details logged by staff,Steward #1402,True,0.74,Fire Dispatch,2,88,Monitoring
+648,2026-04-04T09:21:00,2,29,Suspicious Activity,High,Reported suspicious activity event details logged by staff,Steward #1402,True,0.72,Guest Services Team,7,119,Assigned
+649,2026-04-06T12:41:00,1,4,Security,Low,Tailgating at outer perimeter,Sensor Node AI,True,0.79,Security Patrol Beta,15,85,Verified
+650,2026-04-08T03:31:00,1,4,Crowd,Critical,Stairwell bottlenecks developing,Sensor Node AI,True,0.85,Fire Dispatch,2,38,Assigned
+651,2026-04-04T16:26:00,2,18,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,True,0.8,Crowd Control Team 1,14,35,Reported
+652,2026-04-07T17:42:00,2,29,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,21,77,Monitoring
+653,2026-04-02T22:53:00,1,9,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,First Aid Squad A,11,45,Verified
+654,2026-04-03T23:03:00,2,28,Facility,Medium,Floodlight panel flickering,CCTV Video Analytics,False,0.0,Guest Services Team,12,59,Responding
+655,2026-04-03T10:14:00,2,22,Crowd,Medium,Gate rush attempts,Steward #1402,False,0.0,Maintenance Crew Red,18,24,Monitoring
+656,2026-04-03T09:16:00,2,17,Crowd,Low,Slow moving crowd blockages,CCTV Video Analytics,False,0.0,Fire Dispatch,10,68,Reported
+657,2026-04-05T14:41:00,1,1,Missing Person,Medium,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,23,83,Assigned
+658,2026-04-02T22:40:00,3,33,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,Maintenance Crew Red,23,67,Closed
+659,2026-04-07T16:46:00,2,18,Facility,Low,Water pipe leak in washroom B,Spectator App,False,0.0,First Aid Squad A,25,62,Closed
+660,2026-04-07T06:39:00,2,30,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,27,76,Responding
+661,2026-04-06T23:52:00,2,27,Medical,Critical,Visitor complaining of chest pain,Gate Supervisor,False,0.0,Fire Dispatch,8,40,Resolved
+662,2026-04-02T21:22:00,2,23,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,CCTV Video Analytics,True,0.96,First Aid Squad A,14,57,Closed
+663,2026-04-06T02:29:00,2,18,Suspicious Activity,Critical,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,Security Patrol Beta,10,17,Resolved
+664,2026-04-05T16:44:00,1,5,Missing Person,High,Reported missing person event details logged by staff,Spectator App,False,0.0,Fire Dispatch,2,50,Assigned
+665,2026-04-05T08:36:00,1,1,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,False,0.0,Fire Dispatch,27,19,Responding
+666,2026-04-03T23:12:00,2,27,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Spectator App,True,0.97,Guest Services Team,23,84,Monitoring
+667,2026-04-06T10:09:00,3,32,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,27,27,Responding
+668,2026-04-03T00:09:00,1,4,Medical,High,Minor cuts and bruises,Steward #1402,False,0.0,First Aid Squad A,10,73,Reported
+669,2026-04-06T09:13:00,3,33,Crowd,Low,Gate rush attempts,CCTV Video Analytics,True,0.93,First Aid Squad A,26,29,Monitoring
+670,2026-04-04T09:06:00,3,34,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,Fire Dispatch,6,79,Resolved
+671,2026-04-03T20:55:00,1,2,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,12,72,Closed
+672,2026-04-03T06:11:00,1,3,Medical,Low,Minor cuts and bruises,CCTV Video Analytics,True,0.89,Guest Services Team,23,51,Reported
+673,2026-04-02T03:33:00,2,20,Security,Low,Tailgating at outer perimeter,Spectator App,True,0.79,Crowd Control Team 1,21,41,Responding
+674,2026-04-08T08:07:00,2,25,Crowd,Low,Gate rush attempts,Gate Supervisor,True,0.98,Fire Dispatch,18,90,Verified
+675,2026-04-07T07:16:00,2,17,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,11,69,Reported
+676,2026-04-07T11:31:00,2,24,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,27,73,Reported
+677,2026-04-02T23:02:00,1,11,Fire,High,Heat alarm triggered in generator room,Spectator App,True,0.73,Guest Services Team,4,86,Assigned
+678,2026-04-03T17:47:00,3,35,Missing Person,Medium,Reported missing person event details logged by staff,Sensor Node AI,True,0.92,First Aid Squad A,30,71,Assigned
+679,2026-04-07T21:46:00,3,32,Crowd,Low,Stairwell bottlenecks developing,Steward #1402,False,0.0,First Aid Squad A,28,115,Verified
+680,2026-04-06T12:56:00,2,28,Missing Person,Medium,Reported missing person event details logged by staff,Gate Supervisor,True,0.73,Fire Dispatch,24,104,Verified
+681,2026-04-01T21:02:00,1,5,Fire,High,Small electrical spark in junction box,CCTV Video Analytics,True,0.98,Guest Services Team,7,86,Closed
+682,2026-04-03T15:50:00,1,13,Fire,Medium,Smoke detected near food court kitchen,Gate Supervisor,False,0.0,First Aid Squad A,20,71,Reported
+683,2026-04-03T06:38:00,1,4,Crowd,High,Slow moving crowd blockages,CCTV Video Analytics,True,0.81,First Aid Squad A,3,70,Reported
+684,2026-04-01T21:39:00,2,28,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Spectator App,True,0.71,Fire Dispatch,2,60,Assigned
+685,2026-04-04T14:11:00,3,35,Missing Person,Medium,Reported missing person event details logged by staff,Spectator App,True,0.78,First Aid Squad A,27,76,Reported
+686,2026-04-04T20:10:00,1,5,Fire,Low,Heat alarm triggered in generator room,Steward #1402,False,0.0,Crowd Control Team 1,9,22,Reported
+687,2026-04-03T04:45:00,1,9,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.96,Crowd Control Team 1,9,34,Responding
+688,2026-04-04T17:40:00,1,15,Fire,Low,Smoke detected near food court kitchen,Steward #1402,True,0.92,Security Patrol Beta,26,45,Verified
+689,2026-04-01T20:09:00,2,29,Medical,Medium,Visitor complaining of chest pain,Gate Supervisor,False,0.0,Fire Dispatch,10,49,Responding
+690,2026-04-07T05:13:00,2,29,Crowd,Medium,Stairwell bottlenecks developing,CCTV Video Analytics,True,0.74,Crowd Control Team 1,30,97,Reported
+691,2026-04-02T14:05:00,3,38,Fire,Low,Heat alarm triggered in generator room,Spectator App,False,0.0,Maintenance Crew Red,21,67,Verified
+692,2026-04-08T10:00:00,2,18,Weather,High,Reported weather event details logged by staff,Sensor Node AI,True,0.97,Security Patrol Beta,8,87,Resolved
+693,2026-04-02T16:33:00,1,6,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Spectator App,False,0.0,First Aid Squad A,9,66,Assigned
+694,2026-04-03T01:41:00,1,14,Facility,Critical,Water pipe leak in washroom B,Sensor Node AI,True,0.82,Crowd Control Team 1,5,19,Monitoring
+695,2026-04-03T06:00:00,1,11,Facility,Low,Floodlight panel flickering,Gate Supervisor,False,0.0,Security Patrol Beta,8,108,Reported
+696,2026-04-04T00:23:00,3,36,Crowd,Medium,Congestion near turnstiles,Gate Supervisor,False,0.0,Guest Services Team,17,83,Assigned
+697,2026-04-08T02:27:00,2,21,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,True,0.91,Maintenance Crew Red,15,54,Responding
+698,2026-04-04T18:05:00,1,5,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,True,0.89,Fire Dispatch,5,97,Reported
+699,2026-04-01T19:17:00,3,37,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Spectator App,False,0.0,First Aid Squad A,23,113,Resolved
+700,2026-04-03T04:15:00,1,16,Suspicious Activity,Critical,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,Fire Dispatch,7,44,Verified
+701,2026-04-08T00:27:00,3,35,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,False,0.0,First Aid Squad A,23,25,Monitoring
+702,2026-04-02T23:55:00,3,34,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.86,Security Patrol Beta,10,29,Verified
+703,2026-04-04T22:32:00,1,8,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,True,0.82,Fire Dispatch,6,38,Closed
+704,2026-04-08T10:24:00,3,34,Medical,Low,Dehydration in stand,Steward #1402,False,0.0,Security Patrol Beta,7,118,Assigned
+705,2026-04-05T11:02:00,1,5,Fire,Low,Small electrical spark in junction box,Steward #1402,True,0.92,Guest Services Team,27,63,Responding
+706,2026-04-06T21:43:00,1,8,Crowd,Medium,Stairwell bottlenecks developing,CCTV Video Analytics,False,0.0,Security Patrol Beta,26,45,Reported
+707,2026-04-06T21:07:00,2,21,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,True,0.85,First Aid Squad A,23,71,Responding
+708,2026-04-04T04:10:00,2,23,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Maintenance Crew Red,21,111,Responding
+709,2026-04-03T00:53:00,2,26,Weather,Medium,Reported weather event details logged by staff,Steward #1402,True,0.9,Guest Services Team,8,114,Verified
+710,2026-04-05T16:59:00,2,29,Fire,High,Heat alarm triggered in generator room,Gate Supervisor,False,0.0,First Aid Squad A,5,20,Verified
+711,2026-04-06T15:04:00,3,32,Medical,Low,Minor cuts and bruises,Gate Supervisor,True,0.75,First Aid Squad A,17,76,Verified
+712,2026-04-07T01:51:00,1,11,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.86,Guest Services Team,6,88,Resolved
+713,2026-04-02T18:57:00,1,9,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.71,Maintenance Crew Red,29,33,Monitoring
+714,2026-04-08T09:58:00,1,14,Missing Person,High,Reported missing person event details logged by staff,Sensor Node AI,True,0.71,Maintenance Crew Red,9,91,Resolved
+715,2026-04-03T20:31:00,3,31,Security,Medium,Tailgating at outer perimeter,CCTV Video Analytics,True,0.76,First Aid Squad A,23,106,Reported
+716,2026-04-01T22:28:00,1,13,Security,Low,Verbal alteration between fans,Spectator App,True,0.82,Guest Services Team,12,25,Closed
+717,2026-04-05T02:09:00,2,18,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,25,93,Verified
+718,2026-04-04T11:37:00,1,14,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.96,First Aid Squad A,8,40,Verified
+719,2026-04-04T22:18:00,3,35,Medical,Medium,Dehydration in stand,CCTV Video Analytics,False,0.0,First Aid Squad A,18,115,Resolved
+720,2026-04-01T23:33:00,1,12,Facility,Critical,Water pipe leak in washroom B,Spectator App,False,0.0,Guest Services Team,6,19,Closed
+721,2026-04-06T07:25:00,1,1,Fire,High,Trash bin smoldering,Gate Supervisor,False,0.0,Maintenance Crew Red,8,69,Responding
+722,2026-04-06T08:33:00,1,10,Medical,Medium,Visitor complaining of chest pain,Sensor Node AI,False,0.0,Crowd Control Team 1,27,94,Reported
+723,2026-04-03T20:54:00,2,21,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,False,0.0,First Aid Squad A,13,32,Verified
+724,2026-04-06T12:14:00,2,18,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,True,0.95,Security Patrol Beta,6,30,Assigned
+725,2026-04-04T15:25:00,2,25,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.84,First Aid Squad A,28,67,Resolved
+726,2026-04-03T02:57:00,2,23,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,True,0.9,Guest Services Team,17,71,Assigned
+727,2026-04-03T00:26:00,1,3,Crowd,Low,Slow moving crowd blockages,Sensor Node AI,False,0.0,Guest Services Team,29,80,Responding
+728,2026-04-05T14:38:00,3,39,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,True,0.81,First Aid Squad A,10,40,Responding
+729,2026-04-07T13:11:00,3,31,Weather,Low,Reported weather event details logged by staff,Steward #1402,True,0.81,Guest Services Team,15,77,Resolved
+730,2026-04-03T10:56:00,2,23,Security,Low,Unauthorized restricted zone access,Gate Supervisor,False,0.0,Crowd Control Team 1,15,52,Resolved
+731,2026-04-01T22:53:00,2,27,Facility,High,HVAC failure in West box,Spectator App,False,0.0,Crowd Control Team 1,8,75,Resolved
+732,2026-04-06T17:15:00,1,11,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,True,0.72,Security Patrol Beta,24,43,Monitoring
+733,2026-04-04T20:59:00,1,10,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,True,0.95,First Aid Squad A,16,85,Monitoring
+734,2026-04-08T09:15:00,1,2,Medical,Low,Minor cuts and bruises,CCTV Video Analytics,True,0.7,Fire Dispatch,30,36,Resolved
+735,2026-04-02T01:28:00,2,26,Fire,High,Trash bin smoldering,Spectator App,True,0.88,Fire Dispatch,9,55,Resolved
+736,2026-04-07T21:21:00,1,13,Security,Low,Unruly fan behavior reported,Gate Supervisor,False,0.0,First Aid Squad A,22,19,Closed
+737,2026-04-05T13:28:00,2,27,Medical,Critical,Heat exhaustion reported,CCTV Video Analytics,True,0.98,Crowd Control Team 1,6,14,Closed
+738,2026-04-07T16:53:00,2,29,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,True,0.95,Crowd Control Team 1,19,40,Assigned
+739,2026-04-01T15:27:00,2,28,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.84,Crowd Control Team 1,24,75,Resolved
+740,2026-04-04T10:01:00,2,22,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Gate Supervisor,True,0.89,Crowd Control Team 1,5,112,Verified
+741,2026-04-03T18:29:00,1,3,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Crowd Control Team 1,26,86,Monitoring
+742,2026-04-07T12:52:00,1,3,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,False,0.0,Guest Services Team,25,35,Responding
+743,2026-04-04T04:38:00,1,15,Medical,Critical,Heat exhaustion reported,Sensor Node AI,True,0.92,Fire Dispatch,5,39,Responding
+744,2026-04-06T08:41:00,1,1,Facility,Medium,Escalator 2 stopped operating,Steward #1402,False,0.0,First Aid Squad A,8,103,Assigned
+745,2026-04-07T04:41:00,1,7,Crowd,Low,Gate rush attempts,Steward #1402,False,0.0,Crowd Control Team 1,7,38,Assigned
+746,2026-04-04T23:31:00,1,13,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,Fire Dispatch,10,102,Responding
+747,2026-04-04T20:19:00,2,17,Crowd,Low,Congestion near turnstiles,Sensor Node AI,False,0.0,Fire Dispatch,23,63,Closed
+748,2026-04-03T10:23:00,1,1,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,True,0.93,Fire Dispatch,7,17,Monitoring
+749,2026-04-07T17:12:00,3,40,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,True,0.75,Security Patrol Beta,29,32,Resolved
+750,2026-04-07T15:09:00,2,21,Crowd,High,Gate rush attempts,Gate Supervisor,False,0.0,Maintenance Crew Red,3,70,Closed
+751,2026-04-02T02:37:00,2,25,Medical,Low,Visitor complaining of chest pain,CCTV Video Analytics,True,0.84,Fire Dispatch,28,38,Closed
+752,2026-04-02T21:12:00,1,1,Crowd,Medium,Gate rush attempts,CCTV Video Analytics,False,0.0,Guest Services Team,20,32,Verified
+753,2026-04-05T10:11:00,2,21,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,Maintenance Crew Red,8,114,Monitoring
+754,2026-04-04T00:10:00,2,19,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Security Patrol Beta,16,59,Closed
+755,2026-04-07T10:00:00,2,18,Fire,High,Smoke detected near food court kitchen,CCTV Video Analytics,True,0.8,Crowd Control Team 1,8,64,Responding
+756,2026-04-03T16:25:00,2,30,Crowd,Low,Slow moving crowd blockages,Spectator App,False,0.0,Fire Dispatch,28,15,Responding
+757,2026-04-07T14:44:00,1,16,Facility,Medium,HVAC failure in West box,Sensor Node AI,False,0.0,Crowd Control Team 1,14,62,Assigned
+758,2026-04-03T14:32:00,2,17,Security,Medium,Tailgating at outer perimeter,Sensor Node AI,False,0.0,Security Patrol Beta,16,22,Assigned
+759,2026-04-07T18:17:00,2,30,Fire,Low,Smoke detected near food court kitchen,Gate Supervisor,False,0.0,Crowd Control Team 1,27,88,Closed
+760,2026-04-08T08:00:00,1,4,Fire,High,Trash bin smoldering,Steward #1402,False,0.0,Security Patrol Beta,9,54,Closed
+761,2026-04-07T07:52:00,1,8,Medical,Medium,Visitor complaining of chest pain,CCTV Video Analytics,True,0.79,Crowd Control Team 1,22,33,Resolved
+762,2026-04-02T20:08:00,1,14,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,True,0.87,Fire Dispatch,17,74,Resolved
+763,2026-04-06T06:03:00,2,19,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Steward #1402,True,0.98,Maintenance Crew Red,28,40,Reported
+764,2026-04-01T18:11:00,3,33,Facility,Medium,HVAC failure in West box,Spectator App,True,0.77,First Aid Squad A,15,117,Responding
+765,2026-04-06T03:19:00,1,13,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.96,Security Patrol Beta,28,23,Verified
+766,2026-04-05T19:52:00,1,16,Security,Critical,Unauthorized restricted zone access,Spectator App,True,0.76,Crowd Control Team 1,8,45,Reported
+767,2026-04-05T16:17:00,1,5,Missing Person,Low,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Maintenance Crew Red,13,93,Reported
+768,2026-04-06T16:03:00,3,35,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,True,0.85,Security Patrol Beta,14,46,Responding
+769,2026-04-05T01:24:00,2,22,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Maintenance Crew Red,27,67,Assigned
+770,2026-04-04T11:09:00,1,9,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,19,28,Resolved
+771,2026-04-02T05:39:00,2,20,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Crowd Control Team 1,23,57,Reported
+772,2026-04-02T18:55:00,1,15,Security,Low,Verbal alteration between fans,Sensor Node AI,False,0.0,Maintenance Crew Red,16,61,Verified
+773,2026-04-08T09:40:00,3,34,Facility,Low,HVAC failure in West box,Gate Supervisor,True,0.88,First Aid Squad A,7,116,Assigned
+774,2026-04-06T22:44:00,2,22,Crowd,Low,Slow moving crowd blockages,CCTV Video Analytics,False,0.0,Maintenance Crew Red,6,68,Responding
+775,2026-04-07T04:13:00,3,40,Medical,Low,Minor cuts and bruises,Spectator App,True,0.75,Maintenance Crew Red,5,34,Resolved
+776,2026-04-07T18:43:00,1,9,Missing Person,High,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,Crowd Control Team 1,9,103,Responding
+777,2026-04-05T14:31:00,2,19,Fire,Critical,Trash bin smoldering,Steward #1402,True,0.97,Guest Services Team,9,34,Monitoring
+778,2026-04-06T04:34:00,2,27,Facility,Critical,Escalator 2 stopped operating,Gate Supervisor,True,0.97,First Aid Squad A,9,22,Responding
+779,2026-04-03T00:45:00,1,16,Fire,High,Smoke detected near food court kitchen,Gate Supervisor,True,0.78,Guest Services Team,5,22,Monitoring
+780,2026-04-03T05:13:00,1,1,Security,Low,Unruly fan behavior reported,Gate Supervisor,False,0.0,Fire Dispatch,20,113,Verified
+781,2026-04-04T17:20:00,3,40,Crowd,Low,Congestion near turnstiles,Gate Supervisor,True,0.92,Guest Services Team,24,94,Monitoring
+782,2026-04-02T04:12:00,3,36,Facility,Low,Floodlight panel flickering,Steward #1402,False,0.0,First Aid Squad A,29,21,Resolved
+783,2026-04-01T14:02:00,3,34,Facility,Low,Floodlight panel flickering,Spectator App,True,0.89,Maintenance Crew Red,7,50,Verified
+784,2026-04-01T15:04:00,2,26,Fire,Medium,Trash bin smoldering,Sensor Node AI,False,0.0,Crowd Control Team 1,29,60,Assigned
+785,2026-04-03T03:36:00,2,22,Missing Person,Medium,Reported missing person event details logged by staff,Steward #1402,True,0.95,First Aid Squad A,12,42,Responding
+786,2026-04-02T06:57:00,2,29,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,True,0.86,Guest Services Team,22,84,Responding
+787,2026-04-02T18:26:00,2,20,Missing Person,Critical,Reported missing person event details logged by staff,Sensor Node AI,True,0.96,Crowd Control Team 1,10,10,Assigned
+788,2026-04-04T21:31:00,1,5,Missing Person,Critical,Reported missing person event details logged by staff,CCTV Video Analytics,True,0.73,Maintenance Crew Red,7,11,Assigned
+789,2026-04-08T02:56:00,2,28,Facility,Low,Water pipe leak in washroom B,Sensor Node AI,True,0.94,Guest Services Team,24,25,Assigned
+790,2026-04-02T05:53:00,2,27,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,True,0.86,Security Patrol Beta,10,49,Assigned
+791,2026-04-07T04:35:00,3,31,Medical,Low,Sprained ankle on steps,CCTV Video Analytics,False,0.0,Crowd Control Team 1,15,46,Responding
+792,2026-04-04T22:06:00,1,5,Security,Low,Verbal alteration between fans,Spectator App,False,0.0,Fire Dispatch,29,50,Responding
+793,2026-04-02T00:57:00,3,34,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,False,0.0,Maintenance Crew Red,23,64,Responding
+794,2026-04-02T16:29:00,3,32,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.7,Maintenance Crew Red,17,19,Reported
+795,2026-04-03T12:42:00,2,24,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,False,0.0,Fire Dispatch,27,57,Verified
+796,2026-04-08T04:59:00,1,12,Fire,High,Heat alarm triggered in generator room,Sensor Node AI,True,0.88,Guest Services Team,4,99,Reported
+797,2026-04-02T23:36:00,1,13,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Crowd Control Team 1,26,120,Responding
+798,2026-04-03T03:51:00,2,24,Medical,Low,Sprained ankle on steps,Gate Supervisor,False,0.0,Guest Services Team,29,38,Responding
+799,2026-04-08T04:26:00,2,25,Weather,Medium,Reported weather event details logged by staff,Spectator App,True,0.74,Crowd Control Team 1,28,57,Assigned
+800,2026-04-02T06:18:00,2,22,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,False,0.0,First Aid Squad A,21,81,Responding
+801,2026-04-07T20:38:00,1,7,Facility,Critical,Escalator 2 stopped operating,Sensor Node AI,False,0.0,Maintenance Crew Red,2,36,Monitoring
+802,2026-04-03T05:34:00,3,33,Fire,Low,Heat alarm triggered in generator room,Sensor Node AI,False,0.0,Crowd Control Team 1,26,18,Verified
+803,2026-04-02T00:16:00,2,19,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Steward #1402,True,0.92,Fire Dispatch,7,79,Closed
+804,2026-04-04T15:09:00,1,13,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,13,69,Resolved
+805,2026-04-06T15:07:00,2,18,Medical,Low,Minor cuts and bruises,Gate Supervisor,False,0.0,Fire Dispatch,16,36,Assigned
+806,2026-04-04T20:01:00,3,34,Facility,High,HVAC failure in West box,Gate Supervisor,True,0.72,Security Patrol Beta,8,101,Assigned
+807,2026-04-05T22:31:00,1,1,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,True,0.91,Maintenance Crew Red,29,119,Verified
+808,2026-04-02T04:33:00,1,13,Medical,Low,Minor cuts and bruises,CCTV Video Analytics,True,0.8,Security Patrol Beta,8,119,Monitoring
+809,2026-04-06T06:27:00,1,5,Facility,Low,HVAC failure in West box,Spectator App,True,0.85,Fire Dispatch,27,108,Reported
+810,2026-04-05T17:44:00,2,28,Weather,Low,Reported weather event details logged by staff,Spectator App,False,0.0,Guest Services Team,16,92,Reported
+811,2026-04-06T11:01:00,2,18,Medical,Low,Sprained ankle on steps,Gate Supervisor,True,0.73,Fire Dispatch,12,42,Monitoring
+812,2026-04-04T07:32:00,1,10,Missing Person,Low,Reported missing person event details logged by staff,Steward #1402,True,0.97,Security Patrol Beta,7,63,Monitoring
+813,2026-04-07T13:10:00,2,28,Facility,Medium,Water pipe leak in washroom B,CCTV Video Analytics,False,0.0,Maintenance Crew Red,15,23,Resolved
+814,2026-04-03T15:29:00,3,34,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,True,0.8,Maintenance Crew Red,30,25,Verified
+815,2026-04-05T22:11:00,2,23,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,True,0.87,Crowd Control Team 1,11,26,Monitoring
+816,2026-04-04T17:22:00,2,19,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.84,Maintenance Crew Red,10,71,Verified
+817,2026-04-03T07:31:00,1,16,Fire,Low,Trash bin smoldering,Steward #1402,True,0.94,First Aid Squad A,26,45,Resolved
+818,2026-04-07T11:43:00,3,39,Security,Low,Verbal alteration between fans,Steward #1402,False,0.0,Crowd Control Team 1,6,84,Verified
+819,2026-04-06T22:34:00,2,22,Fire,Critical,Heat alarm triggered in generator room,Spectator App,False,0.0,Security Patrol Beta,9,33,Resolved
+820,2026-04-04T14:35:00,1,6,Crowd,Medium,Slow moving crowd blockages,Sensor Node AI,False,0.0,Fire Dispatch,21,60,Assigned
+821,2026-04-07T16:44:00,1,16,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.89,Crowd Control Team 1,30,30,Resolved
+822,2026-04-03T19:50:00,3,39,Security,Low,Unruly fan behavior reported,Sensor Node AI,False,0.0,Security Patrol Beta,29,42,Responding
+823,2026-04-03T15:25:00,2,28,Crowd,Low,Gate rush attempts,Spectator App,False,0.0,First Aid Squad A,7,54,Verified
+824,2026-04-02T13:39:00,1,1,Facility,High,Water pipe leak in washroom B,Spectator App,True,0.96,Guest Services Team,4,94,Resolved
+825,2026-04-01T14:23:00,1,12,Missing Person,Critical,Reported missing person event details logged by staff,Gate Supervisor,True,0.92,First Aid Squad A,9,42,Responding
+826,2026-04-05T14:12:00,3,40,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Maintenance Crew Red,19,56,Responding
+827,2026-04-04T14:02:00,3,31,Crowd,Low,Congestion near turnstiles,Gate Supervisor,False,0.0,First Aid Squad A,5,72,Reported
+828,2026-04-03T04:55:00,2,25,Medical,Low,Sprained ankle on steps,Gate Supervisor,False,0.0,Security Patrol Beta,6,29,Resolved
+829,2026-04-05T22:55:00,2,17,Facility,Medium,HVAC failure in West box,Gate Supervisor,True,0.75,Security Patrol Beta,16,74,Resolved
+830,2026-04-04T00:51:00,3,38,Security,Medium,Unruly fan behavior reported,Spectator App,True,0.73,Guest Services Team,28,54,Reported
+831,2026-04-03T07:08:00,3,38,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,14,99,Resolved
+832,2026-04-06T14:25:00,2,24,Fire,Low,Smoke detected near food court kitchen,Gate Supervisor,True,0.85,Crowd Control Team 1,15,47,Closed
+833,2026-04-03T00:30:00,1,7,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,True,0.71,Guest Services Team,10,114,Monitoring
+834,2026-04-06T20:20:00,1,7,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Spectator App,False,0.0,First Aid Squad A,13,82,Responding
+835,2026-04-05T19:51:00,3,39,Facility,High,Escalator 2 stopped operating,CCTV Video Analytics,True,0.97,Fire Dispatch,10,48,Reported
+836,2026-04-07T13:29:00,1,8,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,10,58,Reported
+837,2026-04-04T12:38:00,1,9,Security,Medium,Unruly fan behavior reported,CCTV Video Analytics,False,0.0,Maintenance Crew Red,5,42,Assigned
+838,2026-04-07T02:37:00,3,40,Security,Low,Unauthorized restricted zone access,CCTV Video Analytics,True,0.85,Guest Services Team,30,37,Assigned
+839,2026-04-07T13:59:00,1,9,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,False,0.0,Security Patrol Beta,9,77,Reported
+840,2026-04-05T13:41:00,3,36,Medical,Critical,Sprained ankle on steps,Gate Supervisor,False,0.0,Crowd Control Team 1,8,19,Reported
+841,2026-04-06T21:53:00,2,22,Crowd,Low,Congestion near turnstiles,Sensor Node AI,True,0.97,Guest Services Team,14,99,Closed
+842,2026-04-04T11:43:00,3,33,Missing Person,Critical,Reported missing person event details logged by staff,Spectator App,True,0.98,Security Patrol Beta,3,38,Assigned
+843,2026-04-02T09:40:00,1,9,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.8,First Aid Squad A,24,42,Reported
+844,2026-04-07T16:02:00,3,32,Crowd,Critical,Slow moving crowd blockages,Spectator App,False,0.0,Guest Services Team,5,11,Assigned
+845,2026-04-01T21:45:00,1,4,Crowd,Low,Slow moving crowd blockages,CCTV Video Analytics,True,0.9,Maintenance Crew Red,8,30,Responding
+846,2026-04-02T19:51:00,1,11,Crowd,Medium,Stairwell bottlenecks developing,CCTV Video Analytics,False,0.0,Security Patrol Beta,13,42,Verified
+847,2026-04-02T11:13:00,2,19,Crowd,High,Congestion near turnstiles,Steward #1402,True,0.92,First Aid Squad A,4,73,Closed
+848,2026-04-07T05:44:00,1,11,Weather,Medium,Reported weather event details logged by staff,Gate Supervisor,False,0.0,Guest Services Team,22,84,Verified
+849,2026-04-04T21:54:00,1,1,Medical,Low,Sprained ankle on steps,Steward #1402,True,0.86,First Aid Squad A,11,105,Monitoring
+850,2026-04-07T01:25:00,1,14,Crowd,Critical,Stairwell bottlenecks developing,CCTV Video Analytics,True,0.71,First Aid Squad A,4,35,Assigned
+851,2026-04-06T09:31:00,2,19,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.88,Crowd Control Team 1,19,99,Responding
+852,2026-04-05T06:58:00,3,40,Crowd,Low,Slow moving crowd blockages,Sensor Node AI,True,0.72,Maintenance Crew Red,18,75,Assigned
+853,2026-04-06T05:42:00,2,26,Medical,Low,Sprained ankle on steps,CCTV Video Analytics,False,0.0,First Aid Squad A,9,57,Verified
+854,2026-04-04T21:26:00,3,34,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.75,Crowd Control Team 1,14,93,Assigned
+855,2026-04-01T12:26:00,2,24,Medical,Low,Dehydration in stand,Sensor Node AI,True,0.9,Fire Dispatch,5,38,Reported
+856,2026-04-07T08:24:00,1,4,Facility,Low,Escalator 2 stopped operating,Spectator App,False,0.0,Maintenance Crew Red,22,21,Verified
+857,2026-04-03T05:36:00,1,16,Weather,Low,Reported weather event details logged by staff,Spectator App,True,0.76,Guest Services Team,19,107,Assigned
+858,2026-04-06T16:53:00,2,27,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Steward #1402,True,0.88,Crowd Control Team 1,22,101,Verified
+859,2026-04-08T01:26:00,1,4,Crowd,Low,Slow moving crowd blockages,Sensor Node AI,False,0.0,Fire Dispatch,29,38,Monitoring
+860,2026-04-08T05:51:00,3,33,Fire,Low,Smoke detected near food court kitchen,Gate Supervisor,False,0.0,Guest Services Team,16,83,Monitoring
+861,2026-04-03T05:52:00,1,16,Medical,Low,Visitor complaining of chest pain,Steward #1402,False,0.0,Fire Dispatch,26,105,Monitoring
+862,2026-04-02T14:42:00,1,14,Medical,Low,Dehydration in stand,Gate Supervisor,True,0.89,Security Patrol Beta,16,40,Reported
+863,2026-04-08T09:19:00,1,2,Medical,Low,Minor cuts and bruises,Sensor Node AI,True,0.82,Fire Dispatch,11,35,Verified
+864,2026-04-04T13:18:00,2,24,Ticket Fraud,High,Reported ticket fraud event details logged by staff,CCTV Video Analytics,False,0.0,Maintenance Crew Red,4,45,Closed
+865,2026-04-08T03:41:00,1,12,Missing Person,Medium,Reported missing person event details logged by staff,Gate Supervisor,True,0.85,Fire Dispatch,5,73,Closed
+866,2026-04-05T05:41:00,1,16,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,27,120,Assigned
+867,2026-04-01T18:43:00,1,5,Fire,Medium,Heat alarm triggered in generator room,CCTV Video Analytics,False,0.0,Maintenance Crew Red,27,71,Monitoring
+868,2026-04-02T16:27:00,3,40,Facility,Medium,Escalator 2 stopped operating,Steward #1402,False,0.0,Maintenance Crew Red,14,93,Responding
+869,2026-04-02T10:02:00,1,11,Missing Person,High,Reported missing person event details logged by staff,CCTV Video Analytics,False,0.0,Fire Dispatch,10,93,Verified
+870,2026-04-08T02:03:00,2,19,Fire,Low,Heat alarm triggered in generator room,CCTV Video Analytics,False,0.0,Guest Services Team,25,59,Assigned
+871,2026-04-02T15:09:00,3,35,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,False,0.0,Guest Services Team,10,106,Assigned
+872,2026-04-02T02:29:00,1,3,Weather,Medium,Reported weather event details logged by staff,Steward #1402,True,0.71,Crowd Control Team 1,14,114,Responding
+873,2026-04-06T00:04:00,1,15,Ticket Fraud,High,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,Crowd Control Team 1,8,45,Monitoring
+874,2026-04-05T19:07:00,2,27,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,False,0.0,Fire Dispatch,23,118,Monitoring
+875,2026-04-07T13:49:00,3,34,Fire,Low,Heat alarm triggered in generator room,Sensor Node AI,False,0.0,Crowd Control Team 1,11,94,Closed
+876,2026-04-07T03:02:00,2,29,Crowd,Medium,Slow moving crowd blockages,Spectator App,False,0.0,Maintenance Crew Red,23,93,Verified
+877,2026-04-07T07:14:00,1,16,Fire,Low,Trash bin smoldering,Spectator App,True,0.88,Fire Dispatch,23,102,Verified
+878,2026-04-02T17:20:00,1,3,Fire,Low,Small electrical spark in junction box,Sensor Node AI,False,0.0,Crowd Control Team 1,8,120,Monitoring
+879,2026-04-03T00:43:00,1,12,Facility,Medium,Water pipe leak in washroom B,Steward #1402,False,0.0,Guest Services Team,27,98,Assigned
+880,2026-04-07T02:31:00,1,2,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,17,40,Responding
+881,2026-04-03T12:54:00,1,2,Crowd,Low,Congestion near turnstiles,Steward #1402,False,0.0,Security Patrol Beta,6,80,Assigned
+882,2026-04-06T00:16:00,2,28,Missing Person,Medium,Reported missing person event details logged by staff,Steward #1402,False,0.0,Fire Dispatch,18,97,Responding
+883,2026-04-03T01:12:00,3,32,Security,Low,Verbal alteration between fans,Spectator App,True,0.79,Maintenance Crew Red,13,117,Reported
+884,2026-04-02T16:18:00,3,33,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.93,Maintenance Crew Red,17,48,Closed
+885,2026-04-07T16:06:00,2,28,Crowd,Critical,Congestion near turnstiles,Spectator App,False,0.0,Crowd Control Team 1,2,21,Assigned
+886,2026-04-06T14:29:00,1,10,Facility,Low,Water pipe leak in washroom B,CCTV Video Analytics,True,0.94,Maintenance Crew Red,25,46,Assigned
+887,2026-04-02T04:51:00,2,18,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,True,0.83,First Aid Squad A,30,85,Reported
+888,2026-04-03T19:50:00,2,17,Fire,Critical,Smoke detected near food court kitchen,CCTV Video Analytics,True,0.8,Maintenance Crew Red,3,26,Resolved
+889,2026-04-07T13:10:00,3,35,Security,Low,Unruly fan behavior reported,Spectator App,False,0.0,Fire Dispatch,28,16,Assigned
+890,2026-04-03T03:54:00,2,27,Facility,High,Floodlight panel flickering,Spectator App,False,0.0,Guest Services Team,2,70,Verified
+891,2026-04-07T16:40:00,3,35,Missing Person,Medium,Reported missing person event details logged by staff,Steward #1402,True,0.72,Security Patrol Beta,11,67,Closed
+892,2026-04-07T05:42:00,3,31,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,True,0.81,Crowd Control Team 1,29,26,Monitoring
+893,2026-04-01T15:30:00,2,26,Fire,Low,Heat alarm triggered in generator room,Spectator App,True,0.8,First Aid Squad A,8,32,Resolved
+894,2026-04-07T20:29:00,1,1,Facility,Low,HVAC failure in West box,Steward #1402,True,0.94,Maintenance Crew Red,11,39,Resolved
+895,2026-04-07T18:20:00,2,25,Facility,Low,HVAC failure in West box,Gate Supervisor,True,0.83,Guest Services Team,23,24,Closed
+896,2026-04-01T13:35:00,1,14,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,False,0.0,Crowd Control Team 1,15,58,Verified
+897,2026-04-05T02:01:00,2,27,Security,Medium,Unruly fan behavior reported,Steward #1402,False,0.0,Crowd Control Team 1,20,81,Responding
+898,2026-04-03T09:26:00,2,30,Facility,Low,Escalator 2 stopped operating,Spectator App,True,0.97,First Aid Squad A,22,82,Resolved
+899,2026-04-06T13:51:00,1,13,Missing Person,High,Reported missing person event details logged by staff,Gate Supervisor,True,0.72,Crowd Control Team 1,6,84,Responding
+900,2026-04-01T16:23:00,1,8,Security,Medium,Unruly fan behavior reported,Spectator App,False,0.0,Guest Services Team,14,109,Closed
+901,2026-04-02T21:26:00,2,23,Fire,Medium,Heat alarm triggered in generator room,Gate Supervisor,True,0.82,Maintenance Crew Red,23,51,Reported
+902,2026-04-06T05:48:00,3,33,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,True,0.73,Crowd Control Team 1,22,108,Closed
+903,2026-04-05T06:48:00,1,3,Security,Low,Unauthorized restricted zone access,CCTV Video Analytics,False,0.0,Fire Dispatch,10,59,Monitoring
+904,2026-04-07T19:47:00,3,39,Medical,Low,Sprained ankle on steps,Spectator App,True,0.88,Crowd Control Team 1,27,19,Responding
+905,2026-04-06T20:58:00,1,10,Facility,Low,Floodlight panel flickering,Sensor Node AI,True,0.93,Maintenance Crew Red,12,29,Responding
+906,2026-04-06T14:53:00,2,29,Fire,Low,Trash bin smoldering,CCTV Video Analytics,False,0.0,Security Patrol Beta,10,30,Monitoring
+907,2026-04-01T21:39:00,1,8,Security,Low,Unauthorized restricted zone access,CCTV Video Analytics,True,0.81,Guest Services Team,19,23,Closed
+908,2026-04-05T14:13:00,1,10,Security,Low,Tailgating at outer perimeter,Gate Supervisor,False,0.0,Fire Dispatch,16,26,Verified
+909,2026-04-01T13:02:00,1,5,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.84,Fire Dispatch,13,107,Responding
+910,2026-04-05T00:06:00,3,31,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,30,81,Monitoring
+911,2026-04-01T15:56:00,1,2,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Guest Services Team,12,90,Reported
+912,2026-04-03T20:30:00,3,33,Suspicious Activity,High,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,7,101,Verified
+913,2026-04-06T01:46:00,2,18,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,True,0.85,Maintenance Crew Red,24,38,Closed
+914,2026-04-04T06:56:00,3,36,Security,Low,Verbal alteration between fans,Spectator App,True,0.8,Fire Dispatch,22,33,Verified
+915,2026-04-07T09:18:00,1,5,Security,Medium,Tailgating at outer perimeter,Steward #1402,False,0.0,Fire Dispatch,6,85,Assigned
+916,2026-04-03T06:46:00,2,30,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,False,0.0,Maintenance Crew Red,5,91,Verified
+917,2026-04-08T08:39:00,1,13,Fire,Low,Small electrical spark in junction box,Spectator App,True,0.85,Maintenance Crew Red,16,15,Resolved
+918,2026-04-02T12:37:00,2,30,Missing Person,Low,Reported missing person event details logged by staff,Gate Supervisor,True,0.85,Fire Dispatch,25,27,Resolved
+919,2026-04-06T14:34:00,1,8,Facility,Low,Floodlight panel flickering,CCTV Video Analytics,False,0.0,Fire Dispatch,27,78,Monitoring
+920,2026-04-03T17:53:00,2,21,Suspicious Activity,High,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.82,Fire Dispatch,2,90,Responding
+921,2026-04-05T13:24:00,2,27,Missing Person,Medium,Reported missing person event details logged by staff,Gate Supervisor,True,0.8,Maintenance Crew Red,24,64,Closed
+922,2026-04-05T06:25:00,1,9,Facility,Medium,Escalator 2 stopped operating,Spectator App,True,0.91,Fire Dispatch,20,33,Monitoring
+923,2026-04-02T08:57:00,1,7,Facility,Low,HVAC failure in West box,Gate Supervisor,False,0.0,Maintenance Crew Red,28,47,Closed
+924,2026-04-05T16:12:00,1,13,Crowd,Low,Slow moving crowd blockages,Sensor Node AI,False,0.0,Guest Services Team,14,39,Assigned
+925,2026-04-05T17:55:00,1,1,Fire,Medium,Small electrical spark in junction box,CCTV Video Analytics,True,0.77,Crowd Control Team 1,17,115,Assigned
+926,2026-04-06T14:26:00,1,16,Missing Person,High,Reported missing person event details logged by staff,Spectator App,True,0.89,Maintenance Crew Red,10,114,Responding
+927,2026-04-04T02:57:00,1,8,Crowd,High,Slow moving crowd blockages,Steward #1402,True,0.95,Maintenance Crew Red,6,67,Assigned
+928,2026-04-08T04:04:00,1,11,Weather,Low,Reported weather event details logged by staff,Sensor Node AI,False,0.0,First Aid Squad A,21,65,Verified
+929,2026-04-05T09:45:00,1,7,Medical,Low,Dehydration in stand,Spectator App,True,0.98,First Aid Squad A,16,48,Verified
+930,2026-04-05T19:43:00,3,37,Facility,Low,Water pipe leak in washroom B,Steward #1402,True,0.91,Crowd Control Team 1,21,40,Verified
+931,2026-04-05T23:48:00,1,6,Crowd,Low,Gate rush attempts,Spectator App,False,0.0,Guest Services Team,6,87,Responding
+932,2026-04-01T14:28:00,2,27,Facility,Low,Water pipe leak in washroom B,CCTV Video Analytics,False,0.0,Crowd Control Team 1,9,46,Assigned
+933,2026-04-06T00:25:00,1,3,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.9,First Aid Squad A,6,64,Monitoring
+934,2026-04-03T01:39:00,2,24,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,CCTV Video Analytics,True,0.8,Maintenance Crew Red,9,39,Responding
+935,2026-04-06T18:24:00,3,37,Fire,Low,Trash bin smoldering,CCTV Video Analytics,True,0.85,Fire Dispatch,29,81,Verified
+936,2026-04-03T06:44:00,3,32,Crowd,Medium,Congestion near turnstiles,Gate Supervisor,True,0.78,Security Patrol Beta,16,49,Closed
+937,2026-04-03T09:44:00,1,16,Weather,Low,Reported weather event details logged by staff,Steward #1402,False,0.0,Guest Services Team,16,58,Reported
+938,2026-04-08T05:18:00,2,23,Missing Person,High,Reported missing person event details logged by staff,Steward #1402,True,0.96,Security Patrol Beta,4,59,Closed
+939,2026-04-02T05:20:00,1,7,Security,Low,Unauthorized restricted zone access,Spectator App,False,0.0,Crowd Control Team 1,26,70,Assigned
+940,2026-04-04T02:04:00,2,23,Facility,Low,Floodlight panel flickering,Sensor Node AI,True,0.81,Guest Services Team,13,83,Resolved
+941,2026-04-06T17:48:00,1,5,Crowd,Low,Slow moving crowd blockages,Spectator App,True,0.85,First Aid Squad A,30,66,Reported
+942,2026-04-04T00:04:00,2,27,Crowd,Medium,Gate rush attempts,Sensor Node AI,True,0.74,Guest Services Team,14,69,Monitoring
+943,2026-04-07T05:29:00,2,21,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,Steward #1402,False,0.0,Security Patrol Beta,24,74,Monitoring
+944,2026-04-04T18:50:00,3,35,Crowd,High,Gate rush attempts,Gate Supervisor,False,0.0,Crowd Control Team 1,9,68,Reported
+945,2026-04-08T03:44:00,3,38,Crowd,Low,Gate rush attempts,Sensor Node AI,True,0.71,First Aid Squad A,14,59,Reported
+946,2026-04-02T16:18:00,2,25,Facility,Medium,Floodlight panel flickering,Sensor Node AI,True,0.81,First Aid Squad A,5,48,Resolved
+947,2026-04-08T03:32:00,2,30,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,Crowd Control Team 1,9,33,Verified
+948,2026-04-02T18:05:00,1,14,Weather,Medium,Reported weather event details logged by staff,Gate Supervisor,True,0.91,Guest Services Team,16,98,Closed
+949,2026-04-06T16:24:00,2,20,Security,High,Tailgating at outer perimeter,Steward #1402,False,0.0,First Aid Squad A,6,68,Responding
+950,2026-04-05T02:26:00,1,3,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Spectator App,False,0.0,Security Patrol Beta,19,113,Closed
+951,2026-04-06T10:19:00,1,8,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,False,0.0,Security Patrol Beta,22,82,Reported
+952,2026-04-02T01:43:00,3,34,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Sensor Node AI,True,0.85,First Aid Squad A,6,52,Responding
+953,2026-04-06T21:23:00,1,14,Facility,Critical,Floodlight panel flickering,Sensor Node AI,False,0.0,Security Patrol Beta,9,19,Reported
+954,2026-04-03T20:46:00,1,1,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,True,0.95,Security Patrol Beta,25,65,Monitoring
+955,2026-04-02T20:53:00,2,28,Medical,Medium,Dehydration in stand,Spectator App,True,0.81,Fire Dispatch,24,69,Resolved
+956,2026-04-02T13:49:00,1,14,Suspicious Activity,Critical,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,Fire Dispatch,7,45,Reported
+957,2026-04-03T05:31:00,2,21,Missing Person,Critical,Reported missing person event details logged by staff,Steward #1402,False,0.0,Guest Services Team,4,25,Resolved
+958,2026-04-04T11:13:00,1,2,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Gate Supervisor,False,0.0,Crowd Control Team 1,13,42,Responding
+959,2026-04-06T08:48:00,3,39,Facility,Low,Water pipe leak in washroom B,Sensor Node AI,False,0.0,Fire Dispatch,24,24,Verified
+960,2026-04-07T15:21:00,2,19,Ticket Fraud,Low,Reported ticket fraud event details logged by staff,Steward #1402,True,0.86,First Aid Squad A,16,84,Closed
+961,2026-04-05T08:49:00,1,10,Medical,Medium,Dehydration in stand,Sensor Node AI,True,0.92,Security Patrol Beta,30,110,Responding
+962,2026-04-06T18:03:00,2,19,Medical,Low,Visitor complaining of chest pain,Spectator App,False,0.0,Guest Services Team,27,108,Assigned
+963,2026-04-05T05:15:00,2,24,Medical,Low,Dehydration in stand,Gate Supervisor,False,0.0,Crowd Control Team 1,14,109,Assigned
+964,2026-04-05T03:47:00,3,37,Security,Low,Verbal alteration between fans,CCTV Video Analytics,False,0.0,First Aid Squad A,23,57,Assigned
+965,2026-04-03T14:47:00,2,18,Facility,Low,HVAC failure in West box,CCTV Video Analytics,True,0.87,Fire Dispatch,28,33,Assigned
+966,2026-04-05T04:25:00,1,6,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,11,40,Responding
+967,2026-04-03T13:19:00,1,4,Crowd,High,Stairwell bottlenecks developing,Sensor Node AI,False,0.0,Maintenance Crew Red,7,71,Monitoring
+968,2026-04-02T16:21:00,3,33,Crowd,Low,Stairwell bottlenecks developing,Gate Supervisor,False,0.0,Crowd Control Team 1,23,111,Verified
+969,2026-04-05T19:55:00,2,30,Security,Low,Unauthorized restricted zone access,Gate Supervisor,False,0.0,Security Patrol Beta,13,92,Monitoring
+970,2026-04-03T07:12:00,2,28,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,25,116,Responding
+971,2026-04-08T07:38:00,2,22,Fire,Medium,Trash bin smoldering,Sensor Node AI,False,0.0,Security Patrol Beta,26,22,Assigned
+972,2026-04-06T00:22:00,1,1,Weather,Low,Reported weather event details logged by staff,Gate Supervisor,True,0.72,Guest Services Team,28,56,Reported
+973,2026-04-08T03:43:00,1,10,Crowd,Low,Congestion near turnstiles,Spectator App,False,0.0,Guest Services Team,21,109,Reported
+974,2026-04-06T14:09:00,1,14,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,False,0.0,Maintenance Crew Red,27,50,Closed
+975,2026-04-08T09:50:00,3,34,Medical,Critical,Heat exhaustion reported,Spectator App,False,0.0,Maintenance Crew Red,7,16,Reported
+976,2026-04-05T13:05:00,2,23,Fire,Low,Smoke detected near food court kitchen,Steward #1402,True,0.93,Fire Dispatch,14,21,Resolved
+977,2026-04-07T04:37:00,1,13,Missing Person,Low,Reported missing person event details logged by staff,Spectator App,False,0.0,Maintenance Crew Red,24,64,Monitoring
+978,2026-04-05T20:28:00,1,14,Fire,Low,Smoke detected near food court kitchen,Steward #1402,False,0.0,Guest Services Team,14,31,Reported
+979,2026-04-04T10:58:00,1,7,Weather,Low,Reported weather event details logged by staff,CCTV Video Analytics,False,0.0,Crowd Control Team 1,7,105,Reported
+980,2026-04-06T00:45:00,3,35,Missing Person,Low,Reported missing person event details logged by staff,Sensor Node AI,True,0.94,Fire Dispatch,11,17,Verified
+981,2026-04-04T04:05:00,3,36,Security,Low,Tailgating at outer perimeter,CCTV Video Analytics,False,0.0,Maintenance Crew Red,16,93,Verified
+982,2026-04-06T03:28:00,3,40,Suspicious Activity,Medium,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,First Aid Squad A,21,36,Verified
+983,2026-04-06T04:03:00,1,4,Missing Person,Medium,Reported missing person event details logged by staff,Spectator App,True,0.8,Guest Services Team,17,72,Verified
+984,2026-04-07T20:06:00,3,40,Weather,Medium,Reported weather event details logged by staff,CCTV Video Analytics,True,0.92,Maintenance Crew Red,8,83,Verified
+985,2026-04-05T01:32:00,1,4,Crowd,Medium,Slow moving crowd blockages,Gate Supervisor,True,0.81,Crowd Control Team 1,24,50,Reported
+986,2026-04-03T05:41:00,2,19,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Guest Services Team,17,54,Verified
+987,2026-04-06T16:49:00,1,3,Fire,Low,Trash bin smoldering,Spectator App,True,0.71,Fire Dispatch,30,20,Assigned
+988,2026-04-02T15:57:00,3,39,Crowd,Medium,Congestion near turnstiles,Sensor Node AI,False,0.0,Crowd Control Team 1,6,55,Assigned
+989,2026-04-05T16:13:00,3,36,Fire,Medium,Small electrical spark in junction box,Steward #1402,True,0.86,Maintenance Crew Red,9,118,Assigned
+990,2026-04-03T02:43:00,1,2,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Sensor Node AI,False,0.0,Fire Dispatch,14,53,Assigned
+991,2026-04-07T07:22:00,2,24,Ticket Fraud,Medium,Reported ticket fraud event details logged by staff,CCTV Video Analytics,True,0.76,First Aid Squad A,19,34,Verified
+992,2026-04-02T15:04:00,1,8,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,False,0.0,Guest Services Team,19,43,Assigned
+993,2026-04-01T19:35:00,1,8,Crowd,Low,Stairwell bottlenecks developing,Spectator App,True,0.74,Maintenance Crew Red,9,83,Reported
+994,2026-04-02T10:29:00,2,18,Crowd,Low,Congestion near turnstiles,Sensor Node AI,False,0.0,Fire Dispatch,5,67,Verified
+995,2026-04-05T14:02:00,2,21,Security,Low,Verbal alteration between fans,Gate Supervisor,False,0.0,Fire Dispatch,7,103,Verified
+996,2026-04-07T12:00:00,2,21,Suspicious Activity,Low,Reported suspicious activity event details logged by staff,Gate Supervisor,True,0.85,Crowd Control Team 1,8,40,Reported
+997,2026-04-05T14:11:00,3,31,Facility,Low,Water pipe leak in washroom B,Sensor Node AI,True,0.71,Fire Dispatch,15,66,Reported
+998,2026-04-02T11:54:00,2,30,Missing Person,High,Reported missing person event details logged by staff,Steward #1402,False,0.0,First Aid Squad A,7,68,Verified
+999,2026-04-06T21:17:00,1,7,Crowd,Medium,Stairwell bottlenecks developing,Gate Supervisor,False,0.0,Crowd Control Team 1,6,16,Assigned
+1000,2026-04-02T01:47:00,1,7,Fire,Medium,Heat alarm triggered in generator room,Sensor Node AI,False,0.0,First Aid Squad A,8,120,Assigned

@@ -1,0 +1,17 @@
+gate_id,stadium_id,name,status,queue_length,wait_time,scan_rate,staff_count,capacity,utilization,risk_score
+1,1,Gate A,Open,10,7,23,8,2000,31,8
+2,1,Gate B,Open,86,8,21,5,2000,43,10
+3,1,Gate C,Open,148,8,15,8,2000,40,20
+4,1,Gate D,Open,14,2,26,10,2000,39,12
+5,1,Gate E,Open,24,3,17,4,2000,51,7
+6,1,Gate F,Open,146,8,19,5,2000,50,10
+7,2,Gate 1,Open,77,6,28,5,2000,54,11
+8,2,Gate 2,Open,89,5,26,7,2000,53,19
+9,2,Gate 3,Open,40,3,22,4,2000,41,5
+10,2,Gate 4,Open,68,6,22,4,2000,24,6
+11,2,Gate 5,Open,68,2,16,10,2000,41,7
+12,3,Gate G1,Open,141,3,23,9,2000,51,11
+13,3,Gate G2,Open,148,3,30,5,2000,50,18
+14,3,Gate G3,Open,58,2,18,9,2000,47,16
+15,3,Gate G4,Open,118,5,29,10,2000,23,8
+16,3,Gate G5,Open,25,5,25,10,2000,26,12

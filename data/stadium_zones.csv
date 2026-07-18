@@ -1,0 +1,41 @@
+zone_id,stadium_id,name,capacity,status,current_count,risk_level,risk_score
+1,1,Narendra Modi Stadium - North Stand 1,7085,Active,0,LOW,25
+2,1,Narendra Modi Stadium - Club Clubhouse 1,8194,Active,0,LOW,18
+3,1,Narendra Modi Stadium - VIP Lounge North 1,4385,Active,0,LOW,23
+4,1,Narendra Modi Stadium - Corporate Box A 1,4843,Active,0,LOW,5
+5,1,Narendra Modi Stadium - Concourse Upper A 1,8649,Active,0,LOW,10
+6,1,Narendra Modi Stadium - South Pavilion 1,8169,Active,0,LOW,15
+7,1,Narendra Modi Stadium - Food Court West 1,4840,Active,0,LOW,11
+8,1,Narendra Modi Stadium - Food Court East 1,10221,Active,0,LOW,15
+9,1,Narendra Modi Stadium - Concourse Lower B 1,3449,Active,0,LOW,17
+10,1,Narendra Modi Stadium - Press Box 1,3405,Active,0,LOW,16
+11,1,Narendra Modi Stadium - High Court Stand 1,7421,Active,0,LOW,6
+12,1,Narendra Modi Stadium - Corporate Box B 1,8419,Active,0,LOW,22
+13,1,Narendra Modi Stadium - Concourse Upper B 1,3628,Active,0,LOW,17
+14,1,Narendra Modi Stadium - West Stand 1,3264,Active,0,LOW,14
+15,1,Narendra Modi Stadium - Grand Stand 1,9208,Active,0,LOW,24
+16,1,Narendra Modi Stadium - South Stand 1,9652,Active,0,LOW,16
+17,2,Eden Gardens - Concourse Lower A 1,4099,Active,0,LOW,25
+18,2,Eden Gardens - Press Box 1,1602,Active,0,LOW,25
+19,2,Eden Gardens - Food Court West 1,1997,Active,0,LOW,12
+20,2,Eden Gardens - Corporate Box B 1,1967,Active,0,LOW,17
+21,2,Eden Gardens - East Stand 1,2388,Active,0,LOW,25
+22,2,Eden Gardens - Medical Center A 1,4045,Active,0,LOW,12
+23,2,Eden Gardens - West Stand 1,4031,Active,0,LOW,6
+24,2,Eden Gardens - Club Clubhouse 1,2227,Active,0,LOW,6
+25,2,Eden Gardens - South Stand 1,4507,Active,0,LOW,17
+26,2,Eden Gardens - Corporate Box A 1,2380,Active,0,LOW,11
+27,2,Eden Gardens - North Stand 1,4936,Active,0,LOW,23
+28,2,Eden Gardens - VIP Lounge North 1,4790,Active,0,LOW,15
+29,2,Eden Gardens - VIP Lounge South 1,2162,Active,0,LOW,20
+30,2,Eden Gardens - South Pavilion 1,2886,Active,0,LOW,25
+31,3,Wankhede Stadium - Concourse Upper B 1,1902,Active,0,LOW,18
+32,3,Wankhede Stadium - South Stand 1,1840,Active,0,LOW,17
+33,3,Wankhede Stadium - Medical Center A 1,1415,Active,0,LOW,19
+34,3,Wankhede Stadium - Corporate Box B 1,1707,Active,0,LOW,22
+35,3,Wankhede Stadium - Concourse Lower A 1,2364,Active,0,LOW,5
+36,3,Wankhede Stadium - Food Court West 1,2006,Active,0,LOW,8
+37,3,Wankhede Stadium - High Court Stand 1,2009,Active,0,LOW,22
+38,3,Wankhede Stadium - Grand Stand 1,2146,Active,0,LOW,25
+39,3,Wankhede Stadium - VIP Lounge South 1,1333,Active,0,LOW,14
+40,3,Wankhede Stadium - Club Clubhouse 1,1520,Active,0,LOW,19

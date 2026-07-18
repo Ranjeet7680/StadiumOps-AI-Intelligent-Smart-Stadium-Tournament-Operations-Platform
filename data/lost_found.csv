@@ -1,0 +1,501 @@
+item_id,type,category,description,location_lost,location_found,time_lost,time_found,status,matched_item_id,match_score
+1,Lost,Electronics,Samsung Galaxy S22 with cracked back,Eden Gardens - South Stand 1,,2026-04-22T10:14:00,,Matched,251,0.92
+2,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Food Court West 1,,2026-05-04T08:34:00,,Matched,252,0.78
+3,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - Food Court East 1,,2026-04-03T11:13:00,,Matched,253,0.91
+4,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-19T20:33:00,,Matched,254,0.84
+5,Lost,Electronics,Red noise-cancelling headphones,Eden Gardens - South Stand 1,,2026-04-17T14:59:00,,Matched,255,0.77
+6,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Grand Stand 1,,2026-04-15T07:11:00,,Matched,256,0.86
+7,Lost,Electronics,Black iPhone 13 in transparent case,Wankhede Stadium - VIP Lounge South 1,,2026-04-23T18:36:00,,Matched,257,0.93
+8,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Wankhede Stadium - Club Clubhouse 1,,2026-05-05T08:40:00,,Matched,258,0.82
+9,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Wankhede Stadium - Concourse Lower A 1,,2026-04-28T21:33:00,,Matched,259,0.87
+10,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - VIP Lounge South 1,,2026-04-25T20:41:00,,Matched,260,0.79
+11,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Concourse Lower A 1,,2026-04-06T00:19:00,,Matched,261,0.9
+12,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Concourse Lower A 1,,2026-04-28T22:55:00,,Matched,262,0.81
+13,Lost,Wallets/IDs,Black cardholder containing credit cards,Eden Gardens - Press Box 1,,2026-04-17T11:25:00,,Matched,263,0.78
+14,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - East Stand 1,,2026-04-23T16:51:00,,Matched,264,0.82
+15,Lost,Wallets/IDs,Indian Passport under name Rohit,Eden Gardens - South Pavilion 1,,2026-04-03T08:04:00,,Matched,265,0.8
+16,Lost,Wallets/IDs,Indian Passport under name Rohit,Eden Gardens - East Stand 1,,2026-04-16T23:16:00,,Matched,266,0.76
+17,Lost,Wallets/IDs,Brown leather wallet with driver's license,Eden Gardens - South Pavilion 1,,2026-04-23T18:37:00,,Matched,267,0.9
+18,Lost,Wallets/IDs,Brown leather wallet with driver's license,Narendra Modi Stadium - Corporate Box B 1,,2026-04-12T09:33:00,,Matched,268,0.94
+19,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - West Stand 1,,2026-04-25T15:49:00,,Matched,269,0.9
+20,Lost,Wallets/IDs,Black cardholder containing credit cards,Eden Gardens - Concourse Lower A 1,,2026-05-01T00:26:00,,Matched,270,0.95
+21,Lost,Electronics,Samsung Galaxy S22 with cracked back,Eden Gardens - VIP Lounge South 1,,2026-04-25T12:49:00,,Matched,271,0.89
+22,Lost,Electronics,Apple Airpods Pro in white case,Narendra Modi Stadium - Corporate Box A 1,,2026-04-17T10:31:00,,Matched,272,0.9
+23,Lost,Keys,Lost/Found keys item near seat area,Wankhede Stadium - Medical Center A 1,,2026-04-24T19:29:00,,Matched,273,0.75
+24,Lost,Other,Lost/Found other item near seat area,Eden Gardens - Press Box 1,,2026-04-03T03:00:00,,Matched,274,0.9
+25,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Corporate Box B 1,,2026-04-09T20:40:00,,Matched,275,0.91
+26,Lost,Other,Lost/Found other item near seat area,Narendra Modi Stadium - Press Box 1,,2026-05-05T20:01:00,,Matched,276,0.89
+27,Lost,Wallets/IDs,Black cardholder containing credit cards,Narendra Modi Stadium - Press Box 1,,2026-04-04T11:58:00,,Matched,277,0.8
+28,Lost,Wallets/IDs,Indian Passport under name Rohit,Narendra Modi Stadium - South Stand 1,,2026-04-06T03:36:00,,Matched,278,0.93
+29,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - North Stand 1,,2026-04-04T21:46:00,,Matched,279,0.84
+30,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Grand Stand 1,,2026-04-19T03:09:00,,Matched,280,0.8
+31,Lost,Electronics,Red noise-cancelling headphones,Eden Gardens - Corporate Box B 1,,2026-04-26T01:59:00,,Matched,281,0.83
+32,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Food Court East 1,,2026-04-24T14:30:00,,Matched,282,0.84
+33,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-12T03:06:00,,Matched,283,0.77
+34,Lost,Other,Lost/Found other item near seat area,Eden Gardens - East Stand 1,,2026-04-11T23:17:00,,Matched,284,0.75
+35,Lost,Wallets/IDs,Brown leather wallet with driver's license,Wankhede Stadium - Food Court West 1,,2026-04-04T17:26:00,,Matched,285,0.87
+36,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - South Stand 1,,2026-04-16T00:31:00,,Matched,286,0.81
+37,Lost,Wallets/IDs,Indian Passport under name Rohit,Eden Gardens - Press Box 1,,2026-04-14T12:18:00,,Matched,287,0.79
+38,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-13T15:22:00,,Matched,288,0.73
+39,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - VIP Lounge North 1,,2026-04-17T07:09:00,,Matched,289,0.79
+40,Lost,Wallets/IDs,Brown leather wallet with driver's license,Wankhede Stadium - Grand Stand 1,,2026-05-02T16:58:00,,Matched,290,0.77
+41,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Grand Stand 1,,2026-04-15T20:36:00,,Matched,291,0.77
+42,Lost,Electronics,Apple Airpods Pro in white case,Wankhede Stadium - Food Court West 1,,2026-04-01T20:11:00,,Matched,292,0.95
+43,Lost,Other,Lost/Found other item near seat area,Eden Gardens - Club Clubhouse 1,,2026-05-04T18:44:00,,Matched,293,0.88
+44,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - Corporate Box A 1,,2026-04-10T14:35:00,,Matched,294,0.95
+45,Lost,Wallets/IDs,Brown leather wallet with driver's license,Eden Gardens - East Stand 1,,2026-04-09T07:47:00,,Matched,295,0.75
+46,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - VIP Lounge North 1,,2026-04-17T18:19:00,,Matched,296,0.83
+47,Lost,Electronics,Black iPhone 13 in transparent case,Wankhede Stadium - Concourse Upper B 1,,2026-05-03T12:19:00,,Matched,297,0.78
+48,Lost,Other,Lost/Found other item near seat area,Eden Gardens - North Stand 1,,2026-04-17T06:03:00,,Matched,298,0.92
+49,Lost,Wallets/IDs,Student ID card in blue lanyard,Eden Gardens - East Stand 1,,2026-04-29T14:13:00,,Matched,299,0.81
+50,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Food Court West 1,,2026-04-23T02:02:00,,Matched,300,0.78
+51,Lost,Other,Lost/Found other item near seat area,Eden Gardens - VIP Lounge North 1,,2026-04-01T21:34:00,,Lost,,0.0
+52,Lost,Electronics,Samsung Galaxy S22 with cracked back,Eden Gardens - VIP Lounge North 1,,2026-04-17T21:02:00,,Lost,,0.0
+53,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - South Pavilion 1,,2026-04-08T01:17:00,,Lost,,0.0
+54,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - West Stand 1,,2026-04-29T10:07:00,,Lost,,0.0
+55,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - VIP Lounge North 1,,2026-04-02T14:46:00,,Lost,,0.0
+56,Lost,Electronics,Apple Airpods Pro in white case,Narendra Modi Stadium - Corporate Box A 1,,2026-04-13T19:05:00,,Lost,,0.0
+57,Lost,Other,Lost/Found other item near seat area,Narendra Modi Stadium - Food Court West 1,,2026-05-02T11:32:00,,Lost,,0.0
+58,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - High Court Stand 1,,2026-04-04T15:30:00,,Lost,,0.0
+59,Lost,Other,Lost/Found other item near seat area,Eden Gardens - South Stand 1,,2026-04-09T19:29:00,,Lost,,0.0
+60,Lost,Keys,Lost/Found keys item near seat area,Wankhede Stadium - VIP Lounge South 1,,2026-04-07T08:03:00,,Lost,,0.0
+61,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-21T14:53:00,,Lost,,0.0
+62,Lost,Wallets/IDs,Indian Passport under name Rohit,Eden Gardens - North Stand 1,,2026-04-06T23:02:00,,Lost,,0.0
+63,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - Food Court West 1,,2026-04-05T02:16:00,,Lost,,0.0
+64,Lost,Wallets/IDs,Brown leather wallet with driver's license,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-15T10:48:00,,Lost,,0.0
+65,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - East Stand 1,,2026-04-19T06:58:00,,Lost,,0.0
+66,Lost,Other,Lost/Found other item near seat area,Wankhede Stadium - South Stand 1,,2026-05-04T10:54:00,,Lost,,0.0
+67,Lost,Wallets/IDs,Brown leather wallet with driver's license,Wankhede Stadium - Concourse Lower A 1,,2026-04-22T17:59:00,,Lost,,0.0
+68,Lost,Electronics,Black iPhone 13 in transparent case,Eden Gardens - Corporate Box A 1,,2026-04-28T09:31:00,,Lost,,0.0
+69,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - South Stand 1,,2026-04-26T01:44:00,,Lost,,0.0
+70,Lost,Other,Lost/Found other item near seat area,Narendra Modi Stadium - Press Box 1,,2026-04-18T17:38:00,,Lost,,0.0
+71,Lost,Wallets/IDs,Student ID card in blue lanyard,Wankhede Stadium - Concourse Lower A 1,,2026-04-17T23:57:00,,Lost,,0.0
+72,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - South Pavilion 1,,2026-04-17T10:19:00,,Lost,,0.0
+73,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - VIP Lounge South 1,,2026-04-11T10:49:00,,Lost,,0.0
+74,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - Press Box 1,,2026-04-06T18:33:00,,Lost,,0.0
+75,Lost,Electronics,Red noise-cancelling headphones,Eden Gardens - Concourse Lower A 1,,2026-04-23T08:25:00,,Lost,,0.0
+76,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Grand Stand 1,,2026-04-07T21:29:00,,Lost,,0.0
+77,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - High Court Stand 1,,2026-04-17T05:00:00,,Lost,,0.0
+78,Lost,Wallets/IDs,Indian Passport under name Rohit,Narendra Modi Stadium - Food Court West 1,,2026-04-16T11:59:00,,Lost,,0.0
+79,Lost,Other,Lost/Found other item near seat area,Eden Gardens - East Stand 1,,2026-04-13T13:23:00,,Lost,,0.0
+80,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - Press Box 1,,2026-04-08T20:02:00,,Lost,,0.0
+81,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Medical Center A 1,,2026-04-05T04:56:00,,Lost,,0.0
+82,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Press Box 1,,2026-04-04T19:12:00,,Lost,,0.0
+83,Lost,Electronics,Red noise-cancelling headphones,Wankhede Stadium - High Court Stand 1,,2026-04-12T23:28:00,,Lost,,0.0
+84,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Concourse Lower A 1,,2026-04-25T05:19:00,,Lost,,0.0
+85,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Food Court West 1,,2026-04-17T02:39:00,,Lost,,0.0
+86,Lost,Electronics,Red noise-cancelling headphones,Eden Gardens - Club Clubhouse 1,,2026-04-23T15:36:00,,Lost,,0.0
+87,Lost,Other,Lost/Found other item near seat area,Narendra Modi Stadium - Corporate Box B 1,,2026-04-01T21:22:00,,Lost,,0.0
+88,Lost,Wallets/IDs,Black cardholder containing credit cards,Narendra Modi Stadium - Grand Stand 1,,2026-04-07T11:55:00,,Lost,,0.0
+89,Lost,Electronics,Apple Airpods Pro in white case,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-28T05:59:00,,Lost,,0.0
+90,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Corporate Box A 1,,2026-04-16T12:27:00,,Lost,,0.0
+91,Lost,Wallets/IDs,Student ID card in blue lanyard,Eden Gardens - North Stand 1,,2026-04-09T01:59:00,,Lost,,0.0
+92,Lost,Wallets/IDs,Brown leather wallet with driver's license,Narendra Modi Stadium - South Pavilion 1,,2026-05-02T01:17:00,,Lost,,0.0
+93,Lost,Electronics,Samsung Galaxy S22 with cracked back,Wankhede Stadium - High Court Stand 1,,2026-04-14T13:46:00,,Lost,,0.0
+94,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - Corporate Box A 1,,2026-04-06T18:20:00,,Lost,,0.0
+95,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Concourse Upper B 1,,2026-04-29T00:09:00,,Lost,,0.0
+96,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - North Stand 1,,2026-04-13T20:10:00,,Lost,,0.0
+97,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-25T01:32:00,,Lost,,0.0
+98,Lost,Electronics,Samsung Galaxy S22 with cracked back,Wankhede Stadium - Grand Stand 1,,2026-04-29T13:10:00,,Lost,,0.0
+99,Lost,Electronics,Red noise-cancelling headphones,Eden Gardens - VIP Lounge South 1,,2026-04-15T23:27:00,,Lost,,0.0
+100,Lost,Keys,Lost/Found keys item near seat area,Wankhede Stadium - Concourse Lower A 1,,2026-04-06T14:12:00,,Lost,,0.0
+101,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - South Stand 1,,2026-04-25T21:54:00,,Lost,,0.0
+102,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - North Stand 1,,2026-04-15T07:14:00,,Lost,,0.0
+103,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Concourse Lower A 1,,2026-04-16T18:46:00,,Lost,,0.0
+104,Lost,Electronics,Red noise-cancelling headphones,Narendra Modi Stadium - Press Box 1,,2026-04-23T22:07:00,,Lost,,0.0
+105,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - VIP Lounge North 1,,2026-04-23T23:30:00,,Lost,,0.0
+106,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - South Stand 1,,2026-05-03T09:48:00,,Lost,,0.0
+107,Lost,Electronics,Apple Airpods Pro in white case,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-11T13:21:00,,Lost,,0.0
+108,Lost,Wallets/IDs,Black cardholder containing credit cards,Wankhede Stadium - Medical Center A 1,,2026-04-16T05:54:00,,Lost,,0.0
+109,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - South Stand 1,,2026-05-06T00:58:00,,Lost,,0.0
+110,Lost,Other,Lost/Found other item near seat area,Eden Gardens - Press Box 1,,2026-05-04T05:09:00,,Lost,,0.0
+111,Lost,Electronics,Apple Airpods Pro in white case,Wankhede Stadium - VIP Lounge South 1,,2026-04-25T23:17:00,,Lost,,0.0
+112,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Wankhede Stadium - Concourse Upper B 1,,2026-04-11T18:40:00,,Lost,,0.0
+113,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-09T22:53:00,,Lost,,0.0
+114,Lost,Other,Lost/Found other item near seat area,Wankhede Stadium - VIP Lounge South 1,,2026-04-24T17:47:00,,Lost,,0.0
+115,Lost,Wallets/IDs,Student ID card in blue lanyard,Wankhede Stadium - Concourse Lower A 1,,2026-04-08T21:10:00,,Lost,,0.0
+116,Lost,Electronics,Samsung Galaxy S22 with cracked back,Narendra Modi Stadium - Corporate Box A 1,,2026-04-25T04:34:00,,Lost,,0.0
+117,Lost,Other,Lost/Found other item near seat area,Wankhede Stadium - Corporate Box B 1,,2026-04-20T18:01:00,,Lost,,0.0
+118,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - South Pavilion 1,,2026-04-05T06:14:00,,Lost,,0.0
+119,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - West Stand 1,,2026-04-10T02:18:00,,Lost,,0.0
+120,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Club Clubhouse 1,,2026-05-02T12:24:00,,Lost,,0.0
+121,Lost,Other,Lost/Found other item near seat area,Narendra Modi Stadium - Press Box 1,,2026-04-03T00:15:00,,Lost,,0.0
+122,Lost,Wallets/IDs,Student ID card in blue lanyard,Narendra Modi Stadium - South Pavilion 1,,2026-05-04T18:18:00,,Lost,,0.0
+123,Lost,Electronics,Red noise-cancelling headphones,Narendra Modi Stadium - Concourse Lower B 1,,2026-04-12T22:31:00,,Lost,,0.0
+124,Lost,Wallets/IDs,Black cardholder containing credit cards,Eden Gardens - Corporate Box B 1,,2026-04-07T18:46:00,,Lost,,0.0
+125,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - Corporate Box A 1,,2026-04-25T05:10:00,,Lost,,0.0
+126,Lost,Wallets/IDs,Student ID card in blue lanyard,Narendra Modi Stadium - VIP Lounge North 1,,2026-05-03T16:29:00,,Lost,,0.0
+127,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Corporate Box B 1,,2026-04-10T11:22:00,,Lost,,0.0
+128,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Club Clubhouse 1,,2026-04-12T10:48:00,,Lost,,0.0
+129,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Medical Center A 1,,2026-04-12T18:17:00,,Lost,,0.0
+130,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Wankhede Stadium - Grand Stand 1,,2026-04-23T05:07:00,,Lost,,0.0
+131,Lost,Other,Lost/Found other item near seat area,Eden Gardens - East Stand 1,,2026-04-08T11:10:00,,Lost,,0.0
+132,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - South Stand 1,,2026-04-15T14:39:00,,Lost,,0.0
+133,Lost,Electronics,Apple Airpods Pro in white case,Narendra Modi Stadium - Press Box 1,,2026-04-11T20:03:00,,Lost,,0.0
+134,Lost,Keys,Lost/Found keys item near seat area,Wankhede Stadium - Club Clubhouse 1,,2026-04-23T17:23:00,,Lost,,0.0
+135,Lost,Electronics,Black iPhone 13 in transparent case,Wankhede Stadium - Grand Stand 1,,2026-04-11T18:25:00,,Lost,,0.0
+136,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - East Stand 1,,2026-04-21T18:58:00,,Lost,,0.0
+137,Lost,Wallets/IDs,Brown leather wallet with driver's license,Eden Gardens - Press Box 1,,2026-04-12T19:35:00,,Lost,,0.0
+138,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - South Stand 1,,2026-04-30T15:34:00,,Lost,,0.0
+139,Lost,Wallets/IDs,Indian Passport under name Rohit,Eden Gardens - Club Clubhouse 1,,2026-04-11T05:57:00,,Lost,,0.0
+140,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Medical Center A 1,,2026-04-23T04:52:00,,Lost,,0.0
+141,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - Food Court West 1,,2026-04-23T09:06:00,,Lost,,0.0
+142,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - Press Box 1,,2026-04-20T20:25:00,,Lost,,0.0
+143,Lost,Wallets/IDs,Black cardholder containing credit cards,Eden Gardens - Corporate Box B 1,,2026-04-20T23:38:00,,Lost,,0.0
+144,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Concourse Lower A 1,,2026-04-13T01:33:00,,Lost,,0.0
+145,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Medical Center A 1,,2026-04-04T07:35:00,,Lost,,0.0
+146,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Medical Center A 1,,2026-04-28T01:24:00,,Lost,,0.0
+147,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Press Box 1,,2026-05-03T06:15:00,,Lost,,0.0
+148,Lost,Wallets/IDs,Indian Passport under name Rohit,Eden Gardens - Concourse Lower A 1,,2026-04-22T02:11:00,,Lost,,0.0
+149,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Food Court West 1,,2026-04-09T08:05:00,,Lost,,0.0
+150,Lost,Other,Lost/Found other item near seat area,Eden Gardens - North Stand 1,,2026-04-27T15:04:00,,Lost,,0.0
+151,Lost,Electronics,Red noise-cancelling headphones,Narendra Modi Stadium - West Stand 1,,2026-04-11T20:25:00,,Lost,,0.0
+152,Lost,Electronics,Red noise-cancelling headphones,Narendra Modi Stadium - VIP Lounge North 1,,2026-05-04T15:29:00,,Lost,,0.0
+153,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - Medical Center A 1,,2026-05-04T02:46:00,,Lost,,0.0
+154,Lost,Other,Lost/Found other item near seat area,Wankhede Stadium - Corporate Box B 1,,2026-05-03T01:10:00,,Lost,,0.0
+155,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - South Stand 1,,2026-04-02T05:05:00,,Lost,,0.0
+156,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - High Court Stand 1,,2026-04-17T00:06:00,,Lost,,0.0
+157,Lost,Wallets/IDs,Black cardholder containing credit cards,Wankhede Stadium - Concourse Lower A 1,,2026-04-16T20:42:00,,Lost,,0.0
+158,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - West Stand 1,,2026-05-04T13:59:00,,Lost,,0.0
+159,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-30T08:39:00,,Lost,,0.0
+160,Lost,Wallets/IDs,Black cardholder containing credit cards,Narendra Modi Stadium - North Stand 1,,2026-04-04T06:23:00,,Lost,,0.0
+161,Lost,Electronics,Black iPhone 13 in transparent case,Eden Gardens - Concourse Lower A 1,,2026-04-11T01:14:00,,Lost,,0.0
+162,Lost,Wallets/IDs,Brown leather wallet with driver's license,Wankhede Stadium - Medical Center A 1,,2026-04-27T03:58:00,,Lost,,0.0
+163,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - Concourse Lower A 1,,2026-05-04T06:17:00,,Lost,,0.0
+164,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Wankhede Stadium - Concourse Lower A 1,,2026-04-20T18:59:00,,Lost,,0.0
+165,Lost,Other,Lost/Found other item near seat area,Narendra Modi Stadium - Food Court West 1,,2026-04-21T07:14:00,,Lost,,0.0
+166,Lost,Wallets/IDs,Brown leather wallet with driver's license,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-16T23:41:00,,Lost,,0.0
+167,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Concourse Upper A 1,,2026-05-02T14:02:00,,Lost,,0.0
+168,Lost,Other,Lost/Found other item near seat area,Eden Gardens - Club Clubhouse 1,,2026-04-30T01:27:00,,Lost,,0.0
+169,Lost,Electronics,Apple Airpods Pro in white case,Narendra Modi Stadium - Food Court East 1,,2026-04-19T04:23:00,,Lost,,0.0
+170,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Corporate Box A 1,,2026-04-18T21:36:00,,Lost,,0.0
+171,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Grand Stand 1,,2026-04-27T09:39:00,,Lost,,0.0
+172,Lost,Electronics,Apple Airpods Pro in white case,Wankhede Stadium - Corporate Box B 1,,2026-04-16T11:56:00,,Lost,,0.0
+173,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - South Pavilion 1,,2026-05-02T14:50:00,,Lost,,0.0
+174,Lost,Other,Lost/Found other item near seat area,Eden Gardens - South Stand 1,,2026-04-25T00:26:00,,Lost,,0.0
+175,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Medical Center A 1,,2026-04-03T14:52:00,,Lost,,0.0
+176,Lost,Wallets/IDs,Black cardholder containing credit cards,Narendra Modi Stadium - Food Court West 1,,2026-04-11T01:17:00,,Lost,,0.0
+177,Lost,Wallets/IDs,Black cardholder containing credit cards,Narendra Modi Stadium - North Stand 1,,2026-05-04T15:09:00,,Lost,,0.0
+178,Lost,Wallets/IDs,Student ID card in blue lanyard,Narendra Modi Stadium - West Stand 1,,2026-04-15T21:07:00,,Lost,,0.0
+179,Lost,Keys,Lost/Found keys item near seat area,Wankhede Stadium - Corporate Box B 1,,2026-04-29T01:30:00,,Lost,,0.0
+180,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Press Box 1,,2026-04-24T11:34:00,,Lost,,0.0
+181,Lost,Keys,Lost/Found keys item near seat area,Wankhede Stadium - Medical Center A 1,,2026-05-04T18:51:00,,Lost,,0.0
+182,Lost,Electronics,Samsung Galaxy S22 with cracked back,Wankhede Stadium - Grand Stand 1,,2026-04-02T15:09:00,,Lost,,0.0
+183,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - Concourse Lower A 1,,2026-04-25T19:28:00,,Lost,,0.0
+184,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Wankhede Stadium - Concourse Lower A 1,,2026-04-21T09:28:00,,Lost,,0.0
+185,Lost,Wallets/IDs,Indian Passport under name Rohit,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-22T21:58:00,,Lost,,0.0
+186,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - West Stand 1,,2026-04-13T01:52:00,,Lost,,0.0
+187,Lost,Other,Lost/Found other item near seat area,Eden Gardens - Medical Center A 1,,2026-05-05T21:39:00,,Lost,,0.0
+188,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-10T09:27:00,,Lost,,0.0
+189,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-13T18:55:00,,Lost,,0.0
+190,Lost,Wallets/IDs,Brown leather wallet with driver's license,Narendra Modi Stadium - South Stand 1,,2026-04-23T09:07:00,,Lost,,0.0
+191,Lost,Wallets/IDs,Brown leather wallet with driver's license,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-09T00:57:00,,Lost,,0.0
+192,Lost,Electronics,Apple Airpods Pro in white case,Eden Gardens - South Pavilion 1,,2026-04-22T20:19:00,,Lost,,0.0
+193,Lost,Wallets/IDs,Student ID card in blue lanyard,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-11T21:53:00,,Lost,,0.0
+194,Lost,Electronics,Red noise-cancelling headphones,Eden Gardens - East Stand 1,,2026-05-01T23:16:00,,Lost,,0.0
+195,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Corporate Box A 1,,2026-04-02T20:05:00,,Lost,,0.0
+196,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - Club Clubhouse 1,,2026-04-26T01:29:00,,Lost,,0.0
+197,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - North Stand 1,,2026-04-25T06:06:00,,Lost,,0.0
+198,Lost,Electronics,Samsung Galaxy S22 with cracked back,Narendra Modi Stadium - Concourse Upper B 1,,2026-05-05T00:05:00,,Lost,,0.0
+199,Lost,Other,Lost/Found other item near seat area,Eden Gardens - Press Box 1,,2026-04-02T01:49:00,,Lost,,0.0
+200,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - Corporate Box A 1,,2026-04-12T22:05:00,,Lost,,0.0
+201,Lost,Wallets/IDs,Brown leather wallet with driver's license,Eden Gardens - Press Box 1,,2026-04-08T03:59:00,,Lost,,0.0
+202,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-18T09:26:00,,Lost,,0.0
+203,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - VIP Lounge South 1,,2026-04-19T08:17:00,,Lost,,0.0
+204,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - South Stand 1,,2026-05-03T04:13:00,,Lost,,0.0
+205,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - North Stand 1,,2026-04-05T16:52:00,,Lost,,0.0
+206,Lost,Wallets/IDs,Student ID card in blue lanyard,Eden Gardens - Food Court West 1,,2026-04-14T19:55:00,,Lost,,0.0
+207,Lost,Other,Lost/Found other item near seat area,Eden Gardens - Concourse Lower A 1,,2026-04-08T16:26:00,,Lost,,0.0
+208,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Medical Center A 1,,2026-04-02T23:02:00,,Lost,,0.0
+209,Lost,Wallets/IDs,Black cardholder containing credit cards,Narendra Modi Stadium - Grand Stand 1,,2026-04-05T01:13:00,,Lost,,0.0
+210,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - South Pavilion 1,,2026-04-14T22:54:00,,Lost,,0.0
+211,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - North Stand 1,,2026-04-09T17:43:00,,Lost,,0.0
+212,Lost,Wallets/IDs,Brown leather wallet with driver's license,Eden Gardens - Concourse Lower A 1,,2026-04-23T09:46:00,,Lost,,0.0
+213,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Medical Center A 1,,2026-04-04T06:14:00,,Lost,,0.0
+214,Lost,Electronics,Apple Airpods Pro in white case,Narendra Modi Stadium - Corporate Box A 1,,2026-04-13T22:41:00,,Lost,,0.0
+215,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Corporate Box B 1,,2026-04-08T08:41:00,,Lost,,0.0
+216,Lost,Wallets/IDs,Black cardholder containing credit cards,Eden Gardens - Press Box 1,,2026-04-28T14:11:00,,Lost,,0.0
+217,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - VIP Lounge South 1,,2026-04-02T05:05:00,,Lost,,0.0
+218,Lost,Apparel,Lost/Found apparel item near seat area,Wankhede Stadium - Medical Center A 1,,2026-04-13T19:34:00,,Lost,,0.0
+219,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Food Court East 1,,2026-04-11T08:12:00,,Lost,,0.0
+220,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Press Box 1,,2026-04-12T15:42:00,,Lost,,0.0
+221,Lost,Other,Lost/Found other item near seat area,Narendra Modi Stadium - Concourse Lower B 1,,2026-04-13T10:39:00,,Lost,,0.0
+222,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Eden Gardens - South Pavilion 1,,2026-04-06T18:08:00,,Lost,,0.0
+223,Lost,Other,Lost/Found other item near seat area,Narendra Modi Stadium - Press Box 1,,2026-04-07T17:10:00,,Lost,,0.0
+224,Lost,Electronics,Apple Airpods Pro in white case,Wankhede Stadium - High Court Stand 1,,2026-04-05T07:20:00,,Lost,,0.0
+225,Lost,Wallets/IDs,Student ID card in blue lanyard,Eden Gardens - Food Court West 1,,2026-04-11T23:20:00,,Lost,,0.0
+226,Lost,Keys,Lost/Found keys item near seat area,Narendra Modi Stadium - Corporate Box A 1,,2026-04-24T17:30:00,,Lost,,0.0
+227,Lost,Electronics,Black iPhone 13 in transparent case,Wankhede Stadium - Medical Center A 1,,2026-04-20T15:26:00,,Lost,,0.0
+228,Lost,Wallets/IDs,Black cardholder containing credit cards,Wankhede Stadium - Club Clubhouse 1,,2026-04-05T17:45:00,,Lost,,0.0
+229,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - VIP Lounge South 1,,2026-04-14T00:47:00,,Lost,,0.0
+230,Lost,Electronics,Black iPhone 13 in transparent case,Eden Gardens - South Pavilion 1,,2026-04-26T13:50:00,,Lost,,0.0
+231,Lost,Wallets/IDs,Brown leather wallet with driver's license,Eden Gardens - VIP Lounge North 1,,2026-04-02T00:16:00,,Lost,,0.0
+232,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - Medical Center A 1,,2026-04-07T03:58:00,,Lost,,0.0
+233,Lost,Other,Lost/Found other item near seat area,Eden Gardens - West Stand 1,,2026-04-09T15:32:00,,Lost,,0.0
+234,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - VIP Lounge South 1,,2026-04-03T08:59:00,,Lost,,0.0
+235,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Wankhede Stadium - Club Clubhouse 1,,2026-05-04T10:56:00,,Lost,,0.0
+236,Lost,Electronics,Samsung Galaxy S22 with cracked back,Narendra Modi Stadium - Food Court West 1,,2026-04-12T14:11:00,,Lost,,0.0
+237,Lost,Apparel,Lost/Found apparel item near seat area,Narendra Modi Stadium - Food Court West 1,,2026-04-16T23:30:00,,Lost,,0.0
+238,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - VIP Lounge North 1,,2026-05-05T06:28:00,,Lost,,0.0
+239,Lost,Electronics,Black iPhone 13 in transparent case,Narendra Modi Stadium - Corporate Box B 1,,2026-04-09T22:38:00,,Lost,,0.0
+240,Lost,Apparel,Lost/Found apparel item near seat area,Eden Gardens - South Pavilion 1,,2026-04-23T00:18:00,,Lost,,0.0
+241,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Narendra Modi Stadium - South Pavilion 1,,2026-05-02T09:50:00,,Lost,,0.0
+242,Lost,Wallets/IDs,Black cardholder containing credit cards,Narendra Modi Stadium - Food Court West 1,,2026-04-16T01:05:00,,Lost,,0.0
+243,Lost,Wallets/IDs,Black cardholder containing credit cards,Narendra Modi Stadium - Corporate Box A 1,,2026-04-28T21:57:00,,Lost,,0.0
+244,Lost,Keys,Lost/Found keys item near seat area,Wankhede Stadium - Corporate Box B 1,,2026-04-18T01:07:00,,Lost,,0.0
+245,Lost,Wallets/IDs,Black cardholder containing credit cards,Eden Gardens - North Stand 1,,2026-04-21T22:45:00,,Lost,,0.0
+246,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Corporate Box A 1,,2026-04-16T20:16:00,,Lost,,0.0
+247,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Club Clubhouse 1,,2026-04-28T03:45:00,,Lost,,0.0
+248,Lost,Wallets/IDs,Indian Passport under name Rohit,Eden Gardens - Medical Center A 1,,2026-04-24T21:21:00,,Lost,,0.0
+249,Lost,Keys,Lost/Found keys item near seat area,Eden Gardens - Club Clubhouse 1,,2026-05-02T12:41:00,,Lost,,0.0
+250,Lost,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,Wankhede Stadium - Corporate Box B 1,,2026-04-12T17:24:00,,Lost,,0.0
+251,Found,Electronics,Samsung Galaxy S22 with cracked screen,,Narendra Modi Stadium - North Stand 1,,2026-04-04T03:00:00,Matched,1,0.92
+252,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-02T05:21:00,Matched,2,0.78
+253,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Concourse Lower B 1,,2026-04-06T18:43:00,Matched,3,0.91
+254,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-18T12:20:00,Matched,4,0.84
+255,Found,Electronics,Red noise-cancelling headphones,,Wankhede Stadium - High Court Stand 1,,2026-04-06T09:30:00,Matched,5,0.77
+256,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-02T05:45:00,Matched,6,0.86
+257,Found,Electronics,Black iPhone 13 in silicone case,,Eden Gardens - VIP Lounge North 1,,2026-04-23T04:01:00,Matched,7,0.93
+258,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Food Court West 1,,2026-04-22T05:31:00,Matched,8,0.82
+259,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-12T04:00:00,Matched,9,0.87
+260,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - South Pavilion 1,,2026-04-05T21:58:00,Matched,10,0.79
+261,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - Food Court West 1,,2026-05-04T20:52:00,Matched,11,0.9
+262,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - Corporate Box B 1,,2026-04-07T22:59:00,Matched,12,0.81
+263,Found,Wallets/IDs,Black cardholder containing credit cards,,Eden Gardens - Corporate Box A 1,,2026-04-29T07:32:00,Matched,13,0.78
+264,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Corporate Box A 1,,2026-04-25T15:43:00,Matched,14,0.82
+265,Found,Wallets/IDs,Indian Passport under name Rohit,,Eden Gardens - Food Court West 1,,2026-04-17T21:33:00,Matched,15,0.8
+266,Found,Wallets/IDs,Indian Passport under name Rohit,,Eden Gardens - South Pavilion 1,,2026-04-25T18:27:00,Matched,16,0.76
+267,Found,Wallets/IDs,Brown leather wallet with driver's license,,Eden Gardens - Corporate Box A 1,,2026-04-25T19:44:00,Matched,17,0.9
+268,Found,Wallets/IDs,Brown leather wallet with driver's license,,Eden Gardens - South Pavilion 1,,2026-04-19T21:54:00,Matched,18,0.94
+269,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - High Court Stand 1,,2026-04-12T06:20:00,Matched,19,0.9
+270,Found,Wallets/IDs,Black cardholder containing credit cards,,Narendra Modi Stadium - North Stand 1,,2026-04-05T12:06:00,Matched,20,0.95
+271,Found,Electronics,Samsung Galaxy S22 with cracked screen,,Narendra Modi Stadium - Grand Stand 1,,2026-04-20T04:44:00,Matched,21,0.89
+272,Found,Electronics,Apple Airpods Pro in white case,,Eden Gardens - South Pavilion 1,,2026-04-29T13:59:00,Matched,22,0.9
+273,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - South Stand 1,,2026-04-13T04:34:00,Matched,23,0.75
+274,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - North Stand 1,,2026-04-10T12:43:00,Matched,24,0.9
+275,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-15T16:32:00,Matched,25,0.91
+276,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-06T13:16:00,Matched,26,0.89
+277,Found,Wallets/IDs,Black cardholder containing credit cards,,Narendra Modi Stadium - Corporate Box A 1,,2026-05-02T00:20:00,Matched,27,0.8
+278,Found,Wallets/IDs,Indian Passport under name Rohit,,Narendra Modi Stadium - High Court Stand 1,,2026-04-20T21:29:00,Matched,28,0.93
+279,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - West Stand 1,,2026-04-24T09:51:00,Matched,29,0.84
+280,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - South Stand 1,,2026-05-02T01:54:00,Matched,30,0.8
+281,Found,Electronics,Red noise-cancelling headphones,,Narendra Modi Stadium - West Stand 1,,2026-04-28T11:17:00,Matched,31,0.83
+282,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-05T19:42:00,Matched,32,0.84
+283,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - Corporate Box B 1,,2026-04-07T19:03:00,Matched,33,0.77
+284,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - North Stand 1,,2026-04-14T14:37:00,Matched,34,0.75
+285,Found,Wallets/IDs,Brown leather wallet with driver's license,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-06T18:19:00,Matched,35,0.87
+286,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - South Stand 1,,2026-04-05T01:37:00,Matched,36,0.81
+287,Found,Wallets/IDs,Indian Passport under name Rohit,,Wankhede Stadium - Concourse Lower A 1,,2026-05-04T04:53:00,Matched,37,0.79
+288,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - Corporate Box A 1,,2026-04-16T04:23:00,Matched,38,0.73
+289,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - North Stand 1,,2026-04-05T12:11:00,Matched,39,0.79
+290,Found,Wallets/IDs,Brown leather wallet with driver's license,,Eden Gardens - East Stand 1,,2026-04-05T18:01:00,Matched,40,0.77
+291,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Wankhede Stadium - Club Clubhouse 1,,2026-04-18T00:15:00,Matched,41,0.77
+292,Found,Electronics,Apple Airpods Pro in white case,,Narendra Modi Stadium - High Court Stand 1,,2026-04-23T01:22:00,Matched,42,0.95
+293,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - Concourse Lower A 1,,2026-04-04T19:56:00,Matched,43,0.88
+294,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - High Court Stand 1,,2026-04-09T06:27:00,Matched,44,0.95
+295,Found,Wallets/IDs,Brown leather wallet with driver's license,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-17T12:20:00,Matched,45,0.75
+296,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Corporate Box A 1,,2026-04-25T12:57:00,Matched,46,0.83
+297,Found,Electronics,Black iPhone 13 in silicone case,,Narendra Modi Stadium - Concourse Lower B 1,,2026-04-13T19:15:00,Matched,47,0.78
+298,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - High Court Stand 1,,2026-04-20T12:23:00,Matched,48,0.92
+299,Found,Wallets/IDs,Student ID card in blue lanyard,,Eden Gardens - Food Court West 1,,2026-04-29T04:06:00,Matched,49,0.81
+300,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-14T10:02:00,Matched,50,0.78
+301,Found,Electronics,Apple Airpods Pro in white case,,Narendra Modi Stadium - Concourse Upper A 1,,2026-05-02T13:49:00,Found,,0.0
+302,Found,Electronics,Apple Airpods Pro in white case,,Wankhede Stadium - Food Court West 1,,2026-04-25T13:19:00,Found,,0.0
+303,Found,Other,Lost/Found other item near seat area,,Eden Gardens - South Pavilion 1,,2026-04-13T21:03:00,Found,,0.0
+304,Found,Electronics,Apple Airpods Pro in white case,,Eden Gardens - East Stand 1,,2026-04-27T00:35:00,Found,,0.0
+305,Found,Electronics,Samsung Galaxy S22 with cracked back,,Eden Gardens - Corporate Box B 1,,2026-04-02T04:50:00,Found,,0.0
+306,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - Food Court West 1,,2026-05-05T00:16:00,Found,,0.0
+307,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - Food Court West 1,,2026-04-16T19:05:00,Found,,0.0
+308,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Corporate Box A 1,,2026-04-25T07:33:00,Found,,0.0
+309,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - VIP Lounge South 1,,2026-04-24T13:52:00,Found,,0.0
+310,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-29T22:39:00,Found,,0.0
+311,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - VIP Lounge North 1,,2026-04-20T02:53:00,Found,,0.0
+312,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - Corporate Box B 1,,2026-05-05T13:00:00,Found,,0.0
+313,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-22T17:51:00,Found,,0.0
+314,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - Press Box 1,,2026-04-25T10:50:00,Found,,0.0
+315,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - Food Court West 1,,2026-04-23T20:06:00,Found,,0.0
+316,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-05T03:19:00,Found,,0.0
+317,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Club Clubhouse 1,,2026-04-28T21:54:00,Found,,0.0
+318,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - South Pavilion 1,,2026-04-05T06:59:00,Found,,0.0
+319,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - Concourse Lower A 1,,2026-04-17T06:31:00,Found,,0.0
+320,Found,Electronics,Red noise-cancelling headphones,,Eden Gardens - Concourse Lower A 1,,2026-04-18T13:18:00,Found,,0.0
+321,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - Press Box 1,,2026-04-17T16:57:00,Found,,0.0
+322,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - Grand Stand 1,,2026-04-09T08:29:00,Found,,0.0
+323,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - South Stand 1,,2026-04-05T00:14:00,Found,,0.0
+324,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - VIP Lounge South 1,,2026-05-06T02:39:00,Found,,0.0
+325,Found,Electronics,Red noise-cancelling headphones,,Narendra Modi Stadium - Grand Stand 1,,2026-04-14T12:01:00,Found,,0.0
+326,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - Club Clubhouse 1,,2026-04-24T06:12:00,Found,,0.0
+327,Found,Wallets/IDs,Indian Passport under name Rohit,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-12T11:47:00,Found,,0.0
+328,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Press Box 1,,2026-04-24T11:27:00,Found,,0.0
+329,Found,Electronics,Apple Airpods Pro in white case,,Eden Gardens - VIP Lounge South 1,,2026-04-22T04:38:00,Found,,0.0
+330,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-12T23:13:00,Found,,0.0
+331,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-28T02:30:00,Found,,0.0
+332,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - High Court Stand 1,,2026-04-16T17:56:00,Found,,0.0
+333,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-18T20:29:00,Found,,0.0
+334,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - Food Court West 1,,2026-04-23T19:27:00,Found,,0.0
+335,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Wankhede Stadium - South Stand 1,,2026-04-28T16:57:00,Found,,0.0
+336,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - South Stand 1,,2026-04-02T11:42:00,Found,,0.0
+337,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Food Court West 1,,2026-04-03T23:37:00,Found,,0.0
+338,Found,Wallets/IDs,Brown leather wallet with driver's license,,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-19T10:58:00,Found,,0.0
+339,Found,Other,Lost/Found other item near seat area,,Eden Gardens - South Stand 1,,2026-04-08T10:26:00,Found,,0.0
+340,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - Grand Stand 1,,2026-05-03T11:25:00,Found,,0.0
+341,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - Food Court West 1,,2026-04-22T09:21:00,Found,,0.0
+342,Found,Wallets/IDs,Black cardholder containing credit cards,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-05T19:22:00,Found,,0.0
+343,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - South Stand 1,,2026-04-17T20:08:00,Found,,0.0
+344,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-30T15:23:00,Found,,0.0
+345,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - Corporate Box B 1,,2026-04-03T00:05:00,Found,,0.0
+346,Found,Electronics,Black iPhone 13 in transparent case,,Eden Gardens - North Stand 1,,2026-04-01T17:24:00,Found,,0.0
+347,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - Food Court West 1,,2026-04-20T18:05:00,Found,,0.0
+348,Found,Wallets/IDs,Indian Passport under name Rohit,,Narendra Modi Stadium - West Stand 1,,2026-04-06T05:45:00,Found,,0.0
+349,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Club Clubhouse 1,,2026-04-14T02:29:00,Found,,0.0
+350,Found,Electronics,Samsung Galaxy S22 with cracked back,,Eden Gardens - North Stand 1,,2026-04-30T19:01:00,Found,,0.0
+351,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Food Court West 1,,2026-05-01T01:31:00,Found,,0.0
+352,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Corporate Box A 1,,2026-04-19T18:17:00,Found,,0.0
+353,Found,Electronics,Samsung Galaxy S22 with cracked back,,Narendra Modi Stadium - Press Box 1,,2026-04-14T18:27:00,Found,,0.0
+354,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - South Pavilion 1,,2026-04-20T00:21:00,Found,,0.0
+355,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - High Court Stand 1,,2026-04-23T15:43:00,Found,,0.0
+356,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Grand Stand 1,,2026-04-25T22:04:00,Found,,0.0
+357,Found,Wallets/IDs,Student ID card in blue lanyard,,Wankhede Stadium - Medical Center A 1,,2026-04-28T15:01:00,Found,,0.0
+358,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - South Stand 1,,2026-05-05T03:16:00,Found,,0.0
+359,Found,Wallets/IDs,Indian Passport under name Rohit,,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-24T00:49:00,Found,,0.0
+360,Found,Wallets/IDs,Black cardholder containing credit cards,,Eden Gardens - VIP Lounge South 1,,2026-04-18T21:17:00,Found,,0.0
+361,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - High Court Stand 1,,2026-04-13T09:14:00,Found,,0.0
+362,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - South Pavilion 1,,2026-04-12T04:40:00,Found,,0.0
+363,Found,Electronics,Red noise-cancelling headphones,,Wankhede Stadium - Club Clubhouse 1,,2026-04-13T19:38:00,Found,,0.0
+364,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - Concourse Upper B 1,,2026-04-19T07:45:00,Found,,0.0
+365,Found,Other,Lost/Found other item near seat area,,Eden Gardens - South Pavilion 1,,2026-04-25T06:48:00,Found,,0.0
+366,Found,Wallets/IDs,Indian Passport under name Rohit,,Eden Gardens - VIP Lounge South 1,,2026-04-30T09:03:00,Found,,0.0
+367,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - Food Court East 1,,2026-04-01T16:14:00,Found,,0.0
+368,Found,Wallets/IDs,Black cardholder containing credit cards,,Eden Gardens - West Stand 1,,2026-04-12T02:54:00,Found,,0.0
+369,Found,Electronics,Samsung Galaxy S22 with cracked back,,Narendra Modi Stadium - Food Court East 1,,2026-04-10T10:01:00,Found,,0.0
+370,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Wankhede Stadium - Medical Center A 1,,2026-05-04T01:52:00,Found,,0.0
+371,Found,Electronics,Red noise-cancelling headphones,,Eden Gardens - East Stand 1,,2026-04-12T16:20:00,Found,,0.0
+372,Found,Wallets/IDs,Student ID card in blue lanyard,,Wankhede Stadium - South Stand 1,,2026-04-06T17:36:00,Found,,0.0
+373,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - Food Court West 1,,2026-04-01T22:27:00,Found,,0.0
+374,Found,Wallets/IDs,Black cardholder containing credit cards,,Wankhede Stadium - Concourse Lower A 1,,2026-04-17T08:56:00,Found,,0.0
+375,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - High Court Stand 1,,2026-04-12T16:52:00,Found,,0.0
+376,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - Food Court West 1,,2026-04-17T19:46:00,Found,,0.0
+377,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Concourse Lower B 1,,2026-04-10T14:33:00,Found,,0.0
+378,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - East Stand 1,,2026-04-19T09:52:00,Found,,0.0
+379,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - South Pavilion 1,,2026-04-28T06:07:00,Found,,0.0
+380,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Medical Center A 1,,2026-04-04T05:14:00,Found,,0.0
+381,Found,Electronics,Apple Airpods Pro in white case,,Narendra Modi Stadium - High Court Stand 1,,2026-04-05T14:16:00,Found,,0.0
+382,Found,Wallets/IDs,Indian Passport under name Rohit,,Wankhede Stadium - Corporate Box B 1,,2026-04-02T09:06:00,Found,,0.0
+383,Found,Electronics,Black iPhone 13 in transparent case,,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-08T02:27:00,Found,,0.0
+384,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-07T15:19:00,Found,,0.0
+385,Found,Electronics,Red noise-cancelling headphones,,Eden Gardens - South Pavilion 1,,2026-04-12T10:13:00,Found,,0.0
+386,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - West Stand 1,,2026-05-05T00:10:00,Found,,0.0
+387,Found,Wallets/IDs,Brown leather wallet with driver's license,,Wankhede Stadium - South Stand 1,,2026-04-04T22:32:00,Found,,0.0
+388,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Corporate Box B 1,,2026-04-15T17:41:00,Found,,0.0
+389,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Press Box 1,,2026-04-04T13:05:00,Found,,0.0
+390,Found,Wallets/IDs,Black cardholder containing credit cards,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-13T09:38:00,Found,,0.0
+391,Found,Electronics,Samsung Galaxy S22 with cracked back,,Eden Gardens - VIP Lounge South 1,,2026-04-17T21:53:00,Found,,0.0
+392,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - VIP Lounge North 1,,2026-04-25T07:07:00,Found,,0.0
+393,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - South Stand 1,,2026-04-13T04:23:00,Found,,0.0
+394,Found,Electronics,Apple Airpods Pro in white case,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-27T11:07:00,Found,,0.0
+395,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - South Stand 1,,2026-04-11T16:38:00,Found,,0.0
+396,Found,Electronics,Samsung Galaxy S22 with cracked back,,Narendra Modi Stadium - West Stand 1,,2026-05-02T12:31:00,Found,,0.0
+397,Found,Wallets/IDs,Black cardholder containing credit cards,,Wankhede Stadium - Corporate Box B 1,,2026-05-02T18:17:00,Found,,0.0
+398,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - South Stand 1,,2026-04-30T06:25:00,Found,,0.0
+399,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Press Box 1,,2026-04-22T23:51:00,Found,,0.0
+400,Found,Electronics,Red noise-cancelling headphones,,Eden Gardens - VIP Lounge South 1,,2026-04-09T15:13:00,Found,,0.0
+401,Found,Electronics,Black iPhone 13 in transparent case,,Narendra Modi Stadium - Food Court West 1,,2026-04-07T18:17:00,Found,,0.0
+402,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Wankhede Stadium - Food Court West 1,,2026-05-01T08:54:00,Found,,0.0
+403,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Food Court West 1,,2026-05-03T00:33:00,Found,,0.0
+404,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - Corporate Box B 1,,2026-04-07T23:22:00,Found,,0.0
+405,Found,Electronics,Red noise-cancelling headphones,,Narendra Modi Stadium - Food Court East 1,,2026-04-29T09:02:00,Found,,0.0
+406,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Corporate Box B 1,,2026-05-02T21:38:00,Found,,0.0
+407,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Press Box 1,,2026-04-22T06:24:00,Found,,0.0
+408,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - VIP Lounge South 1,,2026-04-23T06:02:00,Found,,0.0
+409,Found,Other,Lost/Found other item near seat area,,Eden Gardens - North Stand 1,,2026-04-15T16:35:00,Found,,0.0
+410,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Food Court West 1,,2026-05-02T02:59:00,Found,,0.0
+411,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Wankhede Stadium - Corporate Box B 1,,2026-04-26T19:04:00,Found,,0.0
+412,Found,Electronics,Apple Airpods Pro in white case,,Narendra Modi Stadium - Press Box 1,,2026-04-10T12:45:00,Found,,0.0
+413,Found,Wallets/IDs,Student ID card in blue lanyard,,Eden Gardens - Press Box 1,,2026-04-13T03:28:00,Found,,0.0
+414,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - Food Court West 1,,2026-04-13T17:53:00,Found,,0.0
+415,Found,Electronics,Black iPhone 13 in transparent case,,Wankhede Stadium - Concourse Upper B 1,,2026-04-30T12:32:00,Found,,0.0
+416,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - Concourse Lower A 1,,2026-04-10T10:13:00,Found,,0.0
+417,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Wankhede Stadium - Club Clubhouse 1,,2026-04-30T18:56:00,Found,,0.0
+418,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - Concourse Lower A 1,,2026-04-04T09:38:00,Found,,0.0
+419,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Medical Center A 1,,2026-04-23T01:15:00,Found,,0.0
+420,Found,Electronics,Apple Airpods Pro in white case,,Wankhede Stadium - Food Court West 1,,2026-04-22T00:48:00,Found,,0.0
+421,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - Club Clubhouse 1,,2026-04-09T19:51:00,Found,,0.0
+422,Found,Electronics,Red noise-cancelling headphones,,Narendra Modi Stadium - Concourse Upper B 1,,2026-04-14T11:20:00,Found,,0.0
+423,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - South Stand 1,,2026-04-09T17:31:00,Found,,0.0
+424,Found,Other,Lost/Found other item near seat area,,Eden Gardens - South Pavilion 1,,2026-04-13T19:05:00,Found,,0.0
+425,Found,Electronics,Apple Airpods Pro in white case,,Narendra Modi Stadium - Corporate Box B 1,,2026-05-02T15:13:00,Found,,0.0
+426,Found,Wallets/IDs,Indian Passport under name Rohit,,Eden Gardens - South Pavilion 1,,2026-04-04T03:26:00,Found,,0.0
+427,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Wankhede Stadium - High Court Stand 1,,2026-04-14T08:55:00,Found,,0.0
+428,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - Corporate Box B 1,,2026-04-16T06:51:00,Found,,0.0
+429,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-11T03:27:00,Found,,0.0
+430,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Corporate Box B 1,,2026-05-05T02:19:00,Found,,0.0
+431,Found,Wallets/IDs,Student ID card in blue lanyard,,Eden Gardens - Medical Center A 1,,2026-04-04T18:18:00,Found,,0.0
+432,Found,Other,Lost/Found other item near seat area,,Eden Gardens - North Stand 1,,2026-04-17T09:04:00,Found,,0.0
+433,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - VIP Lounge South 1,,2026-04-14T19:17:00,Found,,0.0
+434,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - Corporate Box A 1,,2026-04-02T03:49:00,Found,,0.0
+435,Found,Electronics,Samsung Galaxy S22 with cracked back,,Wankhede Stadium - High Court Stand 1,,2026-05-05T13:47:00,Found,,0.0
+436,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - VIP Lounge North 1,,2026-04-28T04:10:00,Found,,0.0
+437,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - Concourse Lower A 1,,2026-05-05T12:42:00,Found,,0.0
+438,Found,Wallets/IDs,Student ID card in blue lanyard,,Eden Gardens - South Stand 1,,2026-04-02T06:50:00,Found,,0.0
+439,Found,Wallets/IDs,Brown leather wallet with driver's license,,Narendra Modi Stadium - Food Court East 1,,2026-04-20T15:57:00,Found,,0.0
+440,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-29T23:21:00,Found,,0.0
+441,Found,Electronics,Apple Airpods Pro in white case,,Narendra Modi Stadium - Food Court East 1,,2026-04-23T00:15:00,Found,,0.0
+442,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - West Stand 1,,2026-04-18T16:51:00,Found,,0.0
+443,Found,Wallets/IDs,Indian Passport under name Rohit,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-12T11:18:00,Found,,0.0
+444,Found,Wallets/IDs,Indian Passport under name Rohit,,Eden Gardens - VIP Lounge South 1,,2026-04-07T13:31:00,Found,,0.0
+445,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Wankhede Stadium - Concourse Upper B 1,,2026-04-07T03:37:00,Found,,0.0
+446,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - South Stand 1,,2026-04-10T18:07:00,Found,,0.0
+447,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Club Clubhouse 1,,2026-04-10T07:12:00,Found,,0.0
+448,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Corporate Box A 1,,2026-04-15T05:22:00,Found,,0.0
+449,Found,Apparel,Lost/Found apparel item near seat area,,Eden Gardens - South Pavilion 1,,2026-04-04T18:48:00,Found,,0.0
+450,Found,Other,Lost/Found other item near seat area,,Eden Gardens - West Stand 1,,2026-04-11T06:29:00,Found,,0.0
+451,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - High Court Stand 1,,2026-04-21T17:18:00,Found,,0.0
+452,Found,Electronics,Red noise-cancelling headphones,,Eden Gardens - Corporate Box B 1,,2026-04-04T06:11:00,Found,,0.0
+453,Found,Electronics,Black iPhone 13 in transparent case,,Narendra Modi Stadium - Concourse Upper A 1,,2026-04-06T19:28:00,Found,,0.0
+454,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Corporate Box A 1,,2026-04-07T18:33:00,Found,,0.0
+455,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-25T12:40:00,Found,,0.0
+456,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - High Court Stand 1,,2026-05-02T21:12:00,Found,,0.0
+457,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - High Court Stand 1,,2026-04-19T03:09:00,Found,,0.0
+458,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - South Pavilion 1,,2026-05-02T12:40:00,Found,,0.0
+459,Found,Keys,Lost/Found keys item near seat area,,Narendra Modi Stadium - Food Court West 1,,2026-04-16T21:57:00,Found,,0.0
+460,Found,Other,Lost/Found other item near seat area,,Eden Gardens - Corporate Box B 1,,2026-04-10T20:37:00,Found,,0.0
+461,Found,Other,Lost/Found other item near seat area,,Eden Gardens - West Stand 1,,2026-04-14T15:44:00,Found,,0.0
+462,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - Corporate Box B 1,,2026-04-28T15:06:00,Found,,0.0
+463,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - Medical Center A 1,,2026-05-05T08:44:00,Found,,0.0
+464,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Eden Gardens - VIP Lounge South 1,,2026-04-04T05:49:00,Found,,0.0
+465,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - Medical Center A 1,,2026-04-02T16:44:00,Found,,0.0
+466,Found,Wallets/IDs,Indian Passport under name Rohit,,Narendra Modi Stadium - Corporate Box A 1,,2026-04-11T17:19:00,Found,,0.0
+467,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - Medical Center A 1,,2026-04-08T17:07:00,Found,,0.0
+468,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - West Stand 1,,2026-04-24T00:27:00,Found,,0.0
+469,Found,Wallets/IDs,Brown leather wallet with driver's license,,Wankhede Stadium - Medical Center A 1,,2026-04-02T06:25:00,Found,,0.0
+470,Found,Wallets/IDs,Brown leather wallet with driver's license,,Eden Gardens - West Stand 1,,2026-04-20T20:38:00,Found,,0.0
+471,Found,Electronics,Apple Airpods Pro in white case,,Wankhede Stadium - High Court Stand 1,,2026-05-01T11:48:00,Found,,0.0
+472,Found,Wallets/IDs,Brown leather wallet with driver's license,,Narendra Modi Stadium - Concourse Upper B 1,,2026-05-03T10:12:00,Found,,0.0
+473,Found,Wallets/IDs,Indian Passport under name Rohit,,Narendra Modi Stadium - Corporate Box B 1,,2026-04-04T16:19:00,Found,,0.0
+474,Found,Apparel,Lost/Found apparel item near seat area,,Narendra Modi Stadium - Corporate Box A 1,,2026-04-13T11:04:00,Found,,0.0
+475,Found,Wallets/IDs,Brown leather wallet with driver's license,,Narendra Modi Stadium - South Stand 1,,2026-04-26T18:43:00,Found,,0.0
+476,Found,Electronics,Apple Airpods Pro in white case,,Eden Gardens - North Stand 1,,2026-04-14T23:41:00,Found,,0.0
+477,Found,Apparel,Lost/Found apparel item near seat area,,Wankhede Stadium - Club Clubhouse 1,,2026-04-04T10:12:00,Found,,0.0
+478,Found,Electronics,Red noise-cancelling headphones,,Wankhede Stadium - Club Clubhouse 1,,2026-04-04T14:28:00,Found,,0.0
+479,Found,Electronics,Red noise-cancelling headphones,,Eden Gardens - Corporate Box A 1,,2026-04-17T20:21:00,Found,,0.0
+480,Found,Wallets/IDs,Student ID card in blue lanyard,,Narendra Modi Stadium - Corporate Box B 1,,2026-04-04T08:40:00,Found,,0.0
+481,Found,Wallets/IDs,Student ID card in blue lanyard,,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-18T23:27:00,Found,,0.0
+482,Found,Wallets/IDs,Student ID card in blue lanyard,,Wankhede Stadium - Concourse Lower A 1,,2026-04-10T12:24:00,Found,,0.0
+483,Found,Wallets/IDs,Black cardholder containing credit cards,,Eden Gardens - South Stand 1,,2026-04-16T20:01:00,Found,,0.0
+484,Found,Other,Lost/Found other item near seat area,,Wankhede Stadium - Grand Stand 1,,2026-05-03T05:49:00,Found,,0.0
+485,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Corporate Box A 1,,2026-04-02T08:11:00,Found,,0.0
+486,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - South Stand 1,,2026-05-02T01:20:00,Found,,0.0
+487,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - VIP Lounge North 1,,2026-04-04T13:44:00,Found,,0.0
+488,Found,Keys,Lost/Found keys item near seat area,,Eden Gardens - Press Box 1,,2026-04-18T04:19:00,Found,,0.0
+489,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - North Stand 1,,2026-04-19T11:26:00,Found,,0.0
+490,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - Concourse Lower A 1,,2026-04-06T13:42:00,Found,,0.0
+491,Found,Wallets/IDs,Indian Passport under name Rohit,,Narendra Modi Stadium - High Court Stand 1,,2026-04-07T07:44:00,Found,,0.0
+492,Found,Electronics,Black iPhone 13 in transparent case,,Wankhede Stadium - Food Court West 1,,2026-05-06T00:19:00,Found,,0.0
+493,Found,Other,Lost/Found other item near seat area,,Narendra Modi Stadium - Grand Stand 1,,2026-04-09T04:56:00,Found,,0.0
+494,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - Medical Center A 1,,2026-04-24T10:04:00,Found,,0.0
+495,Found,Wallets/IDs,Indian Passport under name Rohit,,Eden Gardens - East Stand 1,,2026-05-05T05:19:00,Found,,0.0
+496,Found,Electronics,Red noise-cancelling headphones,,Eden Gardens - Corporate Box A 1,,2026-04-06T19:15:00,Found,,0.0
+497,Found,Keys,Lost/Found keys item near seat area,,Wankhede Stadium - Medical Center A 1,,2026-04-20T23:04:00,Found,,0.0
+498,Found,Wallets/IDs,Brown leather wallet with driver's license,,Eden Gardens - East Stand 1,,2026-04-22T06:01:00,Found,,0.0
+499,Found,Electronics,Red noise-cancelling headphones,,Narendra Modi Stadium - Grand Stand 1,,2026-04-29T04:07:00,Found,,0.0
+500,Found,Bags/Backpacks,Lost/Found bags/backpacks item near seat area,,Narendra Modi Stadium - High Court Stand 1,,2026-04-18T16:44:00,Found,,0.0
